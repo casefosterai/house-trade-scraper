@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Project data — don't commit raw downloads or large outputs
+data/raw/
+data/*.zip
+data/*.xml
+
+# Secrets (just in case)
+.env
+.env.local
