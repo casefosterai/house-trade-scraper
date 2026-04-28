@@ -90,6 +90,7 @@ def main() -> None:
     new_trade_records: list[dict] = []
     succeeded = 0
     failures: list[tuple[FilingIndexEntry, str]] = []
+    skip_counts: dict[str, int] = {}
 
     for i, entry in enumerate(targets, start=1):
         prefix = f"[{i}/{len(targets)}]"
@@ -118,19 +119,26 @@ def main() -> None:
             mark_failed(failed, entry.doc_id, reason)
             continue
 
-        # Build records and report
+        # Build records
         records = [_build_trade_record(entry, t, idx) for idx, t in enumerate(result.trades)]
         new_trade_records.extend(records)
         mark_seen(seen, entry.doc_id)
-        # If this filing previously failed and now succeeds, drop it from failed.
         failed.pop(entry.doc_id, None)
         succeeded += 1
 
+        # Tally skip reasons for the run summary
+        skipped_in_filing = 0
+        for t in result.trades:
+            if t.skipped:
+                skipped_in_filing += 1
+                skip_counts[t.skip_reason or "unknown"] = (
+                    skip_counts.get(t.skip_reason or "unknown", 0) + 1
+                )
+
         if records:
-            print(f"   parsed {len(records)} trade(s)")
+            note = f" ({skipped_in_filing} skipped)" if skipped_in_filing else ""
+            print(f"   parsed {len(records)} trade(s){note}")
         else:
-            # Successful parse but no trade rows — unusual but valid (e.g. an
-            # empty PTR filed by mistake). We still mark it seen so we don't retry.
             print("   parsed OK with 0 trade rows")
 
     # --- Persist ---
@@ -153,40 +161,24 @@ def main() -> None:
         f"{len(failures):,} failed, "
         f"{len(new_trade_records):,} trades extracted."
     )
+    if skip_counts:
+        print("\nSkipped (kept in data, excluded from return math):")
+        for reason in sorted(skip_counts):
+            print(f"  {skip_counts[reason]:5d}  {reason}")
     if failures:
         print("\nFailures this run:")
         for entry, reason in failures:
             print(f"  - {entry.display_name} (DocID {entry.doc_id}): {reason}")
 
 
-# ---------------------------------------------------------------------------
-# Argument parsing
-# ---------------------------------------------------------------------------
-
 def _parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Scrape House PTR filings.")
-    parser.add_argument(
-        "--year", type=int, default=date.today().year,
-        help="Filing year to fetch (default: current year)",
-    )
-    parser.add_argument(
-        "--limit", type=int, default=None,
-        help="Cap number of filings processed (default: all unseen)",
-    )
-    parser.add_argument(
-        "--retry-failed", action="store_true",
-        help="Also retry filings in failed_filings.json",
-    )
-    parser.add_argument(
-        "--force", action="store_true",
-        help="Reprocess every PTR including ones in seen_filings.json",
-    )
+    parser.add_argument("--year", type=int, default=date.today().year)
+    parser.add_argument("--limit", type=int, default=None)
+    parser.add_argument("--retry-failed", action="store_true")
+    parser.add_argument("--force", action="store_true")
     return parser.parse_args()
 
-
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
 
 def _select_targets(
     ptrs: list[FilingIndexEntry],
@@ -194,10 +186,8 @@ def _select_targets(
     failed: dict[str, dict],
     args: argparse.Namespace,
 ) -> list[FilingIndexEntry]:
-    """Decide which filings to process based on the flags + state files."""
     if args.force:
         return ptrs
-
     targets: list[FilingIndexEntry] = []
     for entry in ptrs:
         if entry.doc_id in seen:
@@ -213,11 +203,7 @@ def _build_trade_record(
     trade: ParsedTrade,
     idx_within_filing: int,
 ) -> dict:
-    """Combine index metadata + parsed trade into the JSON record we store.
-
-    `idx_within_filing` is the trade's 0-based position in the filing,
-    used to make trade_id unique across rows in a multi-trade PTR.
-    """
+    """Combine index metadata + parsed trade into the JSON record we store."""
     name = display_name(entry.first_name, entry.last_name)
     pid = politician_id(entry.first_name, entry.last_name, entry.state_district)
 
@@ -245,7 +231,12 @@ def _build_trade_record(
         "comments": trade.comments,
         "subholding_of": trade.subholding_of,
 
-        # Stable id for dedup. DocID + index = unique within all of House.
+        # Skip status — trade is kept in the data even if skipped, so the
+        # consuming app can honestly say "N excluded" instead of just losing them.
+        "skipped": trade.skipped,
+        "skip_reason": trade.skip_reason,
+
+        # Stable id for dedup.
         "trade_id": f"{entry.doc_id}-{idx_within_filing}",
     }
 

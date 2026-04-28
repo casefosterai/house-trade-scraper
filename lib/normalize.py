@@ -14,13 +14,16 @@ that matches all of these to the same person.
 
 Strategy:
   - `display_name`: a clean human-readable form, "First Last" (e.g. "Nancy Pelosi").
-  - `politician_id`: a slug derived from last name + first name + state-district,
-    used as the canonical key.
+  - `politician_id`: a slug derived from last name + first name + state-district.
 
 We include the state-district in the ID because two different members can
-genuinely share the same name (e.g. multiple "Smith, John" across history).
-The state-district disambiguates them. If a member changes districts, they'd
-get a new ID — uncommon but not impossible. We can revisit later.
+share the same name. The state-district disambiguates them. If a member
+changes districts, they'd get a new ID — uncommon but not impossible.
+
+Source-data quirks we handle:
+  - Honorifics like "Hon.", "Dr.", "Rep." that should not be part of a name.
+  - Duplicated tokens in the XML, e.g. "Scott Scott" — happens when the
+    Clerk's data entry repeats. We collapse consecutive duplicates.
 """
 
 from __future__ import annotations
@@ -28,35 +31,57 @@ from __future__ import annotations
 import re
 
 # Honorifics and prefixes to strip from first/last names.
+# Stored without trailing periods because we strip them when matching.
 HONORIFICS = {
-    "hon.", "hon", "mr.", "mr", "mrs.", "mrs", "ms.", "ms",
-    "dr.", "dr", "rep.", "rep", "sen.", "sen",
+    "hon", "mr", "mrs", "ms", "dr", "rep", "sen", "rev", "prof",
 }
 
-# Common name suffixes — kept as part of last name when present.
-SUFFIXES = {"jr", "jr.", "sr", "sr.", "ii", "iii", "iv", "v"}
+# Common name suffixes — kept as part of last name when present in the
+# raw last-name field, but stripped from the politician_id slug.
+SUFFIXES = {"jr", "sr", "ii", "iii", "iv", "v"}
+
+
+def _strip_period(token: str) -> str:
+    return token.rstrip(".")
+
+
+def _dedupe_consecutive(tokens: list[str]) -> list[str]:
+    """Collapse runs of identical consecutive tokens, case-insensitive.
+
+    ['Scott', 'Scott', 'Franklin'] -> ['Scott', 'Franklin']
+    ['Scott', 'Mary', 'Scott']     -> ['Scott', 'Mary', 'Scott']  (non-consecutive, kept)
+    """
+    out: list[str] = []
+    for tok in tokens:
+        if out and out[-1].lower() == tok.lower():
+            continue
+        out.append(tok)
+    return out
 
 
 def clean_name_part(s: str) -> str:
-    """Strip honorifics, normalize whitespace, preserve internal punctuation."""
+    """Strip honorifics, dedupe consecutive duplicates, normalize whitespace."""
     if not s:
         return ""
-    cleaned = s.strip()
 
-    # Drop a leading honorific if present.
-    parts = cleaned.split()
-    if parts and parts[0].lower() in HONORIFICS:
-        parts = parts[1:]
+    # Tokenize and clean.
+    tokens = s.strip().split()
 
-    return " ".join(parts).strip()
+    # Drop ALL leading honorifics (in case of "Hon. Dr. Smith" etc.)
+    while tokens and _strip_period(tokens[0]).lower() in HONORIFICS:
+        tokens = tokens[1:]
+
+    # Also drop honorifics anywhere in the middle (rare but happens).
+    tokens = [t for t in tokens if _strip_period(t).lower() not in HONORIFICS]
+
+    # Dedupe consecutive identical tokens.
+    tokens = _dedupe_consecutive(tokens)
+
+    return " ".join(tokens).strip()
 
 
 def display_name(first: str, last: str) -> str:
-    """Build a human-readable 'First Last' name.
-
-    For first name with multiple words (middle names), keep them all
-    so distinct people aren't collapsed. We can shorten for UI later.
-    """
+    """Build a human-readable 'First Last' name."""
     f = clean_name_part(first)
     l = clean_name_part(last)
     if f and l:
@@ -70,22 +95,15 @@ def politician_id(first: str, last: str, state_district: str) -> str:
     Format: "{last_slug}-{first_initial}-{state_district_lower}"
     Example: ('Nancy', 'Pelosi', 'CA11') -> 'pelosi-n-ca11'
 
-    Why first INITIAL not full first name?
-      Because the same person sometimes appears as "Nancy" and sometimes
-      "Nancy P." — using just the initial avoids splitting them.
-
-    Why include state_district?
-      Two members can share a name. State+district disambiguates.
-
-    What if the index has no state_district?
-      We fall back to "unknown" to avoid producing a duplicate-prone ID.
+    Strips suffixes (Jr., III) from the last name component of the slug
+    so "Smith" and "Smith Jr." don't fragment.
     """
     f = clean_name_part(first)
     l = clean_name_part(last)
 
     # Strip suffix from last name if present (e.g. "Smith Jr." -> "Smith")
     last_tokens = l.split()
-    if last_tokens and last_tokens[-1].lower().rstrip(".") in SUFFIXES:
+    if last_tokens and _strip_period(last_tokens[-1]).lower() in SUFFIXES:
         last_tokens = last_tokens[:-1]
     last_clean = " ".join(last_tokens) if last_tokens else l
 

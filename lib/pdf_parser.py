@@ -29,9 +29,24 @@ Three quirks of these PDFs that drive the parser design:
      nulls before parsing so the labels become 'F S: New' which we
      then recognize.
 
+Skip flags:
+
+  Trades that aren't usable for return calculations are KEPT in the
+  output but flagged via `skipped` and `skip_reason`. This way the
+  webapp can honestly say "N options trades excluded" rather than
+  silently losing data. Reasons currently flagged:
+
+    options_not_supported            asset_type == "OP" (correctly tagged)
+    options_misclassified_as_stock   asset_type == "ST" but description
+                                     contains CALL/PUT
+    dividend_reinvestment            description/comments mention dividend
+                                     reinvestment (DRIP)
+    professionally_managed           description/comments mention a
+                                     professionally-managed account
+
 Limitations:
   - Scanned/handwritten PDFs (no embedded text) are flagged
-    parse_failed=True and skipped.
+    parse_failed=True at the filing level and skipped.
   - The Cap. Gains column is a checkbox; we don't reliably extract it.
 """
 
@@ -66,6 +81,8 @@ class ParsedTrade:
     description: str | None
     comments: str | None
     subholding_of: str | None
+    skipped: bool = False
+    skip_reason: str | None = None
     raw: str = ""
 
 
@@ -95,6 +112,43 @@ AMOUNT_PATTERN = re.compile(
 )
 AMOUNT_OPEN_TOP_PATTERN = re.compile(r"\$\s*([\d,]+)\s*\+")
 DATE_PATTERN = re.compile(r"\b(\d{2}/\d{2}/\d{4})\b")
+
+# Patterns for skip-flag detection.
+OPTIONS_KEYWORDS_PATTERN = re.compile(
+    r"\b(call\s*option|put\s*option|\bcall\b|\bput\b)\b",
+    re.IGNORECASE,
+)
+DIVIDEND_REINVESTMENT_PATTERN = re.compile(
+    r"\b(dividend\s*reinvest|drip)\b",
+    re.IGNORECASE,
+)
+# Catch a wide range of phrasings politicians use for non-discretionary
+# managed accounts. Includes:
+#   - "professionally managed", "professional management"
+#   - "managed account"
+#   - "advisor-directed", "advisor directed"
+#   - "discretionary account"
+#   - "blind trust"
+#   - "qualified blind trust" / "QBT"
+#   - "managed by [X]" / "directed by"
+#   - "no input from", "no involvement from"
+#   - "trustee-directed", "trustee directed"
+PROFESSIONALLY_MANAGED_PATTERN = re.compile(
+    r"\b("
+    r"professional(ly|\s+management)|"
+    r"managed\s*account|"
+    r"managed\s*by|"
+    r"advisor[\s-]*directed|"
+    r"discretionary\s*account|"
+    r"(qualified\s*)?blind\s*trust|"
+    r"\bqbt\b|"
+    r"trustee[\s-]*directed|"
+    r"directed\s*by\s*(a|an|the)\s*(trustee|advisor|manager)|"
+    r"no\s*(input|involvement)\s*from|"
+    r"without\s*(my|her|his)\s*(knowledge|input|involvement)"
+    r")\b",
+    re.IGNORECASE,
+)
 
 
 # ---------------------------------------------------------------------------
@@ -142,7 +196,59 @@ def parse_ptr_pdf(pdf_path: Path, doc_id: str | None = None) -> ParsedFiling:
         )
 
     trades = _extract_trades_from_rows(cleaned_rows)
+
+    # Apply skip-flag detection to every trade. We do this AFTER parsing so
+    # all trade fields (description, comments, asset_type, asset_description)
+    # are populated and can be inspected together.
+    for trade in trades:
+        _apply_skip_flags(trade)
+
     return ParsedFiling(doc_id=doc_id, trades=trades)
+
+
+# ---------------------------------------------------------------------------
+# Skip-flag detection
+# ---------------------------------------------------------------------------
+
+def _apply_skip_flags(trade: ParsedTrade) -> None:
+    """Set trade.skipped and trade.skip_reason based on trade content.
+
+    Order matters: we apply the most specific reason first so a trade
+    can have one clear reason rather than ambiguous overlap.
+
+    A trade can be "skipped" but still preserved in the data — the
+    consuming code (compute_returns.py, the webapp) decides whether
+    to count it.
+    """
+    asset_text = (trade.asset_description or "")
+    description = (trade.description or "")
+    comments = (trade.comments or "")
+    combined_notes = f"{description} {comments}"
+
+    # 1. Correctly-tagged options.
+    if trade.asset_type == "OP":
+        trade.skipped = True
+        trade.skip_reason = "options_not_supported"
+        return
+
+    # 2. Options misclassified as stock — asset_type 'ST' but description
+    #    contains CALL/PUT/etc. Some filers tick the wrong box.
+    if trade.asset_type == "ST" and OPTIONS_KEYWORDS_PATTERN.search(asset_text):
+        trade.skipped = True
+        trade.skip_reason = "options_misclassified_as_stock"
+        return
+
+    # 3. Dividend reinvestments — automatic, not a discretionary trade.
+    if DIVIDEND_REINVESTMENT_PATTERN.search(combined_notes):
+        trade.skipped = True
+        trade.skip_reason = "dividend_reinvestment"
+        return
+
+    # 4. Professionally-managed accounts — politician didn't pick the trade.
+    if PROFESSIONALLY_MANAGED_PATTERN.search(combined_notes):
+        trade.skipped = True
+        trade.skip_reason = "professionally_managed"
+        return
 
 
 # ---------------------------------------------------------------------------
