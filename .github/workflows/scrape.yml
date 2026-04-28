@@ -4,13 +4,11 @@ name: Scrape House trades
 on:
   # Cron runs in UTC. Twice a day: 11:00 UTC (~7am ET) and 21:00 UTC (~5pm ET).
   # Cron syntax: "minute hour day-of-month month day-of-week"
-  # The two lines below mean "at 11:00 UTC every day" and "at 21:00 UTC every day".
   schedule:
     - cron: "0 11 * * *"
     - cron: "0 21 * * *"
 
   # Lets you trigger a run manually from the Actions tab on GitHub.
-  # Useful for testing the workflow without waiting for the cron.
   workflow_dispatch:
 
 # Permissions the workflow needs. We need write access to push the
@@ -23,53 +21,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Pull the latest code AND the existing data files (trades.json,
-      #    seen_filings.json, failed_filings.json) from the repo.
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # 2. Install Python 3.11 on the runner.
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          # Caches pip downloads between runs to speed things up.
           cache: "pip"
 
-      # 3. Install our dependencies (requests, pdfplumber).
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 4. Run the scraper. This will:
-      #    - download any new PTR filings,
-      #    - update data/trades.json, data/seen_filings.json, data/failed_filings.json.
-      #    The runner has no PDF cache, so it'll download each new PTR fresh.
-      #    Already-processed DocIDs (from the committed seen_filings.json) are skipped.
+      # Step 1: scrape new filings into trades.json + seen_filings.json + failed_filings.json
       - name: Run scraper
         run: python scripts/fetch_trades.py
 
-      # 5. Commit and push any changes to the JSON files.
-      #    If nothing changed, this step is a no-op (no empty commit).
+      # Step 2: compute returns into returns.json + update price_cache.json
+      # We always run this even if no new filings showed up — it's cheap (most
+      # prices are cached) and current prices change daily, which affects open
+      # positions' mark-to-market returns.
+      - name: Compute returns
+        run: python scripts/compute_returns.py
+
+      # Step 3: commit any changes to the JSON files.
       - name: Commit and push updated data
         run: |
-          # Configure git identity as the GitHub Actions bot.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage only the files we expect to change. We deliberately avoid
-          # `git add -A` so a stray file in the runner doesn't get committed.
-          git add data/trades.json data/seen_filings.json data/failed_filings.json
+          # Stage all the data files the scripts may have modified.
+          git add data/trades.json data/seen_filings.json data/failed_filings.json data/returns.json data/price_cache.json
 
-          # If nothing is staged, exit cleanly.
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          # Build a useful commit message from the diff.
-          # Counts how many trade records are in the new file.
+          # Build a useful commit message.
           NEW_TRADE_COUNT=$(python -c "import json; print(len(json.load(open('data/trades.json'))))")
           NEW_SEEN_COUNT=$(python -c "import json; print(len(json.load(open('data/seen_filings.json'))))")
 
