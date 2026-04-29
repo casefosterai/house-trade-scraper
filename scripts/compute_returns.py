@@ -54,6 +54,7 @@ from lib.positions import (  # noqa: E402
 )
 from lib.prices import get_close_price, get_current_close, load_cache, save_cache  # noqa: E402
 from lib.storage import load_trades  # noqa: E402
+from lib.legislators import load_party_lookup, party_for_state_district  # noqa: E402
 
 OUTPUT_FILENAME = "returns.json"
 
@@ -142,6 +143,10 @@ def main() -> None:
     open_returns = [_open_position_return(o, cache, today) for o in matched.open]
 
     # --- Aggregate per politician ---
+    print("\nLoading party affiliations...")
+    party_lookup = load_party_lookup(data_dir)
+    print(f"  loaded {len(party_lookup)} House member party records")
+
     print("\nAggregating per-politician metrics...")
     politicians = _aggregate(
         trades=trades,
@@ -151,6 +156,7 @@ def main() -> None:
         open_returns=open_returns,
         unmatched_sales=matched.unmatched_sales,
         skipped_breakdown=skipped_breakdown,
+        party_lookup=party_lookup,
     )
     print(f"  {len(politicians):,} politicians with at least one trade record")
 
@@ -293,6 +299,7 @@ def _aggregate(
     open_returns: list[dict],
     unmatched_sales: list[UnmatchedSale],
     skipped_breakdown: dict[str, int],
+    party_lookup: dict[tuple[str, str], str],
 ) -> list[dict]:
     """Produce one record per politician with all metrics."""
     # Build politician metadata from raw trades (so politicians with only
@@ -306,6 +313,7 @@ def _aggregate(
                 "politician_name": t["politician_name"],
                 "chamber": t["chamber"],
                 "state_district": t["state_district"],
+                "party": party_for_state_district(t["state_district"], party_lookup),
             }
 
     # Index the per-position results back to politicians.
