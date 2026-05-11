@@ -310,5 +310,41 @@
   "8220731": {
     "reason": "parse failed: No tables extracted (likely scanned PDF)",
     "last_attempted_at": "2026-04-28T08:44:25"
+  },
+  "9115808": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:36"
+  },
+  "9115809": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:37"
+  },
+  "9115811": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:38"
+  },
+  "9115812": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:38"
+  },
+  "9115813": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:38"
+  },
+  "9115814": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:38"
+  },
+  "9115815": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:39"
+  },
+  "9115816": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:39"
+  },
+  "9115820": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-05-11T18:04:39"
   }
 }
