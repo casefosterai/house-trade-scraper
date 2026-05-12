@@ -2,9 +2,9 @@
   "generated_at": "2026-05-12",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8560,
+    "trade_records": 8561,
     "closed_positions": 1621,
-    "open_positions": 2413,
+    "open_positions": 2414,
     "unmatched_sales": 1974,
     "skipped": {
       "professionally_managed": 272,
@@ -6795,14 +6795,27 @@
       "closed_priceable_count": 0,
       "closed_total_cost_basis_usd": 0,
       "open_mtm_return_disclosure_pct": 8.4,
-      "open_position_count": 1,
-      "open_priceable_count": 1,
-      "open_total_cost_basis_usd": 15000000.0,
+      "open_position_count": 2,
+      "open_priceable_count": 2,
+      "open_total_cost_basis_usd": 15175001.0,
       "unmatched_sale_count": 0,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
       "open_positions": [
+        {
+          "ticker": "AESI",
+          "asset_description": "2000159506 SP Atlas Energy Solutions Inc. Common Stock (AESI) [RS]",
+          "owner": "",
+          "subholding_of": null,
+          "purchase_trade_id": "20034528-0",
+          "purchase_date": "2026-03-30",
+          "purchase_disclosure_date": "2026-04-30",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": 8.4,
+          "mtm_return_transaction_pct": 43.27,
+          "priceable": true
+        },
         {
           "ticker": "AESI",
           "asset_description": "Atlas Energy Solutions Inc. Common Stock (AESI) [RS]",
