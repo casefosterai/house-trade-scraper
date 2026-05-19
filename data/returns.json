@@ -2,15 +2,15 @@
   "generated_at": "2026-05-19",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8579,
+    "trade_records": 8629,
     "closed_positions": 1626,
     "open_positions": 2417,
-    "unmatched_sales": 1978,
+    "unmatched_sales": 1988,
     "skipped": {
       "professionally_managed": 272,
       "options_not_supported": 32
     },
-    "politicians_total": 112,
+    "politicians_total": 113,
     "politicians_on_leaderboard": 20
   },
   "politicians": [
@@ -3311,6 +3311,131 @@
         }
       ],
       "unmatched_sales": []
+    },
+    {
+      "politician_id": "babin-b-tx36",
+      "politician_name": "Brian Babin",
+      "chamber": "house",
+      "state_district": "TX36",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 10,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "WDS",
+          "asset_description": "Woodside Energy Group Limited American Depositary Shares, each representing one Ordinary Share (WDS) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-9",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "WPM",
+          "asset_description": "Wheaton Precious Metals Corp Common Shares (WPM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-8",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "WTSHF",
+          "asset_description": "WESTSHORE TERM INVST CP (WTSHF) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-7",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "SOUHY",
+          "asset_description": "SOUTH32 LTD SPNS/ADR (SOUHY) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-6",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "RRC",
+          "asset_description": "Range Resources Corporation Common Stock (RRC) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-5",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "IAG",
+          "asset_description": "Iamgold Corporation Ordinary Shares (IAG) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-4",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "FIP",
+          "asset_description": "FTAI Infrastructure Inc. - Common Stock (FIP) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-3",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ET",
+          "asset_description": "Energy Transfer LP Common Units (ET) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-2",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ENB",
+          "asset_description": "Enbridge Inc Common Stock (ENB) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-1",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CODI",
+          "asset_description": "D/B/A Compass Diversified Holdings Shares of Beneficial Interest (CODI) [ST]",
+          "owner": "",
+          "subholding_of": "UBS SEP IRA",
+          "sale_trade_id": "20034522-0",
+          "sale_date": "2026-05-05",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        }
+      ]
     },
     {
       "politician_id": "westerman-b-ar04",
