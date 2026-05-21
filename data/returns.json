@@ -2,15 +2,15 @@
   "generated_at": "2026-05-21",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8657,
+    "trade_records": 8660,
     "closed_positions": 1628,
     "open_positions": 2427,
-    "unmatched_sales": 2001,
+    "unmatched_sales": 2003,
     "skipped": {
       "professionally_managed": 272,
       "options_not_supported": 32
     },
-    "politicians_total": 113,
+    "politicians_total": 114,
     "politicians_on_leaderboard": 20
   },
   "politicians": [
@@ -10654,7 +10654,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 13,
+      "unmatched_sale_count": 14,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -10708,6 +10708,16 @@
           "sale_trade_id": "20034359-0",
           "sale_date": "2026-03-25",
           "sale_disclosure_date": "2026-04-14",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "SP",
+          "subholding_of": "Schwab Brokerage Account",
+          "sale_trade_id": "20034547-0",
+          "sale_date": "2026-04-24",
+          "sale_disclosure_date": "2026-05-12",
           "proceeds_usd": 8000.5
         },
         {
@@ -72984,6 +72994,41 @@
       "closed_positions": [],
       "open_positions": [],
       "unmatched_sales": []
+    },
+    {
+      "politician_id": "jacobs-s-ca51",
+      "politician_name": "Sara Jacobs",
+      "chamber": "house",
+      "state_district": "CA51",
+      "party": "D",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 1,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "QCOM",
+          "asset_description": "QUALCOMM Incorporated - Common Stock (QCOM) [ST]",
+          "owner": "",
+          "subholding_of": "Sara J Jacobs 1999 Trust > Merrill Lynch - SJ QCOM",
+          "sale_trade_id": "20034498-0",
+          "sale_date": "2026-05-06",
+          "sale_disclosure_date": "2026-05-06",
+          "proceeds_usd": 750000.5
+        }
+      ]
     },
     {
       "politician_id": "desjarlais-s-tn04",
