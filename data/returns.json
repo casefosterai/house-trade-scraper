@@ -2,16 +2,16 @@
   "generated_at": "2026-05-25",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8661,
-    "closed_positions": 1628,
-    "open_positions": 2427,
-    "unmatched_sales": 2003,
+    "trade_records": 8667,
+    "closed_positions": 1631,
+    "open_positions": 2425,
+    "unmatched_sales": 2005,
     "skipped": {
       "professionally_managed": 272,
       "options_not_supported": 32
     },
     "politicians_total": 114,
-    "politicians_on_leaderboard": 20
+    "politicians_on_leaderboard": 21
   },
   "politicians": [
     {
@@ -26502,12 +26502,22 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 5,
+      "unmatched_sale_count": 6,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
       "open_positions": [],
       "unmatched_sales": [
+        {
+          "ticker": "STT",
+          "asset_description": "State Street Corporation Common Stock (STT) [ST]",
+          "owner": "SP",
+          "subholding_of": "Fidelity Brokerage - MG",
+          "sale_trade_id": "20034622-0",
+          "sale_date": "2026-05-18",
+          "sale_disclosure_date": "2026-05-18",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "STT",
           "asset_description": "State Street Corporation Common Stock (STT) [ST]",
@@ -74540,23 +74550,40 @@
       "chamber": "house",
       "state_district": "NJ07",
       "party": "R",
-      "closed_return_disclosure_pct": 1.7,
-      "closed_return_transaction_pct": 3.42,
-      "closed_win_rate_pct": 50.0,
-      "closed_avg_return_pct": 1.7,
-      "closed_trade_count": 2,
-      "closed_priceable_count": 2,
-      "closed_total_cost_basis_usd": 16001.0,
-      "open_mtm_return_disclosure_pct": 28.88,
-      "open_position_count": 40,
-      "open_priceable_count": 39,
-      "open_total_cost_basis_usd": 336520.0,
-      "unmatched_sale_count": 20,
+      "closed_return_disclosure_pct": 76.47,
+      "closed_return_transaction_pct": 49.77,
+      "closed_win_rate_pct": 80.0,
+      "closed_avg_return_pct": 76.47,
+      "closed_trade_count": 5,
+      "closed_priceable_count": 5,
+      "closed_total_cost_basis_usd": 40002.0,
+      "open_mtm_return_disclosure_pct": 21.31,
+      "open_position_count": 38,
+      "open_priceable_count": 37,
+      "open_total_cost_basis_usd": 320518.0,
+      "unmatched_sale_count": 21,
       "untracked_tickers": [
         "FI"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "NVT",
+          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20030155-1",
+          "sale_trade_id": "20034616-2",
+          "purchase_date": "2025-03-07",
+          "purchase_disclosure_date": "2025-04-04",
+          "sale_date": "2026-04-15",
+          "sale_disclosure_date": "2026-05-17",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 277.95,
+          "return_transaction_pct": 141.0,
+          "priceable": true
+        },
         {
           "ticker": "FCNCA",
           "asset_description": "First Citizens BancShares, Inc. - Class A Common Stock (FCNCA) [ST]",
@@ -74572,6 +74599,40 @@
           "closed_via": "sale",
           "return_disclosure_pct": 4.55,
           "return_transaction_pct": 16.17,
+          "priceable": true
+        },
+        {
+          "ticker": "FCNCA",
+          "asset_description": "First Citizens BancShares, Inc. - Class A Common Stock (FCNCA) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20030275-4",
+          "sale_trade_id": "20034616-1",
+          "purchase_date": "2025-04-11",
+          "purchase_disclosure_date": "2025-05-03",
+          "sale_date": "2026-04-14",
+          "sale_disclosure_date": "2026-05-17",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 5.74,
+          "return_transaction_pct": 20.62,
+          "priceable": true
+        },
+        {
+          "ticker": "ADI",
+          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20026591-2",
+          "sale_trade_id": "20034616-0",
+          "purchase_date": "2024-12-13",
+          "purchase_disclosure_date": "2025-01-06",
+          "sale_date": "2026-04-29",
+          "sale_disclosure_date": "2026-05-17",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 95.28,
+          "return_transaction_pct": 80.42,
           "priceable": true
         },
         {
@@ -74593,6 +74654,84 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "TXN",
+          "asset_description": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20033659-1",
+          "purchase_date": "2025-11-26",
+          "purchase_disclosure_date": "2025-12-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 70.44,
+          "mtm_return_transaction_pct": 88.22,
+          "priceable": true
+        },
+        {
+          "ticker": "TXN",
+          "asset_description": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20034616-4",
+          "purchase_date": "2026-04-14",
+          "purchase_disclosure_date": "2026-05-17",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 2.14,
+          "mtm_return_transaction_pct": 41.99,
+          "priceable": true
+        },
+        {
+          "ticker": "NVT",
+          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20030155-2",
+          "purchase_date": "2025-04-01",
+          "purchase_disclosure_date": "2025-04-04",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 268.22,
+          "mtm_return_transaction_pct": 213.01,
+          "priceable": true
+        },
+        {
+          "ticker": "NVT",
+          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20030275-8",
+          "purchase_date": "2025-04-01",
+          "purchase_disclosure_date": "2025-05-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 178.38,
+          "mtm_return_transaction_pct": 213.01,
+          "priceable": true
+        },
+        {
+          "ticker": "FCNCA",
+          "asset_description": "First Citizens BancShares, Inc. - Class A Common Stock (FCNCA) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20034190-1",
+          "purchase_date": "2026-02-05",
+          "purchase_disclosure_date": "2026-03-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 0.93,
+          "mtm_return_transaction_pct": -6.09,
+          "priceable": true
+        },
+        {
+          "ticker": "ADI",
+          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20030275-1",
+          "purchase_date": "2025-04-24",
+          "purchase_disclosure_date": "2025-05-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 103.0,
+          "mtm_return_transaction_pct": 106.49,
+          "priceable": true
+        },
         {
           "ticker": "LIN",
           "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
@@ -74617,32 +74756,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": 2.98,
           "mtm_return_transaction_pct": 4.46,
-          "priceable": true
-        },
-        {
-          "ticker": "FCNCA",
-          "asset_description": "First Citizens BancShares, Inc. - Class A Common Stock (FCNCA) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20030275-4",
-          "purchase_date": "2025-04-11",
-          "purchase_disclosure_date": "2025-05-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 9.21,
-          "mtm_return_transaction_pct": 20.66,
-          "priceable": true
-        },
-        {
-          "ticker": "FCNCA",
-          "asset_description": "First Citizens BancShares, Inc. - Class A Common Stock (FCNCA) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20034190-1",
-          "purchase_date": "2026-02-05",
-          "purchase_disclosure_date": "2026-03-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 0.93,
-          "mtm_return_transaction_pct": -6.09,
           "priceable": true
         },
         {
@@ -74708,19 +74821,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": -19.36,
           "mtm_return_transaction_pct": -17.09,
-          "priceable": true
-        },
-        {
-          "ticker": "TXN",
-          "asset_description": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20033659-1",
-          "purchase_date": "2025-11-26",
-          "purchase_disclosure_date": "2025-12-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 70.44,
-          "mtm_return_transaction_pct": 88.22,
           "priceable": true
         },
         {
@@ -74971,45 +75071,6 @@
           "priceable": true
         },
         {
-          "ticker": "NVT",
-          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20030155-1",
-          "purchase_date": "2025-03-07",
-          "purchase_disclosure_date": "2025-04-04",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 268.22,
-          "mtm_return_transaction_pct": 202.49,
-          "priceable": true
-        },
-        {
-          "ticker": "NVT",
-          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20030155-2",
-          "purchase_date": "2025-04-01",
-          "purchase_disclosure_date": "2025-04-04",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 268.22,
-          "mtm_return_transaction_pct": 213.01,
-          "priceable": true
-        },
-        {
-          "ticker": "NVT",
-          "asset_description": "nVent Electric plc Ordinary Shares (NVT) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20030275-8",
-          "purchase_date": "2025-04-01",
-          "purchase_disclosure_date": "2025-05-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 178.38,
-          "mtm_return_transaction_pct": 213.01,
-          "priceable": true
-        },
-        {
           "ticker": "ILMN",
           "asset_description": "Illumina, Inc. - Common Stock (ILMN) [ST]",
           "owner": "",
@@ -75047,32 +75108,6 @@
           "mtm_return_disclosure_pct": null,
           "mtm_return_transaction_pct": null,
           "priceable": false
-        },
-        {
-          "ticker": "ADI",
-          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20026591-2",
-          "purchase_date": "2024-12-13",
-          "purchase_disclosure_date": "2025-01-06",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 85.73,
-          "mtm_return_transaction_pct": 86.92,
-          "priceable": true
-        },
-        {
-          "ticker": "ADI",
-          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20030275-1",
-          "purchase_date": "2025-04-24",
-          "purchase_disclosure_date": "2025-05-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 103.0,
-          "mtm_return_transaction_pct": 106.49,
-          "priceable": true
         },
         {
           "ticker": "MDLZ",
@@ -75115,6 +75150,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "TTWO",
+          "asset_description": "Take-Two Interactive Software, Inc. - Common Stock (TTWO) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "sale_trade_id": "20034616-3",
+          "sale_date": "2026-04-21",
+          "sale_disclosure_date": "2026-05-17",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "SPGI",
           "asset_description": "S&P Global Inc. Common Stock (SPGI) [ST]",
