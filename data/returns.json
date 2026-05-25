@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24",
+  "generated_at": "2026-05-25",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 8661,
@@ -35677,17 +35677,18 @@
       "closed_trade_count": 54,
       "closed_priceable_count": 50,
       "closed_total_cost_basis_usd": 400025.0,
-      "open_mtm_return_disclosure_pct": 21.9,
+      "open_mtm_return_disclosure_pct": 21.64,
       "open_position_count": 94,
-      "open_priceable_count": 90,
-      "open_total_cost_basis_usd": 720045.0,
+      "open_priceable_count": 89,
+      "open_total_cost_basis_usd": 712044.0,
       "unmatched_sale_count": 156,
       "untracked_tickers": [
         "BRK.B",
         "FI",
         "IRT",
         "MMM",
-        "SQ"
+        "SQ",
+        "TPH"
       ],
       "excluded_by_reason": {
         "options_not_supported": 17
@@ -37558,9 +37559,9 @@
           "purchase_date": "2025-04-21",
           "purchase_disclosure_date": "2025-05-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 45.58,
-          "mtm_return_transaction_pct": 58.78,
-          "priceable": true
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
         },
         {
           "ticker": "TTNDY",
