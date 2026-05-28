@@ -2,10 +2,10 @@
   "generated_at": "2026-05-28",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8669,
-    "closed_positions": 1631,
+    "trade_records": 8674,
+    "closed_positions": 1632,
     "open_positions": 2425,
-    "unmatched_sales": 2005,
+    "unmatched_sales": 2008,
     "skipped": {
       "professionally_managed": 272,
       "options_not_supported": 32
@@ -34616,23 +34616,57 @@
       "chamber": "house",
       "state_district": "IL01",
       "party": "D",
-      "closed_return_disclosure_pct": -9.46,
-      "closed_return_transaction_pct": -6.93,
-      "closed_win_rate_pct": 23.1,
-      "closed_avg_return_pct": -3.88,
-      "closed_trade_count": 27,
-      "closed_priceable_count": 26,
-      "closed_total_cost_basis_usd": 523512.0,
-      "open_mtm_return_disclosure_pct": 11.05,
+      "closed_return_disclosure_pct": -9.27,
+      "closed_return_transaction_pct": -6.71,
+      "closed_win_rate_pct": 22.2,
+      "closed_avg_return_pct": -3.97,
+      "closed_trade_count": 28,
+      "closed_priceable_count": 27,
+      "closed_total_cost_basis_usd": 556013.0,
+      "open_mtm_return_disclosure_pct": 11.86,
       "open_position_count": 32,
       "open_priceable_count": 32,
       "open_total_cost_basis_usd": 695516.0,
-      "unmatched_sale_count": 16,
+      "unmatched_sale_count": 19,
       "untracked_tickers": [
         "FMX"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "THC",
+          "asset_description": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
+          "owner": "SP",
+          "subholding_of": "Morgan Stanley - Rollover IRA",
+          "purchase_trade_id": "20032232-3",
+          "sale_trade_id": "20034113-10",
+          "purchase_date": "2025-09-03",
+          "purchase_disclosure_date": "2025-10-06",
+          "sale_date": "2026-02-11",
+          "sale_disclosure_date": "2026-03-03",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 21.59,
+          "return_transaction_pct": 21.1,
+          "priceable": true
+        },
+        {
+          "ticker": "THC",
+          "asset_description": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "purchase_trade_id": "20033739-5",
+          "sale_trade_id": "20034519-2",
+          "purchase_date": "2025-12-10",
+          "purchase_disclosure_date": "2026-01-05",
+          "sale_date": "2026-04-20",
+          "sale_disclosure_date": "2026-05-08",
+          "cost_basis_usd": 32500.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -6.22,
+          "return_transaction_pct": -3.14,
+          "priceable": true
+        },
         {
           "ticker": "ORLY",
           "asset_description": "O'Reilly Automotive, Inc. - Common Stock (ORLY) [ST]",
@@ -34699,23 +34733,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": -5.84,
           "return_transaction_pct": 2.0,
-          "priceable": true
-        },
-        {
-          "ticker": "THC",
-          "asset_description": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
-          "owner": "SP",
-          "subholding_of": "Morgan Stanley - Rollover IRA",
-          "purchase_trade_id": "20032232-3",
-          "sale_trade_id": "20034113-10",
-          "purchase_date": "2025-09-03",
-          "purchase_disclosure_date": "2025-10-06",
-          "sale_date": "2026-02-11",
-          "sale_disclosure_date": "2026-03-03",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 21.59,
-          "return_transaction_pct": 21.1,
           "priceable": true
         },
         {
@@ -35095,6 +35112,19 @@
       ],
       "open_positions": [
         {
+          "ticker": "SPG",
+          "asset_description": "Simon Property Group, Inc. Common Stock (SPG) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "purchase_trade_id": "20034519-1",
+          "purchase_date": "2026-04-20",
+          "purchase_disclosure_date": "2026-05-08",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": 1.97,
+          "mtm_return_transaction_pct": -1.06,
+          "priceable": true
+        },
+        {
           "ticker": "BP",
           "asset_description": "BP p.l.c. Common Stock (BP) [ST]",
           "owner": "JT",
@@ -35316,19 +35346,6 @@
           "priceable": true
         },
         {
-          "ticker": "THC",
-          "asset_description": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley Trust Account",
-          "purchase_trade_id": "20033739-5",
-          "purchase_date": "2025-12-10",
-          "purchase_disclosure_date": "2026-01-05",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": -15.3,
-          "mtm_return_transaction_pct": -11.21,
-          "priceable": true
-        },
-        {
           "ticker": "HOOD",
           "asset_description": "Robinhood Markets, Inc. - Class A Common Stock (HOOD) [ST]",
           "owner": "JT",
@@ -35512,6 +35529,36 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "V",
+          "asset_description": "Visa Inc. (V) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "sale_trade_id": "20034519-4",
+          "sale_date": "2026-04-24",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 75000.5
+        },
+        {
+          "ticker": "THC",
+          "asset_description": "Tenet Healthcare Corporation Common Stock (THC) [ST]",
+          "owner": "SP",
+          "subholding_of": "Morgan Stanley - Rollover IRA",
+          "sale_trade_id": "20034519-3",
+          "sale_date": "2026-04-15",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ORLY",
+          "asset_description": "O'Reilly Automotive, Inc. - Common Stock (ORLY) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley SEP IRA",
+          "sale_trade_id": "20034519-0",
+          "sale_date": "2026-04-24",
+          "sale_disclosure_date": "2026-05-08",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "PANW",
           "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
