@@ -2,15 +2,15 @@
   "generated_at": "2026-06-02",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8688,
+    "trade_records": 8695,
     "closed_positions": 1634,
     "open_positions": 2432,
-    "unmatched_sales": 2011,
+    "unmatched_sales": 2018,
     "skipped": {
       "professionally_managed": 272,
       "options_not_supported": 32
     },
-    "politicians_total": 114,
+    "politicians_total": 116,
     "politicians_on_leaderboard": 21
   },
   "politicians": [
@@ -7038,6 +7038,91 @@
       "unmatched_sales": []
     },
     {
+      "politician_id": "menefee-c-tx18",
+      "politician_name": "Christian D. Menefee",
+      "chamber": "house",
+      "state_district": "TX18",
+      "party": "D",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 6,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "PINS",
+          "asset_description": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-4",
+          "sale_date": "2026-02-17",
+          "sale_disclosure_date": "2026-03-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PINS",
+          "asset_description": "Pinterest, Inc. Class A Common Stock (PINS) [ST] vest quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading. quarterly and can only be sold during predetermined trading windows that the company schedules after quarterly earnings calls to prevent insider trading.",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-5",
+          "sale_date": "2026-02-23",
+          "sale_disclosure_date": "2026-02-23",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "PINS",
+          "asset_description": "Pinterest, Inc. Class A Common Stock (PINS) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-3",
+          "sale_date": "2026-05-28",
+          "sale_disclosure_date": "2026-05-28",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "BRK.B",
+          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+          "owner": "JT",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-0",
+          "sale_date": "2026-02-10",
+          "sale_disclosure_date": "2026-02-10",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "BRK.B",
+          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+          "owner": "JT",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-2",
+          "sale_date": "2026-02-10",
+          "sale_disclosure_date": "2026-03-10",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "BRK.B",
+          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20034099-1",
+          "sale_date": "2026-02-10",
+          "sale_disclosure_date": "2026-02-10",
+          "proceeds_usd": 32500.5
+        }
+      ]
+    },
+    {
       "politician_id": "fields-c-la06",
       "politician_name": "Cleo Fields",
       "chamber": "house",
@@ -10799,6 +10884,41 @@
           "sale_date": "2025-02-11",
           "sale_disclosure_date": "2025-02-11",
           "proceeds_usd": 75000.5
+        }
+      ]
+    },
+    {
+      "politician_id": "webster-d-fl11",
+      "politician_name": "Daniel Webster",
+      "chamber": "house",
+      "state_district": "FL11",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 1,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "REXR",
+          "asset_description": "Rexford Industrial Realty, Inc. Common Stock (REXR) [ST]",
+          "owner": "",
+          "subholding_of": "Merrill Lynch Portfolio",
+          "sale_trade_id": "20034562-0",
+          "sale_date": "2025-02-26",
+          "sale_disclosure_date": "2025-03-01",
+          "proceeds_usd": 32500.5
         }
       ]
     },
