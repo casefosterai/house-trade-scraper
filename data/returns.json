@@ -2,9 +2,9 @@
   "generated_at": "2026-06-03",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8695,
+    "trade_records": 8701,
     "closed_positions": 1634,
-    "open_positions": 2432,
+    "open_positions": 2433,
     "unmatched_sales": 2018,
     "skipped": {
       "professionally_managed": 272,
@@ -82075,10 +82075,10 @@
       "closed_trade_count": 7,
       "closed_priceable_count": 7,
       "closed_total_cost_basis_usd": 56004.0,
-      "open_mtm_return_disclosure_pct": 20.46,
-      "open_position_count": 13,
-      "open_priceable_count": 13,
-      "open_total_cost_basis_usd": 104006.0,
+      "open_mtm_return_disclosure_pct": 19.04,
+      "open_position_count": 14,
+      "open_priceable_count": 14,
+      "open_total_cost_basis_usd": 112007.0,
       "unmatched_sale_count": 10,
       "untracked_tickers": [],
       "excluded_by_reason": {},
@@ -82267,6 +82267,19 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": -1.05,
           "mtm_return_transaction_pct": -1.05,
+          "priceable": true
+        },
+        {
+          "ticker": "ARLP",
+          "asset_description": "Alliance Resource Partners, L.P. - Common Units Representing Limited Partnership Interests (ARLP) [ST]",
+          "owner": "",
+          "subholding_of": null,
+          "purchase_trade_id": "20034670-0",
+          "purchase_date": "2026-05-15",
+          "purchase_disclosure_date": "2026-06-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 0.59,
+          "mtm_return_transaction_pct": 1.11,
           "priceable": true
         },
         {
