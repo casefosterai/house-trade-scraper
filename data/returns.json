@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06",
+  "generated_at": "2026-06-07",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 8737,
@@ -47316,10 +47316,10 @@
       "closed_trade_count": 541,
       "closed_priceable_count": 520,
       "closed_total_cost_basis_usd": 4266759.0,
-      "open_mtm_return_disclosure_pct": 15.76,
+      "open_mtm_return_disclosure_pct": 15.43,
       "open_position_count": 146,
-      "open_priceable_count": 140,
-      "open_total_cost_basis_usd": 1933070.0,
+      "open_priceable_count": 139,
+      "open_total_cost_basis_usd": 1900570.0,
       "unmatched_sale_count": 102,
       "untracked_tickers": [
         "ALEX",
@@ -47343,6 +47343,7 @@
         "QLYS",
         "RGEN",
         "SEE",
+        "VRE",
         "X"
       ],
       "excluded_by_reason": {},
@@ -57257,9 +57258,9 @@
           "purchase_date": "2025-06-11",
           "purchase_disclosure_date": "2025-08-13",
           "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": 35.17,
-          "mtm_return_transaction_pct": 27.32,
-          "priceable": true
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
         },
         {
           "ticker": "VALE",
