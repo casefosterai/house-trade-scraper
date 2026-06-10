@@ -2,13 +2,13 @@
   "generated_at": "2026-06-10",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8888,
+    "trade_records": 8893,
     "closed_positions": 1667,
     "open_positions": 2518,
     "unmatched_sales": 2050,
     "skipped": {
-      "options_not_supported": 36,
-      "professionally_managed": 272
+      "professionally_managed": 276,
+      "options_not_supported": 36
     },
     "politicians_total": 117,
     "politicians_on_leaderboard": 21
@@ -76189,7 +76189,7 @@
         "IBIT"
       ],
       "excluded_by_reason": {
-        "professionally_managed": 206
+        "professionally_managed": 210
       },
       "closed_positions": [],
       "open_positions": [
