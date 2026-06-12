@@ -2,10 +2,10 @@
   "generated_at": "2026-06-12",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8897,
+    "trade_records": 8900,
     "closed_positions": 1668,
     "open_positions": 2519,
-    "unmatched_sales": 2051,
+    "unmatched_sales": 2053,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 36
@@ -65794,7 +65794,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 1,
+      "unmatched_sale_count": 3,
       "untracked_tickers": [
         "X"
       ],
@@ -65820,6 +65820,26 @@
       ],
       "open_positions": [],
       "unmatched_sales": [
+        {
+          "ticker": "CMCSA",
+          "asset_description": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
+          "owner": "SP",
+          "subholding_of": "Victoria Kelly Trust ICA",
+          "sale_trade_id": "20034767-1",
+          "sale_date": "2026-05-07",
+          "sale_disclosure_date": "2026-06-10",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "BMY",
+          "asset_description": "Bristol-Myers Squibb Company Common Stock (BMY) [ST]",
+          "owner": "SP",
+          "subholding_of": "Victoria Kelly Trust ICA",
+          "sale_trade_id": "20034767-0",
+          "sale_date": "2026-05-07",
+          "sale_disclosure_date": "2026-06-10",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "HLMEX",
           "asset_description": "Harding Loevner Institutional EM (HLMEX) [OT]",
