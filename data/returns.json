@@ -2,15 +2,15 @@
   "generated_at": "2026-06-17",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8910,
+    "trade_records": 8929,
     "closed_positions": 1669,
-    "open_positions": 2523,
-    "unmatched_sales": 2056,
+    "open_positions": 2525,
+    "unmatched_sales": 2071,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 36
     },
-    "politicians_total": 118,
+    "politicians_total": 119,
     "politicians_on_leaderboard": 21
   },
   "politicians": [
@@ -36412,7 +36412,7 @@
       "open_position_count": 32,
       "open_priceable_count": 32,
       "open_total_cost_basis_usd": 695516.0,
-      "unmatched_sale_count": 19,
+      "unmatched_sale_count": 20,
       "untracked_tickers": [
         "FMX"
       ],
@@ -37314,6 +37314,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "sale_trade_id": "20034688-0",
+          "sale_date": "2026-05-12",
+          "sale_disclosure_date": "2026-06-02",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "V",
           "asset_description": "Visa Inc. (V) [ST]",
@@ -65684,6 +65694,161 @@
       ]
     },
     {
+      "politician_id": "van-epps-m-tn07",
+      "politician_name": "Matthew Robert Van Epps",
+      "chamber": "house",
+      "state_district": "TN07",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 13,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-9",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "META",
+          "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-8",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-7",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "INTC",
+          "asset_description": "Intel Corporation - Common Stock (INTC) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-6",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GEV",
+          "asset_description": "GE Vernova Inc. Common Stock (GEV) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-5",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GE",
+          "asset_description": "GE Aerospace Common Stock (GE) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-4",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "XOM",
+          "asset_description": "Exxon Mobil Corporation Common Stock (XOM) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-3",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "AAPL",
+          "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-2",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "TPR",
+          "asset_description": "Tapestry, Inc. Common Stock (TPR) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-12",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "LUV",
+          "asset_description": "Southwest Airlines Company Common Stock (LUV) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-11",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-10",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "AMZN",
+          "asset_description": "Amazon.com, Inc. - Common Stock (AMZN) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-1",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "Schwab One Account",
+          "sale_trade_id": "20034807-0",
+          "sale_date": "2026-06-16",
+          "sale_disclosure_date": "2026-06-17",
+          "proceeds_usd": 8000.5
+        }
+      ]
+    },
+    {
       "politician_id": "miller-m-oh07",
       "politician_name": "Max Miller",
       "chamber": "house",
@@ -67379,11 +67544,11 @@
       "closed_trade_count": 2,
       "closed_priceable_count": 1,
       "closed_total_cost_basis_usd": 32500.0,
-      "open_mtm_return_disclosure_pct": -2.46,
-      "open_position_count": 9,
-      "open_priceable_count": 8,
-      "open_total_cost_basis_usd": 186504.0,
-      "unmatched_sale_count": 13,
+      "open_mtm_return_disclosure_pct": -1.79,
+      "open_position_count": 11,
+      "open_priceable_count": 10,
+      "open_total_cost_basis_usd": 202505.0,
+      "unmatched_sale_count": 14,
       "untracked_tickers": [
         "NFLX"
       ],
@@ -67436,6 +67601,32 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": 23.74,
           "mtm_return_transaction_pct": 21.5,
+          "priceable": true
+        },
+        {
+          "ticker": "TSM",
+          "asset_description": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+          "owner": "SP",
+          "subholding_of": "LIVTR",
+          "purchase_trade_id": "20034740-2",
+          "purchase_date": "2026-05-08",
+          "purchase_disclosure_date": "2026-06-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 1.28,
+          "mtm_return_transaction_pct": 5.43,
+          "priceable": true
+        },
+        {
+          "ticker": "AXP",
+          "asset_description": "American Express Company Common Stock (AXP) [ST]",
+          "owner": "SP",
+          "subholding_of": "LIVTR",
+          "purchase_trade_id": "20034740-1",
+          "purchase_date": "2026-05-08",
+          "purchase_disclosure_date": "2026-06-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 10.81,
+          "mtm_return_transaction_pct": 8.74,
           "priceable": true
         },
         {
@@ -67545,6 +67736,36 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "ACN",
+          "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+          "owner": "SP",
+          "subholding_of": "LIVTR",
+          "sale_trade_id": "20032052-0",
+          "sale_date": "2025-08-19",
+          "sale_disclosure_date": "2025-09-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ACN",
+          "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+          "owner": "SP",
+          "subholding_of": "LIVTR",
+          "sale_trade_id": "20032204-0",
+          "sale_date": "2025-09-12",
+          "sale_disclosure_date": "2025-10-02",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ACN",
+          "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
+          "owner": "SP",
+          "subholding_of": "LIVTR",
+          "sale_trade_id": "20034740-0",
+          "sale_date": "2026-05-08",
+          "sale_disclosure_date": "2026-06-08",
+          "proceeds_usd": 32500.5
+        },
+        {
           "ticker": "PG",
           "asset_description": "Procter & Gamble Company (PG) [ST]",
           "owner": "SP",
@@ -67633,26 +67854,6 @@
           "sale_date": "2025-10-10",
           "sale_disclosure_date": "2025-11-05",
           "proceeds_usd": 32500.5
-        },
-        {
-          "ticker": "ACN",
-          "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
-          "owner": "SP",
-          "subholding_of": "LIVTR",
-          "sale_trade_id": "20032052-0",
-          "sale_date": "2025-08-19",
-          "sale_disclosure_date": "2025-09-08",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "ACN",
-          "asset_description": "Accenture plc Class A Ordinary Shares (ACN) [ST]",
-          "owner": "SP",
-          "subholding_of": "LIVTR",
-          "sale_trade_id": "20032204-0",
-          "sale_date": "2025-09-12",
-          "sale_disclosure_date": "2025-10-02",
-          "proceeds_usd": 8000.5
         },
         {
           "ticker": "TMO",
