@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20",
+  "generated_at": "2026-06-21",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 8934,
@@ -15053,10 +15053,10 @@
       "closed_trade_count": 175,
       "closed_priceable_count": 160,
       "closed_total_cost_basis_usd": 1452577.0,
-      "open_mtm_return_disclosure_pct": 10.41,
+      "open_mtm_return_disclosure_pct": 10.39,
       "open_position_count": 597,
-      "open_priceable_count": 582,
-      "open_total_cost_basis_usd": 5963292.0,
+      "open_priceable_count": 583,
+      "open_total_cost_basis_usd": 5971292.0,
       "unmatched_sale_count": 176,
       "untracked_tickers": [
         "AZSEY",
@@ -15079,8 +15079,7 @@
         "RNMBF",
         "SQ",
         "SWTX",
-        "THR",
-        "TKO"
+        "THR"
       ],
       "excluded_by_reason": {
         "options_not_supported": 2
@@ -24624,9 +24623,9 @@
           "purchase_date": "2025-11-26",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": null,
-          "mtm_return_transaction_pct": null,
-          "priceable": false
+          "mtm_return_disclosure_pct": -3.88,
+          "mtm_return_transaction_pct": 3.6,
+          "priceable": true
         },
         {
           "ticker": "TCTZF",
