@@ -2,10 +2,10 @@
   "generated_at": "2026-06-25",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 8969,
+    "trade_records": 8970,
     "closed_positions": 1673,
     "open_positions": 2526,
-    "unmatched_sales": 2071,
+    "unmatched_sales": 2072,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 38
@@ -13966,7 +13966,7 @@
       "open_position_count": 5,
       "open_priceable_count": 5,
       "open_total_cost_basis_usd": 40002.0,
-      "unmatched_sale_count": 15,
+      "unmatched_sale_count": 16,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -14056,6 +14056,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "GD",
+          "asset_description": "General Dynamics Corporation Common Stock (GD) [ST]",
+          "owner": "",
+          "subholding_of": "CETERA",
+          "sale_trade_id": "20034851-0",
+          "sale_date": "2026-06-10",
+          "sale_disclosure_date": "2026-06-11",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "TMO",
           "asset_description": "Thermo Fisher Scientific Inc Common Stock (TMO) [ST]",
