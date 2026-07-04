@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03",
+  "generated_at": "2026-07-04",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 9041,
@@ -37188,7 +37188,7 @@
       "closed_trade_count": 28,
       "closed_priceable_count": 27,
       "closed_total_cost_basis_usd": 556013.0,
-      "open_mtm_return_disclosure_pct": 15.92,
+      "open_mtm_return_disclosure_pct": 16.23,
       "open_position_count": 32,
       "open_priceable_count": 32,
       "open_total_cost_basis_usd": 695516.0,
@@ -37802,8 +37802,8 @@
           "purchase_date": "2026-02-17",
           "purchase_disclosure_date": "2026-03-03",
           "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": 21.71,
-          "mtm_return_transaction_pct": 20.84,
+          "mtm_return_disclosure_pct": 24.31,
+          "mtm_return_transaction_pct": 23.42,
           "priceable": true
         },
         {
@@ -37815,8 +37815,8 @@
           "purchase_date": "2026-02-17",
           "purchase_disclosure_date": "2026-03-03",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 21.71,
-          "mtm_return_transaction_pct": 20.84,
+          "mtm_return_disclosure_pct": 24.31,
+          "mtm_return_transaction_pct": 23.42,
           "priceable": true
         },
         {
@@ -44407,7 +44407,7 @@
       "closed_trade_count": 56,
       "closed_priceable_count": 53,
       "closed_total_cost_basis_usd": 424026.0,
-      "open_mtm_return_disclosure_pct": 18.09,
+      "open_mtm_return_disclosure_pct": 18.24,
       "open_position_count": 21,
       "open_priceable_count": 20,
       "open_total_cost_basis_usd": 160010.0,
@@ -45383,8 +45383,8 @@
           "purchase_date": "2025-07-18",
           "purchase_disclosure_date": "2025-08-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 42.89,
-          "mtm_return_transaction_pct": 47.39,
+          "mtm_return_disclosure_pct": 45.94,
+          "mtm_return_transaction_pct": 50.53,
           "priceable": true
         },
         {
