@@ -2,10 +2,10 @@
   "generated_at": "2026-07-09",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9075,
+    "trade_records": 9080,
     "closed_positions": 1700,
-    "open_positions": 2566,
-    "unmatched_sales": 2085,
+    "open_positions": 2568,
+    "unmatched_sales": 2087,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 38
@@ -37100,11 +37100,11 @@
       "closed_trade_count": 1,
       "closed_priceable_count": 1,
       "closed_total_cost_basis_usd": 8000.0,
-      "open_mtm_return_disclosure_pct": 0.22,
-      "open_position_count": 9,
-      "open_priceable_count": 9,
-      "open_total_cost_basis_usd": 72004.0,
-      "unmatched_sale_count": 1,
+      "open_mtm_return_disclosure_pct": -1.03,
+      "open_position_count": 10,
+      "open_priceable_count": 10,
+      "open_total_cost_basis_usd": 80005.0,
+      "unmatched_sale_count": 2,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -37127,6 +37127,19 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "SPCX",
+          "asset_description": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
+          "owner": "SP",
+          "subholding_of": "Merrill Lynch Brokerage Account",
+          "purchase_trade_id": "20034942-1",
+          "purchase_date": "2026-06-15",
+          "purchase_disclosure_date": "2026-06-30",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -12.23,
+          "mtm_return_transaction_pct": -22.1,
+          "priceable": true
+        },
         {
           "ticker": "META",
           "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
@@ -37246,6 +37259,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "BLK",
+          "asset_description": "BlackRock, Inc. Common Stock (BLK) [ST]",
+          "owner": "SP",
+          "subholding_of": "Merrill Lynch SEP IRA",
+          "sale_trade_id": "20034942-0",
+          "sale_date": "2026-07-07",
+          "sale_disclosure_date": "2026-07-07",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "DELL",
           "asset_description": "Dell Technologies Inc. Class C Common Stock (DELL) [ST]",
@@ -69425,10 +69448,10 @@
       "closed_trade_count": 7,
       "closed_priceable_count": 7,
       "closed_total_cost_basis_usd": 56004.0,
-      "open_mtm_return_disclosure_pct": 18.23,
-      "open_position_count": 27,
-      "open_priceable_count": 27,
-      "open_total_cost_basis_usd": 216014.0,
+      "open_mtm_return_disclosure_pct": 18.15,
+      "open_position_count": 28,
+      "open_priceable_count": 28,
+      "open_total_cost_basis_usd": 224014.0,
       "unmatched_sale_count": 27,
       "untracked_tickers": [],
       "excluded_by_reason": {
@@ -69556,6 +69579,19 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "MCK",
+          "asset_description": "2000143044 McKesson Corporation Common Stock (MCK) [ST] which I have no authority to exercise control over or influence the financial interests held by the portfolio. The assets of the portfolio are widely diversified, and all investment decisions are made solely by the independent manager, without my input or direction.",
+          "owner": "",
+          "subholding_of": null,
+          "purchase_trade_id": "20034224-0",
+          "purchase_date": "2025-01-07",
+          "purchase_disclosure_date": "2025-08-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 15.87,
+          "mtm_return_transaction_pct": 38.65,
+          "priceable": true
+        },
         {
           "ticker": "PEG",
           "asset_description": "Public Service Enterprise Group Incorporated Common Stock (PEG) [ST]",
@@ -77937,7 +77973,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 15,
+      "unmatched_sale_count": 16,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -77951,6 +77987,16 @@
           "sale_trade_id": "20034552-0",
           "sale_date": "2026-04-21",
           "sale_disclosure_date": "2026-05-13",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "FLL",
+          "asset_description": "Full House Resorts, Inc. - Common Stock (FLL) [ST]",
+          "owner": "",
+          "subholding_of": "Fidelity Investments IRA",
+          "sale_trade_id": "20034790-0",
+          "sale_date": "2026-06-01",
+          "sale_disclosure_date": "2026-06-15",
           "proceeds_usd": 8000.5
         },
         {
