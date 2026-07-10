@@ -2,15 +2,15 @@
   "generated_at": "2026-07-10",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9080,
-    "closed_positions": 1700,
-    "open_positions": 2568,
-    "unmatched_sales": 2087,
+    "trade_records": 9105,
+    "closed_positions": 1703,
+    "open_positions": 2570,
+    "unmatched_sales": 2091,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 38
     },
-    "politicians_total": 119,
+    "politicians_total": 120,
     "politicians_on_leaderboard": 22
   },
   "politicians": [
@@ -67760,24 +67760,92 @@
       "chamber": "house",
       "state_district": "GA06",
       "party": "D",
-      "closed_return_disclosure_pct": 57.37,
-      "closed_return_transaction_pct": 62.69,
-      "closed_win_rate_pct": 80.0,
-      "closed_avg_return_pct": 57.37,
-      "closed_trade_count": 5,
-      "closed_priceable_count": 5,
-      "closed_total_cost_basis_usd": 40002.0,
-      "open_mtm_return_disclosure_pct": 24.87,
-      "open_position_count": 63,
-      "open_priceable_count": 61,
-      "open_total_cost_basis_usd": 488030.0,
-      "unmatched_sale_count": 2,
+      "closed_return_disclosure_pct": 67.2,
+      "closed_return_transaction_pct": 78.8,
+      "closed_win_rate_pct": 87.5,
+      "closed_avg_return_pct": 67.2,
+      "closed_trade_count": 8,
+      "closed_priceable_count": 8,
+      "closed_total_cost_basis_usd": 64004.0,
+      "open_mtm_return_disclosure_pct": 19.61,
+      "open_position_count": 65,
+      "open_priceable_count": 63,
+      "open_total_cost_basis_usd": 504032.0,
+      "unmatched_sale_count": 4,
       "untracked_tickers": [
         "BRK.B",
         "ICE"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "LHX",
+          "asset_description": "L3Harris Technologies, Inc. Common Stock (LHX) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20030699-20",
+          "sale_trade_id": "20033648-7",
+          "purchase_date": "2023-03-15",
+          "purchase_disclosure_date": "2023-04-10",
+          "sale_date": "2026-03-19",
+          "sale_disclosure_date": "2026-04-07",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 89.0,
+          "return_transaction_pct": 92.67,
+          "priceable": true
+        },
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20030699-10",
+          "sale_trade_id": "20034954-4",
+          "purchase_date": "2023-03-15",
+          "purchase_disclosure_date": "2023-04-10",
+          "sale_date": "2026-06-12",
+          "sale_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 136.63,
+          "return_transaction_pct": 172.76,
+          "priceable": true
+        },
+        {
+          "ticker": "BLK",
+          "asset_description": "BlackRock, Inc. Common Stock (BLK) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "purchase_trade_id": "20033648-3",
+          "sale_trade_id": "20034954-3",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-07",
+          "sale_date": "2026-06-12",
+          "sale_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 5.32,
+          "return_transaction_pct": 6.12,
+          "priceable": true
+        },
+        {
+          "ticker": "ADI",
+          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20030699-4",
+          "sale_trade_id": "20034954-2",
+          "purchase_date": "2023-03-15",
+          "purchase_disclosure_date": "2023-04-10",
+          "sale_date": "2026-06-12",
+          "sale_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 108.78,
+          "return_transaction_pct": 138.06,
+          "priceable": true
+        },
         {
           "ticker": "AMT",
           "asset_description": "American Tower Corporation (AMT) [ST]",
@@ -67810,23 +67878,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": 84.03,
           "return_transaction_pct": 95.27,
-          "priceable": true
-        },
-        {
-          "ticker": "LHX",
-          "asset_description": "L3Harris Technologies, Inc. Common Stock (LHX) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners Roth IRA",
-          "purchase_trade_id": "20030699-20",
-          "sale_trade_id": "20033648-7",
-          "purchase_date": "2023-03-15",
-          "purchase_disclosure_date": "2023-04-10",
-          "sale_date": "2026-03-19",
-          "sale_disclosure_date": "2026-04-07",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 89.0,
-          "return_transaction_pct": 92.67,
           "priceable": true
         },
         {
@@ -67865,6 +67916,97 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "LHX",
+          "asset_description": "L3Harris Technologies, Inc. Common Stock (LHX) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20034954-8",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -1.87,
+          "mtm_return_transaction_pct": -6.01,
+          "priceable": true
+        },
+        {
+          "ticker": "LHX",
+          "asset_description": "L3Harris Technologies, Inc. Common Stock (LHX) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "purchase_trade_id": "20034954-7",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -1.87,
+          "mtm_return_transaction_pct": -6.01,
+          "priceable": true
+        },
+        {
+          "ticker": "ICE",
+          "asset_description": "Intercontinental Exchange Inc. Common Stock (ICE) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "purchase_trade_id": "20034954-5",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -0.98,
+          "mtm_return_transaction_pct": -2.48,
+          "priceable": true
+        },
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20030699-0",
+          "purchase_date": "2023-03-15",
+          "purchase_disclosure_date": "2023-04-10",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.84,
+          "mtm_return_transaction_pct": 3.02,
+          "priceable": true
+        },
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners Roth IRA",
+          "purchase_trade_id": "20034954-1",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -1.5,
+          "mtm_return_transaction_pct": 7.97,
+          "priceable": true
+        },
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "purchase_trade_id": "20033648-0",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-07",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -6.71,
+          "mtm_return_transaction_pct": -11.38,
+          "priceable": true
+        },
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "purchase_trade_id": "20034954-0",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-07-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -1.5,
+          "mtm_return_transaction_pct": 7.97,
+          "priceable": true
+        },
         {
           "ticker": "MSFT",
           "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
@@ -67931,19 +68073,6 @@
           "priceable": true
         },
         {
-          "ticker": "BLK",
-          "asset_description": "BlackRock, Inc. Common Stock (BLK) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners IRA",
-          "purchase_trade_id": "20033648-3",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-07",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 6.39,
-          "mtm_return_transaction_pct": 5.17,
-          "priceable": true
-        },
-        {
           "ticker": "ADP",
           "asset_description": "Automatic Data Processing, Inc. - Common Stock (ADP) [ST]",
           "owner": "",
@@ -68006,19 +68135,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": 40.28,
           "mtm_return_transaction_pct": 53.93,
-          "priceable": true
-        },
-        {
-          "ticker": "ABT",
-          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners IRA",
-          "purchase_trade_id": "20033648-0",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-07",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -6.71,
-          "mtm_return_transaction_pct": -11.38,
           "priceable": true
         },
         {
@@ -68399,19 +68515,6 @@
           "priceable": true
         },
         {
-          "ticker": "ADI",
-          "asset_description": "Analog Devices, Inc. - Common Stock (ADI) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners Roth IRA",
-          "purchase_trade_id": "20030699-4",
-          "purchase_date": "2023-03-15",
-          "purchase_disclosure_date": "2023-04-10",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 116.83,
-          "mtm_return_transaction_pct": 126.34,
-          "priceable": true
-        },
-        {
           "ticker": "WMT",
           "asset_description": "Walmart Inc. Common Stock (WMT) [ST]",
           "owner": "",
@@ -68646,19 +68749,6 @@
           "priceable": true
         },
         {
-          "ticker": "CSCO",
-          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners Roth IRA",
-          "purchase_trade_id": "20030699-10",
-          "purchase_date": "2023-03-15",
-          "purchase_disclosure_date": "2023-04-10",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 150.43,
-          "mtm_return_transaction_pct": 163.99,
-          "priceable": true
-        },
-        {
           "ticker": "APD",
           "asset_description": "Air Products and Chemicals, Inc. Common Stock (APD) [ST]",
           "owner": "",
@@ -68670,22 +68760,29 @@
           "mtm_return_disclosure_pct": 12.77,
           "mtm_return_transaction_pct": 16.1,
           "priceable": true
-        },
-        {
-          "ticker": "ABT",
-          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
-          "owner": "",
-          "subholding_of": "Growth Partners Roth IRA",
-          "purchase_trade_id": "20030699-0",
-          "purchase_date": "2023-03-15",
-          "purchase_disclosure_date": "2023-04-10",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -2.84,
-          "mtm_return_transaction_pct": 3.02,
-          "priceable": true
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "UNH",
+          "asset_description": "UnitedHealth Group Incorporated Common Stock (UNH) [ST]",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "sale_trade_id": "20034954-9",
+          "sale_date": "2026-06-12",
+          "sale_disclosure_date": "2026-07-08",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "IMCB",
+          "asset_description": "Ishares Morningstar ETF Mid Cap (IMCB) [OT] L: US",
+          "owner": "",
+          "subholding_of": "Growth Partners IRA",
+          "sale_trade_id": "20034954-6",
+          "sale_date": "2026-06-12",
+          "sale_disclosure_date": "2026-07-08",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "JNJ",
           "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
@@ -76594,6 +76691,41 @@
       "unmatched_sales": []
     },
     {
+      "politician_id": "wittman-r-va01",
+      "politician_name": "Robert J. Wittman",
+      "chamber": "house",
+      "state_district": "VA01",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 1,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "CCI",
+          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley",
+          "sale_trade_id": "20034916-0",
+          "sale_date": "2026-06-30",
+          "sale_disclosure_date": "2026-07-02",
+          "proceeds_usd": 8000.5
+        }
+      ]
+    },
+    {
       "politician_id": "williams-r-tx25",
       "politician_name": "Roger Williams",
       "chamber": "house",
@@ -79234,7 +79366,7 @@
       "open_position_count": 53,
       "open_priceable_count": 52,
       "open_total_cost_basis_usd": 1868532.0,
-      "unmatched_sale_count": 25,
+      "unmatched_sale_count": 26,
       "untracked_tickers": [
         "SCMY",
         "SMCYY"
@@ -81583,6 +81715,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "DASH",
+          "asset_description": "DoorDash, Inc. - Common Stock (DASH) [ST]",
+          "owner": "",
+          "subholding_of": null,
+          "sale_trade_id": "20034952-0",
+          "sale_date": "2026-06-09",
+          "sale_disclosure_date": "2026-07-08",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "NVDA",
           "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
