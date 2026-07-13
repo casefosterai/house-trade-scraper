@@ -2,15 +2,15 @@
   "generated_at": "2026-07-13",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9105,
-    "closed_positions": 1703,
-    "open_positions": 2570,
-    "unmatched_sales": 2091,
+    "trade_records": 9112,
+    "closed_positions": 1704,
+    "open_positions": 2572,
+    "unmatched_sales": 2092,
     "skipped": {
       "professionally_managed": 276,
       "options_not_supported": 38
     },
-    "politicians_total": 120,
+    "politicians_total": 121,
     "politicians_on_leaderboard": 22
   },
   "politicians": [
@@ -37088,6 +37088,44 @@
       ]
     },
     {
+      "politician_id": "james-j-mi10",
+      "politician_name": "John James",
+      "chamber": "house",
+      "state_district": "MI10",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": -10.73,
+      "open_position_count": 1,
+      "open_priceable_count": 1,
+      "open_total_cost_basis_usd": 32500.0,
+      "unmatched_sale_count": 0,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [
+        {
+          "ticker": "SPCX",
+          "asset_description": "Space Exploration Technologies Corp. (SPCX) [OT] L: US",
+          "owner": "SP",
+          "subholding_of": null,
+          "purchase_trade_id": "20034949-0",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-06-12",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": -10.73,
+          "mtm_return_transaction_pct": -10.73,
+          "priceable": true
+        }
+      ],
+      "unmatched_sales": []
+    },
+    {
       "politician_id": "mcguire-j-va05",
       "politician_name": "John McGuire",
       "chamber": "house",
@@ -69157,22 +69195,66 @@
       "chamber": "house",
       "state_district": "WA02",
       "party": "D",
-      "closed_return_disclosure_pct": null,
-      "closed_return_transaction_pct": null,
-      "closed_win_rate_pct": null,
-      "closed_avg_return_pct": null,
-      "closed_trade_count": 0,
-      "closed_priceable_count": 0,
-      "closed_total_cost_basis_usd": 0,
-      "open_mtm_return_disclosure_pct": 5.05,
-      "open_position_count": 15,
-      "open_priceable_count": 15,
-      "open_total_cost_basis_usd": 120008.0,
-      "unmatched_sale_count": 16,
+      "closed_return_disclosure_pct": -28.0,
+      "closed_return_transaction_pct": -27.2,
+      "closed_win_rate_pct": 0.0,
+      "closed_avg_return_pct": -28.0,
+      "closed_trade_count": 1,
+      "closed_priceable_count": 1,
+      "closed_total_cost_basis_usd": 8000.0,
+      "open_mtm_return_disclosure_pct": 6.34,
+      "open_position_count": 16,
+      "open_priceable_count": 16,
+      "open_total_cost_basis_usd": 128008.0,
+      "unmatched_sale_count": 17,
       "untracked_tickers": [],
       "excluded_by_reason": {},
-      "closed_positions": [],
+      "closed_positions": [
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "",
+          "subholding_of": "Richard R Larsen IRA",
+          "purchase_trade_id": "20032298-0",
+          "sale_trade_id": "20034977-0",
+          "purchase_date": "2025-10-06",
+          "purchase_disclosure_date": "2025-10-07",
+          "sale_date": "2026-07-08",
+          "sale_disclosure_date": "2026-07-09",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -28.0,
+          "return_transaction_pct": -27.2,
+          "priceable": true
+        }
+      ],
       "open_positions": [
+        {
+          "ticker": "MCK",
+          "asset_description": "McKesson Corporation Common Stock (MCK) [ST]",
+          "owner": "",
+          "subholding_of": "Richard R Larsen IRA",
+          "purchase_trade_id": "20034977-2",
+          "purchase_date": "2026-07-08",
+          "purchase_disclosure_date": "2026-07-09",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -0.17,
+          "mtm_return_transaction_pct": -0.17,
+          "priceable": true
+        },
+        {
+          "ticker": "APH",
+          "asset_description": "Amphenol Corporation Common Stock (APH) [ST]",
+          "owner": "",
+          "subholding_of": "Richard R Larsen IRA",
+          "purchase_trade_id": "20034977-1",
+          "purchase_date": "2026-07-08",
+          "purchase_disclosure_date": "2026-07-09",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.5,
+          "mtm_return_transaction_pct": 0.28,
+          "priceable": true
+        },
         {
           "ticker": "NEE",
           "asset_description": "NextEra Energy, Inc. Common Stock (NEE) [ST]",
@@ -69291,19 +69373,6 @@
           "priceable": true
         },
         {
-          "ticker": "ABT",
-          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
-          "owner": "",
-          "subholding_of": "Richard R Larsen IRA",
-          "purchase_trade_id": "20032298-0",
-          "purchase_date": "2025-10-06",
-          "purchase_disclosure_date": "2025-10-07",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -28.27,
-          "mtm_return_transaction_pct": -28.65,
-          "priceable": true
-        },
-        {
           "ticker": "AXP",
           "asset_description": "American Express Company Common Stock (AXP) [ST]",
           "owner": "",
@@ -69370,6 +69439,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "SPGI",
+          "asset_description": "S&P Global Inc. Common Stock (SPGI) [ST]",
+          "owner": "",
+          "subholding_of": "Richard R Larsen IRA",
+          "sale_trade_id": "20034977-3",
+          "sale_date": "2026-07-08",
+          "sale_disclosure_date": "2026-07-09",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "SNDA",
           "asset_description": "Sonida Senior Living, Inc. Common Stock (SNDA) [ST] purchased those assets in March. I directed advisor to sell the Sonida stock in March and the proceeds from the sale were placed in Fixed Income Mutual Funds-based account I already hold. Per requirements, I will report in CY27 on my FDFY26 report which mutual funds proceeds went into.",
