@@ -386,5 +386,17 @@
   "9116211": {
     "reason": "parse failed: No tables extracted (likely scanned PDF)",
     "last_attempted_at": "2026-07-13T21:59:30"
+  },
+  "20034998": {
+    "reason": "download error: 404 Client Error: Not Found for url: https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034998.pdf",
+    "last_attempted_at": "2026-07-17T21:55:56"
+  },
+  "9116217": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-07-17T21:55:57"
+  },
+  "9116218": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-07-17T21:55:57"
   }
 }
