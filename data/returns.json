@@ -2,15 +2,15 @@
   "generated_at": "2026-07-28",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9189,
+    "trade_records": 9191,
     "closed_positions": 1709,
     "open_positions": 2597,
     "unmatched_sales": 2112,
     "skipped": {
       "options_not_supported": 43,
-      "professionally_managed": 276
+      "professionally_managed": 277
     },
-    "politicians_total": 125,
+    "politicians_total": 126,
     "politicians_on_leaderboard": 22
   },
   "politicians": [
@@ -208,6 +208,30 @@
           "proceeds_usd": 8000.5
         }
       ]
+    },
+    {
+      "politician_id": "smith-a-ne03",
+      "politician_name": "Adrian Smith",
+      "chamber": "house",
+      "state_district": "NE03",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 0,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [],
+      "unmatched_sales": []
     },
     {
       "politician_id": "garbarino-a-ny02",
@@ -78515,7 +78539,7 @@
         "IBIT"
       ],
       "excluded_by_reason": {
-        "professionally_managed": 210
+        "professionally_managed": 211
       },
       "closed_positions": [],
       "open_positions": [
