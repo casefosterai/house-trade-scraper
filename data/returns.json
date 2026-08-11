@@ -2,10 +2,10 @@
   "generated_at": "2026-08-11",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9362,
-    "closed_positions": 1758,
-    "open_positions": 2640,
-    "unmatched_sales": 2135,
+    "trade_records": 9389,
+    "closed_positions": 1759,
+    "open_positions": 2647,
+    "unmatched_sales": 2146,
     "skipped": {
       "options_misclassified_as_stock": 1,
       "options_not_supported": 43,
@@ -38101,46 +38101,8 @@
       ]
     },
     {
-      "politician_id": "james-j-mi10",
-      "politician_name": "John James",
-      "chamber": "house",
-      "state_district": "MI10",
-      "party": "R",
-      "closed_return_disclosure_pct": null,
-      "closed_return_transaction_pct": null,
-      "closed_win_rate_pct": null,
-      "closed_avg_return_pct": null,
-      "closed_trade_count": 0,
-      "closed_priceable_count": 0,
-      "closed_total_cost_basis_usd": 0,
-      "open_mtm_return_disclosure_pct": -13.8,
-      "open_position_count": 1,
-      "open_priceable_count": 1,
-      "open_total_cost_basis_usd": 32500.0,
-      "unmatched_sale_count": 0,
-      "untracked_tickers": [],
-      "excluded_by_reason": {},
-      "closed_positions": [],
-      "open_positions": [
-        {
-          "ticker": "SPCX",
-          "asset_description": "Space Exploration Technologies Corp. (SPCX) [OT] L: US",
-          "owner": "SP",
-          "subholding_of": null,
-          "purchase_trade_id": "20034949-0",
-          "purchase_date": "2026-06-12",
-          "purchase_disclosure_date": "2026-06-12",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": -13.8,
-          "mtm_return_transaction_pct": -13.8,
-          "priceable": true
-        }
-      ],
-      "unmatched_sales": []
-    },
-    {
       "politician_id": "mcguire-j-va05",
-      "politician_name": "John McGuire",
+      "politician_name": "John J McGuire",
       "chamber": "house",
       "state_district": "VA05",
       "party": "R",
@@ -38151,11 +38113,11 @@
       "closed_trade_count": 1,
       "closed_priceable_count": 1,
       "closed_total_cost_basis_usd": 8000.0,
-      "open_mtm_return_disclosure_pct": 5.51,
-      "open_position_count": 10,
-      "open_priceable_count": 10,
-      "open_total_cost_basis_usd": 80005.0,
-      "unmatched_sale_count": 2,
+      "open_mtm_return_disclosure_pct": 4.91,
+      "open_position_count": 11,
+      "open_priceable_count": 11,
+      "open_total_cost_basis_usd": 88006.0,
+      "unmatched_sale_count": 3,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -38178,6 +38140,19 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "AMAT",
+          "asset_description": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+          "owner": "SP",
+          "subholding_of": "Merrill Lynch SEP IRA",
+          "purchase_trade_id": "20035180-0",
+          "purchase_date": "2026-07-15",
+          "purchase_disclosure_date": "2026-08-07",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -1.02,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
         {
           "ticker": "SPCX",
           "asset_description": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
@@ -38321,6 +38296,16 @@
           "proceeds_usd": 8000.5
         },
         {
+          "ticker": "BLK",
+          "asset_description": "BlackRock, Inc. Common Stock (BLK) [ST]",
+          "owner": "SP",
+          "subholding_of": "Merrill Lynch SEP IRA",
+          "sale_trade_id": "20035180-1",
+          "sale_date": "2026-07-14",
+          "sale_disclosure_date": "2026-08-07",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "DELL",
           "asset_description": "Dell Technologies Inc. Class C Common Stock (DELL) [ST]",
           "owner": "SP",
@@ -38331,6 +38316,44 @@
           "proceeds_usd": 8000.5
         }
       ]
+    },
+    {
+      "politician_id": "james-j-mi10",
+      "politician_name": "John James",
+      "chamber": "house",
+      "state_district": "MI10",
+      "party": "R",
+      "closed_return_disclosure_pct": null,
+      "closed_return_transaction_pct": null,
+      "closed_win_rate_pct": null,
+      "closed_avg_return_pct": null,
+      "closed_trade_count": 0,
+      "closed_priceable_count": 0,
+      "closed_total_cost_basis_usd": 0,
+      "open_mtm_return_disclosure_pct": -13.8,
+      "open_position_count": 1,
+      "open_priceable_count": 1,
+      "open_total_cost_basis_usd": 32500.0,
+      "unmatched_sale_count": 0,
+      "untracked_tickers": [],
+      "excluded_by_reason": {},
+      "closed_positions": [],
+      "open_positions": [
+        {
+          "ticker": "SPCX",
+          "asset_description": "Space Exploration Technologies Corp. (SPCX) [OT] L: US",
+          "owner": "SP",
+          "subholding_of": null,
+          "purchase_trade_id": "20034949-0",
+          "purchase_date": "2026-06-12",
+          "purchase_disclosure_date": "2026-06-12",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": -13.8,
+          "mtm_return_transaction_pct": -13.8,
+          "priceable": true
+        }
+      ],
+      "unmatched_sales": []
     },
     {
       "politician_id": "rose-j-tn06",
@@ -39565,18 +39588,18 @@
       "chamber": "house",
       "state_district": "NJ05",
       "party": "D",
-      "closed_return_disclosure_pct": -2.3,
-      "closed_return_transaction_pct": -9.73,
-      "closed_win_rate_pct": 40.7,
-      "closed_avg_return_pct": -2.3,
-      "closed_trade_count": 59,
-      "closed_priceable_count": 54,
-      "closed_total_cost_basis_usd": 432027.0,
+      "closed_return_disclosure_pct": -2.37,
+      "closed_return_transaction_pct": -9.93,
+      "closed_win_rate_pct": 40.0,
+      "closed_avg_return_pct": -2.37,
+      "closed_trade_count": 60,
+      "closed_priceable_count": 55,
+      "closed_total_cost_basis_usd": 440028.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 97,
-      "open_priceable_count": 93,
-      "open_total_cost_basis_usd": 744046.0,
-      "unmatched_sale_count": 161,
+      "open_position_count": 103,
+      "open_priceable_count": 99,
+      "open_total_cost_basis_usd": 792050.0,
+      "unmatched_sale_count": 164,
       "untracked_tickers": [
         "BRK.B",
         "FI",
@@ -39589,6 +39612,40 @@
         "options_not_supported": 21
       },
       "closed_positions": [
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20029083-20",
+          "sale_trade_id": "20030848-2",
+          "purchase_date": "2025-03-10",
+          "purchase_disclosure_date": "2025-04-04",
+          "sale_date": "2025-07-25",
+          "sale_disclosure_date": "2025-08-07",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 10.7,
+          "return_transaction_pct": 1.77,
+          "priceable": true
+        },
+        {
+          "ticker": "FN",
+          "asset_description": "Fabrinet Ordinary Shares (FN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20034305-5",
+          "sale_trade_id": "20035186-5",
+          "purchase_date": "2026-03-24",
+          "purchase_disclosure_date": "2026-04-07",
+          "sale_date": "2026-07-14",
+          "sale_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -6.37,
+          "return_transaction_pct": -21.01,
+          "priceable": true
+        },
         {
           "ticker": "NSRGY",
           "asset_description": "NESTLE S.A S/ADR (NSRGY) [ST]",
@@ -40063,23 +40120,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": 1.53,
           "return_transaction_pct": -0.75,
-          "priceable": true
-        },
-        {
-          "ticker": "IBM",
-          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20029083-20",
-          "sale_trade_id": "20030848-2",
-          "purchase_date": "2025-03-10",
-          "purchase_disclosure_date": "2025-04-04",
-          "sale_date": "2025-07-25",
-          "sale_disclosure_date": "2025-08-07",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 10.7,
-          "return_transaction_pct": 1.77,
           "priceable": true
         },
         {
@@ -40595,6 +40635,149 @@
       ],
       "open_positions": [
         {
+          "ticker": "PANW",
+          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20034693-13",
+          "purchase_date": "2026-05-14",
+          "purchase_disclosure_date": "2026-06-02",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 31.27,
+          "mtm_return_transaction_pct": 69.03,
+          "priceable": true
+        },
+        {
+          "ticker": "PANW",
+          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-9",
+          "purchase_date": "2026-07-16",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 6.17,
+          "mtm_return_transaction_pct": 8.76,
+          "priceable": true
+        },
+        {
+          "ticker": "NICE",
+          "asset_description": "NICE Ltd - American Depositary Shares each representing one Ordinary Share (NICE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20033398-3",
+          "purchase_date": "2025-10-17",
+          "purchase_disclosure_date": "2025-11-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -24.32,
+          "mtm_return_transaction_pct": -21.03,
+          "priceable": true
+        },
+        {
+          "ticker": "NICE",
+          "asset_description": "NICE Ltd - American Depositary Shares each representing one Ordinary Share (NICE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-8",
+          "purchase_date": "2026-07-20",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 3.24,
+          "mtm_return_transaction_pct": 2.42,
+          "priceable": true
+        },
+        {
+          "ticker": "MNST",
+          "asset_description": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20034130-10",
+          "purchase_date": "2026-02-02",
+          "purchase_disclosure_date": "2026-03-05",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MNST",
+          "asset_description": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-7",
+          "purchase_date": "2026-07-17",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "FN",
+          "asset_description": "Fabrinet Ordinary Shares (FN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20034693-5",
+          "purchase_date": "2026-05-01",
+          "purchase_disclosure_date": "2026-06-02",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -22.37,
+          "mtm_return_transaction_pct": -23.57,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOGN",
+          "asset_description": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock (GOOGN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-1",
+          "purchase_date": "2026-07-23",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.85,
+          "mtm_return_transaction_pct": 6.08,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOGN",
+          "asset_description": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series B Mandatory Convertible Preferred Stock (GOOGN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-2",
+          "purchase_date": "2026-07-24",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.85,
+          "mtm_return_transaction_pct": 6.24,
+          "priceable": true
+        },
+        {
+          "ticker": "SAIL",
+          "asset_description": "SailPoint Technologies Holdings, Inc. (SAIL) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-10",
+          "purchase_date": "2026-07-20",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 7.81,
+          "mtm_return_transaction_pct": 25.23,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOGM",
+          "asset_description": "Alphabet Inc. - Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock (GOOGM) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035186-0",
+          "purchase_date": "2026-07-24",
+          "purchase_disclosure_date": "2026-08-06",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.96,
+          "mtm_return_transaction_pct": 6.4,
+          "priceable": true
+        },
+        {
           "ticker": "BKNG",
           "asset_description": "Booking Holdings Inc. - Common Stock (BKNG) [ST]",
           "owner": "JT",
@@ -40657,32 +40840,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": -19.22,
           "mtm_return_transaction_pct": -14.38,
-          "priceable": true
-        },
-        {
-          "ticker": "FN",
-          "asset_description": "Fabrinet Ordinary Shares (FN) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20034305-5",
-          "purchase_date": "2026-03-24",
-          "purchase_disclosure_date": "2026-04-07",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -5.5,
-          "mtm_return_transaction_pct": -12.29,
-          "priceable": true
-        },
-        {
-          "ticker": "FN",
-          "asset_description": "Fabrinet Ordinary Shares (FN) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20034693-5",
-          "purchase_date": "2026-05-01",
-          "purchase_disclosure_date": "2026-06-02",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -22.37,
-          "mtm_return_transaction_pct": -23.57,
           "priceable": true
         },
         {
@@ -40774,19 +40931,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": -28.16,
           "mtm_return_transaction_pct": -5.94,
-          "priceable": true
-        },
-        {
-          "ticker": "PANW",
-          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20034693-13",
-          "purchase_date": "2026-05-14",
-          "purchase_disclosure_date": "2026-06-02",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 31.27,
-          "mtm_return_transaction_pct": 69.03,
           "priceable": true
         },
         {
@@ -41037,19 +41181,6 @@
           "priceable": true
         },
         {
-          "ticker": "MNST",
-          "asset_description": "Monster Beverage Corporation - Common Stock (MNST) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20034130-10",
-          "purchase_date": "2026-02-02",
-          "purchase_disclosure_date": "2026-03-05",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "ICE",
           "asset_description": "Intercontinental Exchange Inc. Common Stock (ICE) [ST]",
           "owner": "JT",
@@ -41086,19 +41217,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": 16.08,
           "mtm_return_transaction_pct": 44.38,
-          "priceable": true
-        },
-        {
-          "ticker": "NICE",
-          "asset_description": "NICE Ltd - American Depositary Shares each representing one Ordinary Share (NICE) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20033398-3",
-          "purchase_date": "2025-10-17",
-          "purchase_disclosure_date": "2025-11-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -24.32,
-          "mtm_return_transaction_pct": -21.03,
           "priceable": true
         },
         {
@@ -41858,6 +41976,86 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "PANW",
+          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20026732-37",
+          "sale_date": "2025-01-16",
+          "sale_disclosure_date": "2025-02-06",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PANW",
+          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20034130-11",
+          "sale_date": "2026-02-27",
+          "sale_disclosure_date": "2026-03-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20031032-0",
+          "sale_date": "2025-08-12",
+          "sale_disclosure_date": "2025-09-04",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20035186-6",
+          "sale_date": "2026-07-16",
+          "sale_disclosure_date": "2026-08-06",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CCI",
+          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20030338-25",
+          "sale_date": "2025-04-09",
+          "sale_disclosure_date": "2025-05-13",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CCI",
+          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20034305-4",
+          "sale_date": "2026-03-24",
+          "sale_disclosure_date": "2026-04-07",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CCI",
+          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20035186-4",
+          "sale_date": "2026-07-23",
+          "sale_disclosure_date": "2026-08-06",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GTLS",
+          "asset_description": "Chart Industries, Inc. (GTLS) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "sale_trade_id": "20035186-3",
+          "sale_date": "2026-07-17",
+          "sale_disclosure_date": "2026-08-06",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "NVZMY",
           "asset_description": "NOVONESIS B UNSP/ADR (NVZMY) [ST]",
           "owner": "JT",
@@ -41945,26 +42143,6 @@
           "sale_trade_id": "20029083-30",
           "sale_date": "2025-03-19",
           "sale_disclosure_date": "2025-04-04",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "PANW",
-          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "sale_trade_id": "20026732-37",
-          "sale_date": "2025-01-16",
-          "sale_disclosure_date": "2025-02-06",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "PANW",
-          "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "sale_trade_id": "20034130-11",
-          "sale_date": "2026-02-27",
-          "sale_disclosure_date": "2026-03-05",
           "proceeds_usd": 8000.5
         },
         {
@@ -42184,26 +42362,6 @@
           "subholding_of": "Morgan Stanley - Select UMA Account # 1",
           "sale_trade_id": "20034305-7",
           "sale_date": "2026-03-12",
-          "sale_disclosure_date": "2026-04-07",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "CCI",
-          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "sale_trade_id": "20030338-25",
-          "sale_date": "2025-04-09",
-          "sale_disclosure_date": "2025-05-13",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "CCI",
-          "asset_description": "Crown Castle Inc. Common Stock (CCI) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "sale_trade_id": "20034305-4",
-          "sale_date": "2026-03-24",
           "sale_disclosure_date": "2026-04-07",
           "proceeds_usd": 8000.5
         },
@@ -42505,16 +42663,6 @@
           "sale_trade_id": "20032246-1",
           "sale_date": "2025-09-22",
           "sale_disclosure_date": "2025-10-07",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "IBM",
-          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "sale_trade_id": "20031032-0",
-          "sale_date": "2025-08-12",
-          "sale_disclosure_date": "2025-09-04",
           "proceeds_usd": 8000.5
         },
         {
@@ -51045,7 +51193,7 @@
       "open_position_count": 1,
       "open_priceable_count": 1,
       "open_total_cost_basis_usd": 8000.0,
-      "unmatched_sale_count": 30,
+      "unmatched_sale_count": 37,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -51083,6 +51231,76 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "MDLZ",
+          "asset_description": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-9",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "KVUE",
+          "asset_description": "Kenvue Inc. Common Stock (KVUE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-6",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "EL",
+          "asset_description": "Estee Lauder Companies, Inc. (EL) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-4",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "DEO",
+          "asset_description": "Diageo plc Common Stock (DEO) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-2",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "VSNT",
+          "asset_description": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-13",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "OGN",
+          "asset_description": "Organon & Co. Common Stock (OGN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-11",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CMCSA",
+          "asset_description": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-1",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "KVUE",
           "asset_description": "Kenvue Inc. Common Stock (KVUE) [ST]",
