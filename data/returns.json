@@ -2,10 +2,10 @@
   "generated_at": "2026-08-12",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9389,
+    "trade_records": 9395,
     "closed_positions": 1759,
     "open_positions": 2647,
-    "unmatched_sales": 2146,
+    "unmatched_sales": 2149,
     "skipped": {
       "options_misclassified_as_stock": 1,
       "options_not_supported": 43,
@@ -69640,7 +69640,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 3,
+      "unmatched_sale_count": 6,
       "untracked_tickers": [
         "X"
       ],
@@ -69666,6 +69666,36 @@
       ],
       "open_positions": [],
       "unmatched_sales": [
+        {
+          "ticker": "DIS",
+          "asset_description": "Walt Disney Company (DIS) [ST]",
+          "owner": "SP",
+          "subholding_of": "Victoria Kelly Trust ICA",
+          "sale_trade_id": "20035203-4",
+          "sale_date": "2026-07-17",
+          "sale_disclosure_date": "2026-08-12",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PEP",
+          "asset_description": "Pepsico, Inc. (PEP) [ST]",
+          "owner": "SP",
+          "subholding_of": "Victoria Kelly Trust ICA",
+          "sale_trade_id": "20035203-3",
+          "sale_date": "2026-07-17",
+          "sale_disclosure_date": "2026-08-12",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "ABT",
+          "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
+          "owner": "SP",
+          "subholding_of": "Victoria Kelly Trust ICA",
+          "sale_trade_id": "20035203-0",
+          "sale_date": "2026-07-17",
+          "sale_disclosure_date": "2026-08-12",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "CMCSA",
           "asset_description": "Comcast Corporation - Class A Common Stock (CMCSA) [ST]",
