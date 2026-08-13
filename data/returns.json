@@ -2,10 +2,10 @@
   "generated_at": "2026-08-13",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9395,
+    "trade_records": 9399,
     "closed_positions": 1759,
     "open_positions": 2647,
-    "unmatched_sales": 2149,
+    "unmatched_sales": 2151,
     "skipped": {
       "options_misclassified_as_stock": 1,
       "options_not_supported": 43,
@@ -51193,7 +51193,7 @@
       "open_position_count": 1,
       "open_priceable_count": 1,
       "open_total_cost_basis_usd": 8000.0,
-      "unmatched_sale_count": 37,
+      "unmatched_sale_count": 39,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -51232,6 +51232,36 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "VSNT",
+          "asset_description": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035134-13",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "VSNT",
+          "asset_description": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035196-1",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "OGN",
+          "asset_description": "2000166537 JT Organon & Co. Common Stock (OGN) [ST]",
+          "owner": "",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035196-0",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-05",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "MDLZ",
           "asset_description": "Mondelez International, Inc. - Class A Common Stock (MDLZ) [ST]",
           "owner": "JT",
@@ -51267,16 +51297,6 @@
           "owner": "JT",
           "subholding_of": "Hern Family Foundation",
           "sale_trade_id": "20035134-2",
-          "sale_date": "2026-08-05",
-          "sale_disclosure_date": "2026-08-05",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "VSNT",
-          "asset_description": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035134-13",
           "sale_date": "2026-08-05",
           "sale_disclosure_date": "2026-08-05",
           "proceeds_usd": 8000.5
