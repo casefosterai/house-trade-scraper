@@ -434,5 +434,9 @@
   "9116308": {
     "reason": "parse failed: No tables extracted (likely scanned PDF)",
     "last_attempted_at": "2026-08-20T11:33:19"
+  },
+  "9116311": {
+    "reason": "parse failed: No tables extracted (likely scanned PDF)",
+    "last_attempted_at": "2026-08-25T11:34:32"
   }
 }
