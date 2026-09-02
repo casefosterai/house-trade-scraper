@@ -2,10 +2,10 @@
   "generated_at": "2026-09-02",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9494,
-    "closed_positions": 1785,
-    "open_positions": 2638,
-    "unmatched_sales": 2178,
+    "trade_records": 9522,
+    "closed_positions": 1786,
+    "open_positions": 2637,
+    "unmatched_sales": 2203,
     "skipped": {
       "options_misclassified_as_stock": 1,
       "options_not_supported": 46,
@@ -51459,21 +51459,38 @@
       "chamber": "house",
       "state_district": "OK01",
       "party": "R",
-      "closed_return_disclosure_pct": 27.83,
-      "closed_return_transaction_pct": 26.23,
-      "closed_win_rate_pct": 100.0,
-      "closed_avg_return_pct": 27.83,
-      "closed_trade_count": 1,
-      "closed_priceable_count": 1,
-      "closed_total_cost_basis_usd": 8000.0,
-      "open_mtm_return_disclosure_pct": -20.49,
-      "open_position_count": 1,
-      "open_priceable_count": 1,
-      "open_total_cost_basis_usd": 8000.0,
-      "unmatched_sale_count": 39,
+      "closed_return_disclosure_pct": 5.34,
+      "closed_return_transaction_pct": 4.89,
+      "closed_win_rate_pct": 50.0,
+      "closed_avg_return_pct": 5.34,
+      "closed_trade_count": 2,
+      "closed_priceable_count": 2,
+      "closed_total_cost_basis_usd": 16001.0,
+      "open_mtm_return_disclosure_pct": null,
+      "open_position_count": 0,
+      "open_priceable_count": 0,
+      "open_total_cost_basis_usd": 0,
+      "unmatched_sale_count": 64,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "purchase_trade_id": "20026597-6",
+          "sale_trade_id": "20035326-10",
+          "purchase_date": "2024-12-12",
+          "purchase_disclosure_date": "2024-12-13",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -17.14,
+          "return_transaction_pct": -16.44,
+          "priceable": true
+        },
         {
           "ticker": "XOM",
           "asset_description": "Exxon Mobil Corporation Common Stock (XOM) [ST]",
@@ -51492,22 +51509,258 @@
           "priceable": true
         }
       ],
-      "open_positions": [
+      "open_positions": [],
+      "unmatched_sales": [
+        {
+          "ticker": "GAP",
+          "asset_description": "Gap, Inc. (GAP) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-9",
+          "sale_date": "2026-08-13",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CL",
+          "asset_description": "Colgate-Palmolive Company Common Stock (CL) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-8",
+          "sale_date": "2026-08-19",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CARR",
+          "asset_description": "Carrier Global Corporation Common Stock (CARR) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-7",
+          "sale_date": "2026-08-14",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "BA",
+          "asset_description": "Boeing Company (BA) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-5",
+          "sale_date": "2026-08-13",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "BA",
+          "asset_description": "Boeing Company (BA) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-4",
+          "sale_date": "2026-08-13",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "BIIB",
+          "asset_description": "Biogen Inc. - Common Stock (BIIB) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-3",
+          "sale_date": "2026-08-18",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "WAT",
+          "asset_description": "Waters Corporation Common Stock (WAT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-25",
+          "sale_date": "2026-08-13",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "DIS",
+          "asset_description": "Walt Disney Company (DIS) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-24",
+          "sale_date": "2026-08-10",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "VLTO",
+          "asset_description": "Veralto Corp Common Stock (VLTO) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-23",
+          "sale_date": "2026-08-14",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "VLTO",
+          "asset_description": "Veralto Corp Common Stock (VLTO) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-22",
+          "sale_date": "2026-08-21",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "SOLS",
+          "asset_description": "Solstice Advanced Materials Inc. - Common Stock (SOLS) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-21",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PG",
+          "asset_description": "Procter & Gamble Company (PG) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-20",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 75000.5
+        },
+        {
+          "ticker": "BUD",
+          "asset_description": "Anheuser-Busch Inbev SA Sponsored ADR (BUD) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-2",
+          "sale_date": "2026-08-18",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PG",
+          "asset_description": "Procter & Gamble Company (PG) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-19",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "OTIS",
+          "asset_description": "Otis Worldwide Corporation Common Stock (OTIS) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035326-18",
+          "sale_date": "2026-08-10",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-17",
+          "sale_date": "2026-08-21",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "MDT",
+          "asset_description": "Medtronic plc. Ordinary Shares (MDT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-16",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "MRSH",
+          "asset_description": "Marsh Common Stock (MRSH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-15",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "LOW",
+          "asset_description": "Lowe's Companies, Inc. Common Stock (LOW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-14",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "KMB",
+          "asset_description": "Kimberly-Clark Corporation - Common Stock (KMB) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-13",
+          "sale_date": "2026-08-18",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "HRL",
+          "asset_description": "Hormel Foods Corporation Common Stock (HRL) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-12",
+          "sale_date": "2026-08-13",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "HONA",
+          "asset_description": "Honeywell Aerospace Inc. - Common Stock (HONA) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-11",
+          "sale_date": "2026-08-19",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "HD",
           "asset_description": "Home Depot, Inc. (HD) [ST]",
           "owner": "JT",
           "subholding_of": "Hern Family Foundation",
-          "purchase_trade_id": "20026597-6",
-          "purchase_date": "2024-12-12",
-          "purchase_disclosure_date": "2024-12-13",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -20.49,
-          "mtm_return_transaction_pct": -20.0,
-          "priceable": true
-        }
-      ],
-      "unmatched_sales": [
+          "sale_trade_id": "20035326-10",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 67000.0
+        },
+        {
+          "ticker": "ALC",
+          "asset_description": "Alcon Inc. Ordinary Shares (ALC) [ST]",
+          "owner": "",
+          "subholding_of": "Kevin Hern Traditional IRA",
+          "sale_trade_id": "20035326-1",
+          "sale_date": "2026-08-05",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "ADBE",
+          "asset_description": "Adobe Inc. - Common Stock (ADBE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-0",
+          "sale_date": "2026-08-14",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "VSNT",
           "asset_description": "Versant Media Group, Inc. - Class A Common Stock (VSNT) [ST]",
