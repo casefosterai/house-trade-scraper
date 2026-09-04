@@ -2,8 +2,8 @@
   "generated_at": "2026-09-04",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9527,
-    "closed_positions": 1787,
+    "trade_records": 9528,
+    "closed_positions": 1788,
     "open_positions": 2639,
     "unmatched_sales": 2204,
     "skipped": {
@@ -38673,17 +38673,17 @@
       "chamber": "house",
       "state_district": "IL01",
       "party": "D",
-      "closed_return_disclosure_pct": -8.99,
-      "closed_return_transaction_pct": -6.31,
-      "closed_win_rate_pct": 25.0,
-      "closed_avg_return_pct": -3.46,
-      "closed_trade_count": 29,
-      "closed_priceable_count": 28,
-      "closed_total_cost_basis_usd": 564014.0,
-      "open_mtm_return_disclosure_pct": 11.87,
+      "closed_return_disclosure_pct": -8.13,
+      "closed_return_transaction_pct": -5.32,
+      "closed_win_rate_pct": 27.6,
+      "closed_avg_return_pct": -1.52,
+      "closed_trade_count": 30,
+      "closed_priceable_count": 29,
+      "closed_total_cost_basis_usd": 572014.0,
+      "open_mtm_return_disclosure_pct": 11.14,
       "open_position_count": 33,
       "open_priceable_count": 31,
-      "open_total_cost_basis_usd": 620516.0,
+      "open_total_cost_basis_usd": 612515.0,
       "unmatched_sale_count": 20,
       "untracked_tickers": [
         "BK",
@@ -38691,6 +38691,23 @@
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "VSAT",
+          "asset_description": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "purchase_trade_id": "20033929-8",
+          "sale_trade_id": "20035370-0",
+          "purchase_date": "2026-01-22",
+          "purchase_disclosure_date": "2026-02-03",
+          "sale_date": "2026-08-28",
+          "sale_disclosure_date": "2026-09-02",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 52.71,
+          "return_transaction_pct": 64.44,
+          "priceable": true
+        },
         {
           "ticker": "MCK",
           "asset_description": "McKesson Corporation Common Stock (MCK) [ST]",
@@ -39187,6 +39204,19 @@
       ],
       "open_positions": [
         {
+          "ticker": "VSAT",
+          "asset_description": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley Trust Account",
+          "purchase_trade_id": "20033929-8",
+          "purchase_date": "2026-01-22",
+          "purchase_disclosure_date": "2026-02-03",
+          "cost_basis_usd": 67000.0,
+          "mtm_return_disclosure_pct": 67.87,
+          "mtm_return_transaction_pct": 67.12,
+          "priceable": true
+        },
+        {
           "ticker": "SPHR",
           "asset_description": "Sphere Entertainment Co. Class A Common Stock (SPHR) [ST]",
           "owner": "SP",
@@ -39418,19 +39448,6 @@
           "cost_basis_usd": 75000.5,
           "mtm_return_disclosure_pct": -15.59,
           "mtm_return_transaction_pct": -10.43,
-          "priceable": true
-        },
-        {
-          "ticker": "VSAT",
-          "asset_description": "ViaSat, Inc. - Common Stock (VSAT) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley Trust Account",
-          "purchase_trade_id": "20033929-8",
-          "purchase_date": "2026-01-22",
-          "purchase_disclosure_date": "2026-02-03",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": 67.87,
-          "mtm_return_transaction_pct": 67.12,
           "priceable": true
         },
         {
