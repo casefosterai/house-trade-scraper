@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12",
+  "generated_at": "2026-09-13",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 9722,
@@ -17666,14 +17666,15 @@
       "closed_trade_count": 220,
       "closed_priceable_count": 202,
       "closed_total_cost_basis_usd": 1813098.0,
-      "open_mtm_return_disclosure_pct": 11.22,
+      "open_mtm_return_disclosure_pct": 11.09,
       "open_position_count": 661,
-      "open_priceable_count": 646,
-      "open_total_cost_basis_usd": 6811824.0,
+      "open_priceable_count": 645,
+      "open_total_cost_basis_usd": 6803824.0,
       "unmatched_sale_count": 187,
       "untracked_tickers": [
         "AZSEY",
         "BRK.B",
+        "CRNX",
         "CTRA",
         "DAY",
         "EA",
@@ -26534,9 +26535,9 @@
           "purchase_date": "2026-03-03",
           "purchase_disclosure_date": "2026-04-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 125.33,
-          "mtm_return_transaction_pct": 111.74,
-          "priceable": true
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
         },
         {
           "ticker": "GLW",
