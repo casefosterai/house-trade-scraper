@@ -2,10 +2,10 @@
   "generated_at": "2026-09-14",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9722,
+    "trade_records": 9728,
     "closed_positions": 1976,
-    "open_positions": 2555,
-    "unmatched_sales": 2256,
+    "open_positions": 2557,
+    "unmatched_sales": 2260,
     "skipped": {
       "options_misclassified_as_stock": 1,
       "options_not_supported": 46,
@@ -41092,7 +41092,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 5,
+      "unmatched_sale_count": 7,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -41109,16 +41109,6 @@
           "proceeds_usd": 32500.5
         },
         {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Raymond James Brokerage Account",
-          "sale_trade_id": "20030610-8",
-          "sale_date": "2025-06-03",
-          "sale_disclosure_date": "2025-06-04",
-          "proceeds_usd": 375000.5
-        },
-        {
           "ticker": "SMCWX",
           "asset_description": "AMERICAN FUNDS SMALLCAP WORLD FUND CL A M/F (SMCWX) [OT] L: US",
           "owner": "",
@@ -41129,14 +41119,14 @@
           "proceeds_usd": 750000.5
         },
         {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "ticker": "SMCWX",
+          "asset_description": "2000140446 American Funds AMCAP Fund Class A M/F [MF} [OT] L: US M/F (SMCWX) when it should have been identified as American Funds AMCAP Fund Class A M/F [MF}",
           "owner": "",
           "subholding_of": "Raymond James Brokerage Account",
-          "sale_trade_id": "20030610-1",
+          "sale_trade_id": "20035445-0",
           "sale_date": "2025-06-03",
           "sale_disclosure_date": "2025-06-04",
-          "proceeds_usd": 375000.5
+          "proceeds_usd": 750000.5
         },
         {
           "ticker": "GOOGL",
@@ -41147,6 +41137,36 @@
           "sale_date": "2025-06-03",
           "sale_disclosure_date": "2025-06-04",
           "proceeds_usd": 3000000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "2000140445 Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "Raymond James Brokerage Account",
+          "sale_trade_id": "20035444-0",
+          "sale_date": "2025-06-03",
+          "sale_disclosure_date": "2025-06-04",
+          "proceeds_usd": 375000.5
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Raymond James Brokerage Account",
+          "sale_trade_id": "20030610-8",
+          "sale_date": "2025-06-03",
+          "sale_disclosure_date": "2025-06-04",
+          "proceeds_usd": 375000.5
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Raymond James Brokerage Account",
+          "sale_trade_id": "20030610-1",
+          "sale_date": "2025-06-03",
+          "sale_disclosure_date": "2025-06-04",
+          "proceeds_usd": 375000.5
         }
       ]
     },
@@ -84441,11 +84461,11 @@
       "closed_trade_count": 10,
       "closed_priceable_count": 10,
       "closed_total_cost_basis_usd": 80005.0,
-      "open_mtm_return_disclosure_pct": 20.9,
-      "open_position_count": 46,
-      "open_priceable_count": 45,
-      "open_total_cost_basis_usd": 368522.0,
-      "unmatched_sale_count": 27,
+      "open_mtm_return_disclosure_pct": 19.84,
+      "open_position_count": 48,
+      "open_priceable_count": 47,
+      "open_total_cost_basis_usd": 384522.0,
+      "unmatched_sale_count": 29,
       "untracked_tickers": [
         "FI"
       ],
@@ -84623,6 +84643,58 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "MTZ",
+          "asset_description": "MasTec, Inc. Common Stock (MTZ) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20035431-3",
+          "purchase_date": "2026-08-21",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -4.22,
+          "mtm_return_transaction_pct": -14.48,
+          "priceable": true
+        },
+        {
+          "ticker": "LIN",
+          "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20034190-2",
+          "purchase_date": "2026-02-18",
+          "purchase_disclosure_date": "2026-03-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -7.09,
+          "mtm_return_transaction_pct": -3.95,
+          "priceable": true
+        },
+        {
+          "ticker": "LIN",
+          "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20034327-2",
+          "purchase_date": "2026-03-26",
+          "purchase_disclosure_date": "2026-04-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -7.57,
+          "mtm_return_transaction_pct": -6.25,
+          "priceable": true
+        },
+        {
+          "ticker": "LIN",
+          "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
+          "owner": "",
+          "subholding_of": "Kean Family Partnership",
+          "purchase_trade_id": "20035431-2",
+          "purchase_date": "2026-08-10",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -5.12,
+          "mtm_return_transaction_pct": -5.19,
+          "priceable": true
+        },
         {
           "ticker": "TOST",
           "asset_description": "Toast, Inc. Class A Common Stock (TOST) [ST]",
@@ -84923,32 +84995,6 @@
           "priceable": true
         },
         {
-          "ticker": "LIN",
-          "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20034190-2",
-          "purchase_date": "2026-02-18",
-          "purchase_disclosure_date": "2026-03-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -7.09,
-          "mtm_return_transaction_pct": -3.95,
-          "priceable": true
-        },
-        {
-          "ticker": "LIN",
-          "asset_description": "Linde plc - Ordinary Shares (LIN) [ST]",
-          "owner": "",
-          "subholding_of": "Kean Family Partnership",
-          "purchase_trade_id": "20034327-2",
-          "purchase_date": "2026-03-26",
-          "purchase_disclosure_date": "2026-04-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -7.57,
-          "mtm_return_transaction_pct": -6.25,
-          "priceable": true
-        },
-        {
           "ticker": "ABT",
           "asset_description": "Abbott Laboratories Common Stock (ABT) [ST]",
           "owner": "",
@@ -85224,6 +85270,76 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "JNJ",
+          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20033659-0",
+          "sale_date": "2025-11-20",
+          "sale_disclosure_date": "2025-12-05",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "JNJ",
+          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20034025-2",
+          "sale_date": "2026-01-23",
+          "sale_disclosure_date": "2026-02-05",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "JNJ",
+          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20035003-8",
+          "sale_date": "2026-06-02",
+          "sale_disclosure_date": "2026-06-18",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "JNJ",
+          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20035431-1",
+          "sale_date": "2026-08-27",
+          "sale_disclosure_date": "2026-09-10",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20035003-0",
+          "sale_date": "2026-06-02",
+          "sale_disclosure_date": "2026-06-18",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20035273-0",
+          "sale_date": "2026-07-22",
+          "sale_disclosure_date": "2026-08-07",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20035431-0",
+          "sale_date": "2026-08-27",
+          "sale_disclosure_date": "2026-09-10",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "SYK",
           "asset_description": "Stryker Corporation Common Stock (SYK) [ST]",
           "owner": "",
@@ -85259,26 +85375,6 @@
           "owner": "",
           "subholding_of": "State Street Bank & Trust Co.",
           "sale_trade_id": "20035273-4",
-          "sale_date": "2026-07-22",
-          "sale_disclosure_date": "2026-08-07",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "GOOGL",
-          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
-          "owner": "",
-          "subholding_of": "State Street Bank & Trust Co.",
-          "sale_trade_id": "20035003-0",
-          "sale_date": "2026-06-02",
-          "sale_disclosure_date": "2026-06-18",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "GOOGL",
-          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
-          "owner": "",
-          "subholding_of": "State Street Bank & Trust Co.",
-          "sale_trade_id": "20035273-0",
           "sale_date": "2026-07-22",
           "sale_disclosure_date": "2026-08-07",
           "proceeds_usd": 8000.5
@@ -85321,36 +85417,6 @@
           "sale_trade_id": "20035003-10",
           "sale_date": "2026-06-29",
           "sale_disclosure_date": "2026-07-13",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "JNJ",
-          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
-          "owner": "",
-          "subholding_of": "State Street Bank & Trust Co.",
-          "sale_trade_id": "20033659-0",
-          "sale_date": "2025-11-20",
-          "sale_disclosure_date": "2025-12-05",
-          "proceeds_usd": 32500.5
-        },
-        {
-          "ticker": "JNJ",
-          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
-          "owner": "",
-          "subholding_of": "State Street Bank & Trust Co.",
-          "sale_trade_id": "20034025-2",
-          "sale_date": "2026-01-23",
-          "sale_disclosure_date": "2026-02-05",
-          "proceeds_usd": 32500.5
-        },
-        {
-          "ticker": "JNJ",
-          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
-          "owner": "",
-          "subholding_of": "State Street Bank & Trust Co.",
-          "sale_trade_id": "20035003-8",
-          "sale_date": "2026-06-02",
-          "sale_disclosure_date": "2026-06-18",
           "proceeds_usd": 8000.5
         },
         {
