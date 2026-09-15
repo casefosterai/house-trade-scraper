@@ -2,13 +2,13 @@
   "generated_at": "2026-09-15",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9728,
+    "trade_records": 9740,
     "closed_positions": 1976,
-    "open_positions": 2557,
+    "open_positions": 2559,
     "unmatched_sales": 2260,
     "skipped": {
+      "options_not_supported": 50,
       "options_misclassified_as_stock": 1,
-      "options_not_supported": 46,
       "professionally_managed": 277
     },
     "politicians_total": 128,
@@ -42352,10 +42352,10 @@
       "closed_trade_count": 60,
       "closed_priceable_count": 55,
       "closed_total_cost_basis_usd": 440028.0,
-      "open_mtm_return_disclosure_pct": 20.34,
-      "open_position_count": 103,
-      "open_priceable_count": 99,
-      "open_total_cost_basis_usd": 792050.0,
+      "open_mtm_return_disclosure_pct": 19.88,
+      "open_position_count": 105,
+      "open_priceable_count": 101,
+      "open_total_cost_basis_usd": 808050.0,
       "unmatched_sale_count": 164,
       "untracked_tickers": [
         "BRK.B",
@@ -42366,7 +42366,7 @@
         "TPH"
       ],
       "excluded_by_reason": {
-        "options_not_supported": 21
+        "options_not_supported": 25
       },
       "closed_positions": [
         {
@@ -43391,6 +43391,32 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "QSR",
+          "asset_description": "Restaurant Brands International Inc. Common Shares (QSR) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035455-6",
+          "purchase_date": "2026-08-06",
+          "purchase_disclosure_date": "2026-09-14",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -4.31,
+          "mtm_return_transaction_pct": 3.52,
+          "priceable": true
+        },
+        {
+          "ticker": "AMAT",
+          "asset_description": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035455-0",
+          "purchase_date": "2026-08-06",
+          "purchase_disclosure_date": "2026-09-14",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -2.02,
+          "mtm_return_transaction_pct": -21.46,
+          "priceable": true
+        },
         {
           "ticker": "PANW",
           "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
