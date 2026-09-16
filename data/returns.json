@@ -2,10 +2,10 @@
   "generated_at": "2026-09-16",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9740,
+    "trade_records": 9744,
     "closed_positions": 1976,
-    "open_positions": 2559,
-    "unmatched_sales": 2260,
+    "open_positions": 2561,
+    "unmatched_sales": 2262,
     "skipped": {
       "options_not_supported": 50,
       "options_misclassified_as_stock": 1,
@@ -7660,11 +7660,11 @@
       "closed_trade_count": 31,
       "closed_priceable_count": 29,
       "closed_total_cost_basis_usd": 232014.0,
-      "open_mtm_return_disclosure_pct": 24.88,
-      "open_position_count": 45,
-      "open_priceable_count": 45,
-      "open_total_cost_basis_usd": 427022.0,
-      "unmatched_sale_count": 40,
+      "open_mtm_return_disclosure_pct": 23.82,
+      "open_position_count": 47,
+      "open_priceable_count": 47,
+      "open_total_cost_basis_usd": 443024.0,
+      "unmatched_sale_count": 42,
       "untracked_tickers": [
         "FI"
       ],
@@ -8200,6 +8200,58 @@
       ],
       "open_positions": [
         {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "purchase_trade_id": "20034297-0",
+          "purchase_date": "2026-03-20",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -19.13,
+          "mtm_return_transaction_pct": -15.85,
+          "priceable": true
+        },
+        {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "purchase_trade_id": "20035420-2",
+          "purchase_date": "2026-08-12",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -4.66,
+          "mtm_return_transaction_pct": 3.32,
+          "priceable": true
+        },
+        {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "SP",
+          "subholding_of": "Moran Wealth IRA",
+          "purchase_trade_id": "20034297-1",
+          "purchase_date": "2026-03-20",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -19.13,
+          "mtm_return_transaction_pct": -15.85,
+          "priceable": true
+        },
+        {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "SP",
+          "subholding_of": "Moran Wealth IRA",
+          "purchase_trade_id": "20035420-1",
+          "purchase_date": "2026-08-12",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": -4.66,
+          "mtm_return_transaction_pct": 3.32,
+          "priceable": true
+        },
+        {
           "ticker": "ZTS",
           "asset_description": "Zoetis Inc. Class A Common Stock (ZTS) [ST]",
           "owner": "SP",
@@ -8301,32 +8353,6 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": 19.99,
           "mtm_return_transaction_pct": 19.27,
-          "priceable": true
-        },
-        {
-          "ticker": "NFLX",
-          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
-          "owner": "SP",
-          "subholding_of": "Moran Wealth IRA",
-          "purchase_trade_id": "20034297-1",
-          "purchase_date": "2026-03-20",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -19.13,
-          "mtm_return_transaction_pct": -15.85,
-          "priceable": true
-        },
-        {
-          "ticker": "NFLX",
-          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
-          "owner": "",
-          "subholding_of": "Moran Wealth IRA",
-          "purchase_trade_id": "20034297-0",
-          "purchase_date": "2026-03-20",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -19.13,
-          "mtm_return_transaction_pct": -15.85,
           "priceable": true
         },
         {
@@ -8787,6 +8813,46 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "PH",
+          "asset_description": "Parker-Hannifin Corporation Common Stock (PH) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "sale_trade_id": "20033981-1",
+          "sale_date": "2026-01-08",
+          "sale_disclosure_date": "2026-02-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "PH",
+          "asset_description": "Parker-Hannifin Corporation Common Stock (PH) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "sale_trade_id": "20035420-3",
+          "sale_date": "2026-08-11",
+          "sale_disclosure_date": "2026-09-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "HWM",
+          "asset_description": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "sale_trade_id": "20032038-2",
+          "sale_date": "2025-08-07",
+          "sale_disclosure_date": "2025-09-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "HWM",
+          "asset_description": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
+          "owner": "",
+          "subholding_of": "Moran Wealth IRA",
+          "sale_trade_id": "20035420-0",
+          "sale_date": "2026-08-11",
+          "sale_disclosure_date": "2026-09-01",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "MPWR",
           "asset_description": "Monolithic Power Systems, Inc. - Common Stock (MPWR) [ST]",
           "owner": "SP",
@@ -8847,16 +8913,6 @@
           "proceeds_usd": 8000.5
         },
         {
-          "ticker": "PH",
-          "asset_description": "Parker-Hannifin Corporation Common Stock (PH) [ST]",
-          "owner": "",
-          "subholding_of": "Moran Wealth IRA",
-          "sale_trade_id": "20033981-1",
-          "sale_date": "2026-01-08",
-          "sale_disclosure_date": "2026-02-01",
-          "proceeds_usd": 8000.5
-        },
-        {
           "ticker": "HWM",
           "asset_description": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
           "owner": "SP",
@@ -8884,16 +8940,6 @@
           "sale_trade_id": "20032234-10",
           "sale_date": "2025-09-04",
           "sale_disclosure_date": "2025-10-01",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "HWM",
-          "asset_description": "Howmet Aerospace Inc. Common Stock (HWM) [ST]",
-          "owner": "",
-          "subholding_of": "Moran Wealth IRA",
-          "sale_trade_id": "20032038-2",
-          "sale_date": "2025-08-07",
-          "sale_disclosure_date": "2025-09-01",
           "proceeds_usd": 8000.5
         },
         {
