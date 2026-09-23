@@ -2,14 +2,14 @@
   "generated_at": "2026-09-23",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9772,
-    "closed_positions": 1979,
-    "open_positions": 2567,
-    "unmatched_sales": 2264,
+    "trade_records": 9780,
+    "closed_positions": 1980,
+    "open_positions": 2568,
+    "unmatched_sales": 2265,
     "skipped": {
       "options_not_supported": 50,
-      "options_misclassified_as_stock": 1,
-      "professionally_managed": 277
+      "professionally_managed": 280,
+      "options_misclassified_as_stock": 1
     },
     "politicians_total": 128,
     "politicians_on_leaderboard": 24
@@ -73521,12 +73521,22 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 6,
+      "unmatched_sale_count": 7,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
       "open_positions": [],
       "unmatched_sales": [
+        {
+          "ticker": "AAPL",
+          "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+          "owner": "SP",
+          "subholding_of": "IRA One",
+          "sale_trade_id": "20035499-0",
+          "sale_date": "2026-09-22",
+          "sale_disclosure_date": "2026-09-22",
+          "proceeds_usd": 175000.5
+        },
         {
           "ticker": "GOOGL",
           "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
@@ -74858,23 +74868,40 @@
       "chamber": "house",
       "state_district": "GA12",
       "party": "R",
-      "closed_return_disclosure_pct": -8.14,
-      "closed_return_transaction_pct": -19.86,
+      "closed_return_disclosure_pct": -16.46,
+      "closed_return_transaction_pct": -21.41,
       "closed_win_rate_pct": 0.0,
-      "closed_avg_return_pct": -8.14,
-      "closed_trade_count": 2,
-      "closed_priceable_count": 1,
-      "closed_total_cost_basis_usd": 32500.0,
-      "open_mtm_return_disclosure_pct": -7.82,
-      "open_position_count": 13,
-      "open_priceable_count": 12,
-      "open_total_cost_basis_usd": 218506.0,
+      "closed_avg_return_pct": -16.45,
+      "closed_trade_count": 3,
+      "closed_priceable_count": 2,
+      "closed_total_cost_basis_usd": 65001.0,
+      "open_mtm_return_disclosure_pct": -3.31,
+      "open_position_count": 14,
+      "open_priceable_count": 13,
+      "open_total_cost_basis_usd": 202006.0,
       "unmatched_sale_count": 16,
       "untracked_tickers": [
         "NFLX"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "ROL",
+          "asset_description": "Rollins, Inc. Common Stock (ROL) [ST]",
+          "owner": "SP",
+          "subholding_of": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+          "purchase_trade_id": "20026537-0",
+          "sale_trade_id": "20035492-1",
+          "purchase_date": "2024-12-12",
+          "purchase_disclosure_date": "2025-01-08",
+          "sale_date": "2026-08-12",
+          "sale_disclosure_date": "2026-09-15",
+          "cost_basis_usd": 32500.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -24.77,
+          "return_transaction_pct": -22.96,
+          "priceable": true
+        },
         {
           "ticker": "SPGI",
           "asset_description": "S&P Global Inc. Common Stock (SPGI) [ST]",
@@ -74911,6 +74938,32 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "TSM",
+          "asset_description": "Taiwan Semiconductor Manufacturing Company Ltd. (TSM) [ST]",
+          "owner": "SP",
+          "subholding_of": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+          "purchase_trade_id": "20035492-2",
+          "purchase_date": "2026-08-12",
+          "purchase_disclosure_date": "2026-09-15",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 8.71,
+          "mtm_return_transaction_pct": 6.66,
+          "priceable": true
+        },
+        {
+          "ticker": "AVGO",
+          "asset_description": "Broadcom Inc. - Common Stock (AVGO) [ST]",
+          "owner": "SP",
+          "subholding_of": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
+          "purchase_trade_id": "20035492-0",
+          "purchase_date": "2026-08-12",
+          "purchase_disclosure_date": "2026-09-15",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": 4.68,
+          "mtm_return_transaction_pct": -14.21,
+          "priceable": true
+        },
         {
           "ticker": "AVGO",
           "asset_description": "Broadcom Inc. - Common Stock (AVGO) [ST]",
@@ -75065,19 +75118,6 @@
           "cost_basis_usd": 32500.5,
           "mtm_return_disclosure_pct": -18.55,
           "mtm_return_transaction_pct": -12.73,
-          "priceable": true
-        },
-        {
-          "ticker": "ROL",
-          "asset_description": "Rollins, Inc. Common Stock (ROL) [ST]",
-          "owner": "SP",
-          "subholding_of": "R.W. Allen & Associates, Inc. > RWA&A - Securities",
-          "purchase_trade_id": "20026537-0",
-          "purchase_date": "2024-12-12",
-          "purchase_disclosure_date": "2025-01-08",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": -28.67,
-          "mtm_return_transaction_pct": -32.21,
           "priceable": true
         }
       ],
@@ -84182,7 +84222,7 @@
         "IBIT"
       ],
       "excluded_by_reason": {
-        "professionally_managed": 211
+        "professionally_managed": 214
       },
       "closed_positions": [],
       "open_positions": [
