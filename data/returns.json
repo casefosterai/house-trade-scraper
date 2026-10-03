@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9853,
+    "trade_records": 9866,
     "closed_positions": 1980,
-    "open_positions": 2570,
-    "unmatched_sales": 2318,
+    "open_positions": 2578,
+    "unmatched_sales": 2320,
     "skipped": {
       "options_not_supported": 50,
       "professionally_managed": 280,
@@ -4063,8 +4063,8 @@
           "purchase_date": "2026-08-19",
           "purchase_disclosure_date": "2026-09-01",
           "cost_basis_usd": 26507.5,
-          "mtm_return_disclosure_pct": 3.09,
-          "mtm_return_transaction_pct": -3.49,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
           "priceable": true
         },
         {
@@ -7363,8 +7363,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-03-31",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -4.68,
-          "mtm_return_transaction_pct": -6.84,
+          "mtm_return_disclosure_pct": -4.14,
+          "mtm_return_transaction_pct": -6.31,
           "priceable": true
         },
         {
@@ -9661,9 +9661,9 @@
       "closed_priceable_count": 20,
       "closed_total_cost_basis_usd": 335508.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 197,
-      "open_priceable_count": 195,
-      "open_total_cost_basis_usd": 20773099.0,
+      "open_position_count": 202,
+      "open_priceable_count": 200,
+      "open_total_cost_basis_usd": 20813102.0,
       "unmatched_sale_count": 7,
       "untracked_tickers": [
         "GOOG"
@@ -10012,6 +10012,539 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #1",
+          "purchase_trade_id": "20033616-11",
+          "purchase_date": "2025-12-03",
+          "purchase_disclosure_date": "2025-12-03",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "NFLX",
+          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #1",
+          "purchase_trade_id": "20035464-4",
+          "purchase_date": "2026-09-14",
+          "purchase_disclosure_date": "2026-09-14",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030472-0",
+          "purchase_date": "2025-06-05",
+          "purchase_disclosure_date": "2025-06-05",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030472-1",
+          "purchase_date": "2025-06-25",
+          "purchase_disclosure_date": "2025-06-25",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-5",
+          "purchase_date": "2025-07-14",
+          "purchase_disclosure_date": "2025-07-14",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-4",
+          "purchase_date": "2025-07-17",
+          "purchase_disclosure_date": "2025-07-17",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-2",
+          "purchase_date": "2025-07-29",
+          "purchase_disclosure_date": "2025-07-29",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-3",
+          "purchase_date": "2025-07-29",
+          "purchase_disclosure_date": "2025-07-29",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-1",
+          "purchase_date": "2025-07-30",
+          "purchase_disclosure_date": "2025-07-30",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20031017-2",
+          "purchase_date": "2025-08-01",
+          "purchase_disclosure_date": "2025-08-04",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20032106-3",
+          "purchase_date": "2025-09-03",
+          "purchase_disclosure_date": "2025-09-03",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20032106-0",
+          "purchase_date": "2025-09-17",
+          "purchase_disclosure_date": "2025-09-17",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20032106-1",
+          "purchase_date": "2025-09-17",
+          "purchase_disclosure_date": "2025-09-17",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20032106-2",
+          "purchase_date": "2025-09-17",
+          "purchase_disclosure_date": "2025-09-17",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20033326-1",
+          "purchase_date": "2025-10-10",
+          "purchase_disclosure_date": "2025-10-10",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20033424-1",
+          "purchase_date": "2025-10-29",
+          "purchase_disclosure_date": "2025-10-29",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20033616-4",
+          "purchase_date": "2025-12-15",
+          "purchase_disclosure_date": "2025-12-15",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20033858-1",
+          "purchase_date": "2026-01-20",
+          "purchase_disclosure_date": "2026-01-20",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20034295-0",
+          "purchase_date": "2026-03-16",
+          "purchase_disclosure_date": "2026-03-16",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20034800-0",
+          "purchase_date": "2026-06-15",
+          "purchase_disclosure_date": "2026-06-15",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GOOG",
+          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20035464-0",
+          "purchase_date": "2026-09-14",
+          "purchase_disclosure_date": "2026-09-14",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20030472-28",
+          "purchase_date": "2025-06-03",
+          "purchase_disclosure_date": "2025-06-03",
+          "cost_basis_usd": 375000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20030472-29",
+          "purchase_date": "2025-06-25",
+          "purchase_disclosure_date": "2025-06-25",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20033616-9",
+          "purchase_date": "2025-12-11",
+          "purchase_disclosure_date": "2025-12-11",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20034179-0",
+          "purchase_date": "2026-03-12",
+          "purchase_disclosure_date": "2026-03-12",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20034800-2",
+          "purchase_date": "2026-06-11",
+          "purchase_disclosure_date": "2026-06-11",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
+          "purchase_trade_id": "20035464-3",
+          "purchase_date": "2026-09-10",
+          "purchase_disclosure_date": "2026-09-10",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-26",
+          "purchase_date": "2025-07-16",
+          "purchase_disclosure_date": "2025-07-16",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-27",
+          "purchase_date": "2025-07-16",
+          "purchase_disclosure_date": "2025-07-16",
+          "cost_basis_usd": 32500.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-28",
+          "purchase_date": "2025-07-16",
+          "purchase_disclosure_date": "2025-07-16",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-31",
+          "purchase_date": "2025-07-28",
+          "purchase_disclosure_date": "2025-07-28",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-29",
+          "purchase_date": "2025-07-29",
+          "purchase_disclosure_date": "2025-07-29",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20030803-30",
+          "purchase_date": "2025-07-29",
+          "purchase_disclosure_date": "2025-07-29",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20031017-15",
+          "purchase_date": "2025-08-01",
+          "purchase_disclosure_date": "2025-08-04",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20031017-16",
+          "purchase_date": "2025-08-01",
+          "purchase_disclosure_date": "2025-08-04",
+          "cost_basis_usd": 175000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20031017-17",
+          "purchase_date": "2025-08-01",
+          "purchase_disclosure_date": "2025-08-04",
+          "cost_basis_usd": 75000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20033616-10",
+          "purchase_date": "2025-12-11",
+          "purchase_disclosure_date": "2025-12-11",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20034179-1",
+          "purchase_date": "2026-03-12",
+          "purchase_disclosure_date": "2026-03-12",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20034800-1",
+          "purchase_date": "2026-06-11",
+          "purchase_disclosure_date": "2026-06-11",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE #2",
+          "purchase_trade_id": "20035464-2",
+          "purchase_date": "2026-09-10",
+          "purchase_disclosure_date": "2026-09-10",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "AAPL",
+          "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+          "owner": "",
+          "subholding_of": "Morgan Stanley - E*TRADE IRA",
+          "purchase_trade_id": "20035464-1",
+          "purchase_date": "2026-09-08",
+          "purchase_disclosure_date": "2026-09-08",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
         {
           "ticker": "AAPL",
           "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
@@ -10936,461 +11469,6 @@
           "priceable": true
         },
         {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030472-0",
-          "purchase_date": "2025-06-05",
-          "purchase_disclosure_date": "2025-06-05",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": null,
-          "mtm_return_transaction_pct": null,
-          "priceable": false
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030472-1",
-          "purchase_date": "2025-06-25",
-          "purchase_disclosure_date": "2025-06-25",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-5",
-          "purchase_date": "2025-07-14",
-          "purchase_disclosure_date": "2025-07-14",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-4",
-          "purchase_date": "2025-07-17",
-          "purchase_disclosure_date": "2025-07-17",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-2",
-          "purchase_date": "2025-07-29",
-          "purchase_disclosure_date": "2025-07-29",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-3",
-          "purchase_date": "2025-07-29",
-          "purchase_disclosure_date": "2025-07-29",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-1",
-          "purchase_date": "2025-07-30",
-          "purchase_disclosure_date": "2025-07-30",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20031017-2",
-          "purchase_date": "2025-08-01",
-          "purchase_disclosure_date": "2025-08-04",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20032106-3",
-          "purchase_date": "2025-09-03",
-          "purchase_disclosure_date": "2025-09-03",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20032106-0",
-          "purchase_date": "2025-09-17",
-          "purchase_disclosure_date": "2025-09-17",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20032106-1",
-          "purchase_date": "2025-09-17",
-          "purchase_disclosure_date": "2025-09-17",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20032106-2",
-          "purchase_date": "2025-09-17",
-          "purchase_disclosure_date": "2025-09-17",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20033326-1",
-          "purchase_date": "2025-10-10",
-          "purchase_disclosure_date": "2025-10-10",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20033424-1",
-          "purchase_date": "2025-10-29",
-          "purchase_disclosure_date": "2025-10-29",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": null,
-          "mtm_return_transaction_pct": null,
-          "priceable": false
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20033616-4",
-          "purchase_date": "2025-12-15",
-          "purchase_disclosure_date": "2025-12-15",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20033858-1",
-          "purchase_date": "2026-01-20",
-          "purchase_disclosure_date": "2026-01-20",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20034295-0",
-          "purchase_date": "2026-03-16",
-          "purchase_disclosure_date": "2026-03-16",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GOOG",
-          "asset_description": "Alphabet Inc. - Class C Capital Stock (GOOG) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20034800-0",
-          "purchase_date": "2026-06-15",
-          "purchase_disclosure_date": "2026-06-15",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-          "purchase_trade_id": "20030472-28",
-          "purchase_date": "2025-06-03",
-          "purchase_disclosure_date": "2025-06-03",
-          "cost_basis_usd": 375000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-          "purchase_trade_id": "20030472-29",
-          "purchase_date": "2025-06-25",
-          "purchase_disclosure_date": "2025-06-25",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-          "purchase_trade_id": "20033616-9",
-          "purchase_date": "2025-12-11",
-          "purchase_disclosure_date": "2025-12-11",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-          "purchase_trade_id": "20034179-0",
-          "purchase_date": "2026-03-12",
-          "purchase_disclosure_date": "2026-03-12",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
-          "purchase_trade_id": "20034800-2",
-          "purchase_date": "2026-06-11",
-          "purchase_disclosure_date": "2026-06-11",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-26",
-          "purchase_date": "2025-07-16",
-          "purchase_disclosure_date": "2025-07-16",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-27",
-          "purchase_date": "2025-07-16",
-          "purchase_disclosure_date": "2025-07-16",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-28",
-          "purchase_date": "2025-07-16",
-          "purchase_disclosure_date": "2025-07-16",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-31",
-          "purchase_date": "2025-07-28",
-          "purchase_disclosure_date": "2025-07-28",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-29",
-          "purchase_date": "2025-07-29",
-          "purchase_disclosure_date": "2025-07-29",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20030803-30",
-          "purchase_date": "2025-07-29",
-          "purchase_disclosure_date": "2025-07-29",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20031017-15",
-          "purchase_date": "2025-08-01",
-          "purchase_disclosure_date": "2025-08-04",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20031017-16",
-          "purchase_date": "2025-08-01",
-          "purchase_disclosure_date": "2025-08-04",
-          "cost_basis_usd": 175000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20031017-17",
-          "purchase_date": "2025-08-01",
-          "purchase_disclosure_date": "2025-08-04",
-          "cost_basis_usd": 75000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20033616-10",
-          "purchase_date": "2025-12-11",
-          "purchase_disclosure_date": "2025-12-11",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20034179-1",
-          "purchase_date": "2026-03-12",
-          "purchase_disclosure_date": "2026-03-12",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "MSFT",
-          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #2",
-          "purchase_trade_id": "20034800-1",
-          "purchase_date": "2026-06-11",
-          "purchase_disclosure_date": "2026-06-11",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "QNT",
           "asset_description": "Quantinuum Inc. - Class A Common Stock (QNT) [ST]",
           "owner": "",
@@ -11864,19 +11942,6 @@
           "owner": "",
           "subholding_of": "Morgan Stanley - E*TRADE - Fields Law Firm 2, LLC",
           "purchase_trade_id": "20033616-12",
-          "purchase_date": "2025-12-03",
-          "purchase_disclosure_date": "2025-12-03",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "NFLX",
-          "asset_description": "Netflix, Inc. - Common Stock (NFLX) [ST]",
-          "owner": "",
-          "subholding_of": "Morgan Stanley - E*TRADE #1",
-          "purchase_trade_id": "20033616-11",
           "purchase_date": "2025-12-03",
           "purchase_disclosure_date": "2025-12-03",
           "cost_basis_usd": 8000.5,
@@ -13757,13 +13822,81 @@
       "closed_priceable_count": 44,
       "closed_total_cost_basis_usd": 369020.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 87,
-      "open_priceable_count": 87,
-      "open_total_cost_basis_usd": 704044.0,
-      "unmatched_sale_count": 57,
+      "open_position_count": 90,
+      "open_priceable_count": 90,
+      "open_total_cost_basis_usd": 728046.0,
+      "unmatched_sale_count": 59,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20030782-10",
+          "sale_trade_id": "20034138-16",
+          "purchase_date": "2025-08-14",
+          "purchase_disclosure_date": "2025-08-19",
+          "sale_date": "2026-02-26",
+          "sale_disclosure_date": "2026-03-05",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 34.31,
+          "return_transaction_pct": 25.82,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20033666-2",
+          "sale_trade_id": "20033916-11",
+          "purchase_date": "2025-12-10",
+          "purchase_disclosure_date": "2025-12-19",
+          "sale_date": "2026-01-16",
+          "sale_disclosure_date": "2026-01-30",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 8.58,
+          "return_transaction_pct": 8.27,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20034207-3",
+          "sale_trade_id": "20034489-2",
+          "purchase_date": "2026-03-12",
+          "purchase_disclosure_date": "2026-03-19",
+          "sale_date": "2026-04-27",
+          "sale_disclosure_date": "2026-05-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -0.19,
+          "return_transaction_pct": -1.96,
+          "priceable": true
+        },
+        {
+          "ticker": "AMGN",
+          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20033916-3",
+          "sale_trade_id": "20033916-4",
+          "purchase_date": "2026-01-16",
+          "purchase_disclosure_date": "2026-01-30",
+          "sale_date": "2026-01-29",
+          "sale_disclosure_date": "2026-01-30",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 0.0,
+          "return_transaction_pct": 3.79,
+          "priceable": true
+        },
         {
           "ticker": "IBP",
           "asset_description": "Installed Building Products, Inc. Common Stock (IBP) [ST]",
@@ -13969,23 +14102,6 @@
           "priceable": true
         },
         {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20030782-10",
-          "sale_trade_id": "20034138-16",
-          "purchase_date": "2025-08-14",
-          "purchase_disclosure_date": "2025-08-19",
-          "sale_date": "2026-02-26",
-          "sale_disclosure_date": "2026-03-05",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 34.31,
-          "return_transaction_pct": 25.82,
-          "priceable": true
-        },
-        {
           "ticker": "KR",
           "asset_description": "Kroger Company (KR) [ST]",
           "owner": "",
@@ -14139,23 +14255,6 @@
           "priceable": true
         },
         {
-          "ticker": "AMGN",
-          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20033916-3",
-          "sale_trade_id": "20033916-4",
-          "purchase_date": "2026-01-16",
-          "purchase_disclosure_date": "2026-01-30",
-          "sale_date": "2026-01-29",
-          "sale_disclosure_date": "2026-01-30",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 0.0,
-          "return_transaction_pct": 3.79,
-          "priceable": true
-        },
-        {
           "ticker": "AEP",
           "asset_description": "American Electric Power Company, Inc. (AEP) [ST]",
           "owner": "",
@@ -14204,40 +14303,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": -0.95,
           "return_transaction_pct": 4.82,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20033666-2",
-          "sale_trade_id": "20033916-11",
-          "purchase_date": "2025-12-10",
-          "purchase_disclosure_date": "2025-12-19",
-          "sale_date": "2026-01-16",
-          "sale_disclosure_date": "2026-01-30",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": 8.58,
-          "return_transaction_pct": 8.27,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20034207-3",
-          "sale_trade_id": "20034489-2",
-          "purchase_date": "2026-03-12",
-          "purchase_disclosure_date": "2026-03-19",
-          "sale_date": "2026-04-27",
-          "sale_disclosure_date": "2026-05-01",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": -0.19,
-          "return_transaction_pct": -1.96,
           "priceable": true
         },
         {
@@ -14514,6 +14579,110 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "purchase_trade_id": "20033495-4",
+          "purchase_date": "2025-11-11",
+          "purchase_disclosure_date": "2025-11-14",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "purchase_trade_id": "20034489-3",
+          "purchase_date": "2026-04-27",
+          "purchase_disclosure_date": "2026-05-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "purchase_trade_id": "20034650-7",
+          "purchase_date": "2026-05-15",
+          "purchase_disclosure_date": "2026-05-28",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "purchase_trade_id": "20035549-2",
+          "purchase_date": "2026-09-22",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20034650-6",
+          "purchase_date": "2026-05-15",
+          "purchase_disclosure_date": "2026-05-28",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20035549-1",
+          "purchase_date": "2026-09-22",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "AMGN",
+          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20034780-3",
+          "purchase_date": "2026-06-05",
+          "purchase_disclosure_date": "2026-06-11",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "AMGN",
+          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "purchase_trade_id": "20035549-0",
+          "purchase_date": "2026-09-22",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
         {
           "ticker": "PG",
           "asset_description": "Procter & Gamble Company (PG) [ST]",
@@ -15035,19 +15204,6 @@
           "priceable": true
         },
         {
-          "ticker": "AMGN",
-          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20034780-3",
-          "purchase_date": "2026-06-05",
-          "purchase_disclosure_date": "2026-06-11",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "AEP",
           "asset_description": "American Electric Power Company, Inc. (AEP) [ST]",
           "owner": "",
@@ -15118,58 +15274,6 @@
           "owner": "",
           "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
           "purchase_trade_id": "20034650-8",
-          "purchase_date": "2026-05-15",
-          "purchase_disclosure_date": "2026-05-28",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "purchase_trade_id": "20033495-4",
-          "purchase_date": "2025-11-11",
-          "purchase_disclosure_date": "2025-11-14",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "purchase_trade_id": "20034489-3",
-          "purchase_date": "2026-04-27",
-          "purchase_disclosure_date": "2026-05-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "purchase_trade_id": "20034650-7",
-          "purchase_date": "2026-05-15",
-          "purchase_disclosure_date": "2026-05-28",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "purchase_trade_id": "20034650-6",
           "purchase_date": "2026-05-15",
           "purchase_disclosure_date": "2026-05-28",
           "cost_basis_usd": 8000.5,
@@ -15648,6 +15752,106 @@
       ],
       "unmatched_sales": [
         {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20030782-9",
+          "sale_date": "2025-07-18",
+          "sale_disclosure_date": "2025-07-31",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20034207-7",
+          "sale_date": "2026-03-11",
+          "sale_disclosure_date": "2026-03-19",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20035146-7",
+          "sale_date": "2026-07-24",
+          "sale_disclosure_date": "2026-08-06",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20035549-4",
+          "sale_date": "2026-09-22",
+          "sale_disclosure_date": "2026-10-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "sale_trade_id": "20030782-8",
+          "sale_date": "2025-07-18",
+          "sale_disclosure_date": "2025-07-31",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "sale_trade_id": "20034207-6",
+          "sale_date": "2026-03-11",
+          "sale_disclosure_date": "2026-03-19",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "sale_trade_id": "20035146-6",
+          "sale_date": "2026-07-24",
+          "sale_disclosure_date": "2026-08-06",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MPC",
+          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
+          "sale_trade_id": "20035549-3",
+          "sale_date": "2026-09-22",
+          "sale_disclosure_date": "2026-10-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "AMGN",
+          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20033590-1",
+          "sale_date": "2025-12-03",
+          "sale_disclosure_date": "2025-12-05",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "AMGN",
+          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
+          "owner": "",
+          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
+          "sale_trade_id": "20034138-3",
+          "sale_date": "2026-02-26",
+          "sale_disclosure_date": "2026-03-05",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "MSFT",
           "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
           "owner": "",
@@ -15818,66 +16022,6 @@
           "proceeds_usd": 24500.0
         },
         {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "sale_trade_id": "20030782-9",
-          "sale_date": "2025-07-18",
-          "sale_disclosure_date": "2025-07-31",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "sale_trade_id": "20034207-7",
-          "sale_date": "2026-03-11",
-          "sale_disclosure_date": "2026-03-19",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "sale_trade_id": "20035146-7",
-          "sale_date": "2026-07-24",
-          "sale_disclosure_date": "2026-08-06",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "sale_trade_id": "20030782-8",
-          "sale_date": "2025-07-18",
-          "sale_disclosure_date": "2025-07-31",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "sale_trade_id": "20034207-6",
-          "sale_date": "2026-03-11",
-          "sale_disclosure_date": "2026-03-19",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MPC",
-          "asset_description": "Marathon Petroleum Corporation Common Stock (MPC) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Schwab Joint Brokerage #1 (Home Grown)",
-          "sale_trade_id": "20035146-6",
-          "sale_date": "2026-07-24",
-          "sale_disclosure_date": "2026-08-06",
-          "proceeds_usd": 8000.5
-        },
-        {
           "ticker": "AVGO",
           "asset_description": "Broadcom Inc. - Common Stock (AVGO) [ST]",
           "owner": "",
@@ -15985,26 +16129,6 @@
           "sale_trade_id": "20034780-6",
           "sale_date": "2026-06-05",
           "sale_disclosure_date": "2026-06-11",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "AMGN",
-          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "sale_trade_id": "20033590-1",
-          "sale_date": "2025-12-03",
-          "sale_disclosure_date": "2025-12-05",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "AMGN",
-          "asset_description": "Amgen Inc. - Common Stock (AMGN) [ST]",
-          "owner": "",
-          "subholding_of": "David Taylor Trust > Sardinia Ready Mix 401(k) - Dave",
-          "sale_trade_id": "20034138-3",
-          "sale_date": "2026-02-26",
-          "sale_disclosure_date": "2026-03-05",
           "proceeds_usd": 8000.5
         },
         {
@@ -16319,8 +16443,8 @@
           "purchase_date": "2026-04-21",
           "purchase_disclosure_date": "2026-04-27",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -9.07,
-          "mtm_return_transaction_pct": -9.87,
+          "mtm_return_disclosure_pct": -10.11,
+          "mtm_return_transaction_pct": -10.89,
           "priceable": true
         },
         {
@@ -24124,8 +24248,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -3.67,
-          "mtm_return_transaction_pct": -0.75,
+          "mtm_return_disclosure_pct": -12.14,
+          "mtm_return_transaction_pct": -9.48,
           "priceable": true
         },
         {
@@ -24137,8 +24261,8 @@
           "purchase_date": "2026-06-09",
           "purchase_disclosure_date": "2026-07-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -10.0,
-          "mtm_return_transaction_pct": -0.64,
+          "mtm_return_disclosure_pct": -17.91,
+          "mtm_return_transaction_pct": -9.37,
           "priceable": true
         },
         {
@@ -24813,8 +24937,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 17.29,
-          "mtm_return_transaction_pct": 40.09,
+          "mtm_return_disclosure_pct": 19.77,
+          "mtm_return_transaction_pct": 43.04,
           "priceable": true
         },
         {
@@ -24995,8 +25119,8 @@
           "purchase_date": "2026-05-18",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -79.17,
-          "mtm_return_transaction_pct": -76.15,
+          "mtm_return_disclosure_pct": -78.47,
+          "mtm_return_transaction_pct": -75.35,
           "priceable": true
         },
         {
@@ -25021,8 +25145,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -4.83,
-          "mtm_return_transaction_pct": -5.46,
+          "mtm_return_disclosure_pct": -5.08,
+          "mtm_return_transaction_pct": -5.71,
           "priceable": true
         },
         {
@@ -25255,8 +25379,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -46.47,
-          "mtm_return_transaction_pct": -48.33,
+          "mtm_return_disclosure_pct": -46.52,
+          "mtm_return_transaction_pct": -48.37,
           "priceable": true
         },
         {
@@ -25268,8 +25392,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -43.16,
-          "mtm_return_transaction_pct": -42.4,
+          "mtm_return_disclosure_pct": -43.21,
+          "mtm_return_transaction_pct": -42.45,
           "priceable": true
         },
         {
@@ -25281,8 +25405,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -42.4,
-          "mtm_return_transaction_pct": -47.86,
+          "mtm_return_disclosure_pct": -42.45,
+          "mtm_return_transaction_pct": -47.91,
           "priceable": true
         },
         {
@@ -25853,8 +25977,8 @@
           "purchase_date": "2026-04-24",
           "purchase_disclosure_date": "2026-05-07",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 19.66,
-          "mtm_return_transaction_pct": 7.21,
+          "mtm_return_disclosure_pct": 23.29,
+          "mtm_return_transaction_pct": 10.46,
           "priceable": true
         },
         {
@@ -26048,8 +26172,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -45.76,
-          "mtm_return_transaction_pct": -47.39,
+          "mtm_return_disclosure_pct": -42.36,
+          "mtm_return_transaction_pct": -44.09,
           "priceable": true
         },
         {
@@ -26061,8 +26185,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -46.0,
-          "mtm_return_transaction_pct": -43.1,
+          "mtm_return_disclosure_pct": -42.61,
+          "mtm_return_transaction_pct": -39.53,
           "priceable": true
         },
         {
@@ -26074,8 +26198,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -45.44,
-          "mtm_return_transaction_pct": -41.52,
+          "mtm_return_disclosure_pct": -42.02,
+          "mtm_return_transaction_pct": -37.86,
           "priceable": true
         },
         {
@@ -26516,8 +26640,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -34.31,
-          "mtm_return_transaction_pct": -39.47,
+          "mtm_return_disclosure_pct": -33.57,
+          "mtm_return_transaction_pct": -38.79,
           "priceable": true
         },
         {
@@ -26529,8 +26653,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -32.45,
-          "mtm_return_transaction_pct": -37.81,
+          "mtm_return_disclosure_pct": -31.7,
+          "mtm_return_transaction_pct": -37.12,
           "priceable": true
         },
         {
@@ -26542,8 +26666,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -38.37,
-          "mtm_return_transaction_pct": -39.5,
+          "mtm_return_disclosure_pct": -37.68,
+          "mtm_return_transaction_pct": -38.82,
           "priceable": true
         },
         {
@@ -26555,8 +26679,8 @@
           "purchase_date": "2026-03-27",
           "purchase_disclosure_date": "2026-04-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -18.11,
-          "mtm_return_transaction_pct": -18.11,
+          "mtm_return_disclosure_pct": -17.19,
+          "mtm_return_transaction_pct": -17.19,
           "priceable": true
         },
         {
@@ -26997,8 +27121,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -41.1,
-          "mtm_return_transaction_pct": -35.4,
+          "mtm_return_disclosure_pct": -43.12,
+          "mtm_return_transaction_pct": -37.61,
           "priceable": true
         },
         {
@@ -27010,8 +27134,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -33.13,
-          "mtm_return_transaction_pct": -26.21,
+          "mtm_return_disclosure_pct": -35.42,
+          "mtm_return_transaction_pct": -28.74,
           "priceable": true
         },
         {
@@ -27231,8 +27355,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -11.13,
-          "mtm_return_transaction_pct": -11.78,
+          "mtm_return_disclosure_pct": -14.07,
+          "mtm_return_transaction_pct": -14.7,
           "priceable": true
         },
         {
@@ -27244,8 +27368,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -5.36,
-          "mtm_return_transaction_pct": -2.79,
+          "mtm_return_disclosure_pct": -8.49,
+          "mtm_return_transaction_pct": -6.01,
           "priceable": true
         },
         {
@@ -27257,8 +27381,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -25.29,
-          "mtm_return_transaction_pct": -16.37,
+          "mtm_return_disclosure_pct": -27.76,
+          "mtm_return_transaction_pct": -19.14,
           "priceable": true
         },
         {
@@ -27270,8 +27394,8 @@
           "purchase_date": "2026-02-13",
           "purchase_disclosure_date": "2026-03-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -15.7,
-          "mtm_return_transaction_pct": -24.68,
+          "mtm_return_disclosure_pct": -18.49,
+          "mtm_return_transaction_pct": -27.18,
           "priceable": true
         },
         {
@@ -27647,8 +27771,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -13.36,
-          "mtm_return_transaction_pct": -20.13,
+          "mtm_return_disclosure_pct": -15.37,
+          "mtm_return_transaction_pct": -21.99,
           "priceable": true
         },
         {
@@ -28310,8 +28434,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -42.62,
-          "mtm_return_transaction_pct": -42.18,
+          "mtm_return_disclosure_pct": -41.9,
+          "mtm_return_transaction_pct": -41.45,
           "priceable": true
         },
         {
@@ -28323,8 +28447,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -31.44,
-          "mtm_return_transaction_pct": -39.56,
+          "mtm_return_disclosure_pct": -30.58,
+          "mtm_return_transaction_pct": -38.8,
           "priceable": true
         },
         {
@@ -28349,8 +28473,8 @@
           "purchase_date": "2025-12-19",
           "purchase_disclosure_date": "2026-01-09",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 40.52,
-          "mtm_return_transaction_pct": 54.35,
+          "mtm_return_disclosure_pct": 36.99,
+          "mtm_return_transaction_pct": 50.48,
           "priceable": true
         },
         {
@@ -28661,8 +28785,8 @@
           "purchase_date": "2025-08-08",
           "purchase_disclosure_date": "2025-09-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 58.84,
-          "mtm_return_transaction_pct": 71.31,
+          "mtm_return_disclosure_pct": 54.86,
+          "mtm_return_transaction_pct": 67.01,
           "priceable": true
         },
         {
@@ -28674,8 +28798,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 62.28,
-          "mtm_return_transaction_pct": 57.86,
+          "mtm_return_disclosure_pct": 58.21,
+          "mtm_return_transaction_pct": 53.9,
           "priceable": true
         },
         {
@@ -28687,8 +28811,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 49.97,
-          "mtm_return_transaction_pct": 61.64,
+          "mtm_return_disclosure_pct": 46.21,
+          "mtm_return_transaction_pct": 57.58,
           "priceable": true
         },
         {
@@ -28830,8 +28954,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 13.05,
-          "mtm_return_transaction_pct": 18.25,
+          "mtm_return_disclosure_pct": 12.81,
+          "mtm_return_transaction_pct": 18.0,
           "priceable": true
         },
         {
@@ -28843,8 +28967,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 13.37,
-          "mtm_return_transaction_pct": 14.14,
+          "mtm_return_disclosure_pct": 13.14,
+          "mtm_return_transaction_pct": 13.9,
           "priceable": true
         },
         {
@@ -29077,8 +29201,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-04-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 86.03,
-          "mtm_return_transaction_pct": 67.17,
+          "mtm_return_disclosure_pct": 95.36,
+          "mtm_return_transaction_pct": 75.56,
           "priceable": true
         },
         {
@@ -29090,8 +29214,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 12.67,
-          "mtm_return_transaction_pct": 25.27,
+          "mtm_return_disclosure_pct": 18.32,
+          "mtm_return_transaction_pct": 31.55,
           "priceable": true
         },
         {
@@ -29103,8 +29227,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 1.18,
-          "mtm_return_transaction_pct": 17.48,
+          "mtm_return_disclosure_pct": 6.25,
+          "mtm_return_transaction_pct": 23.38,
           "priceable": true
         },
         {
@@ -29155,8 +29279,8 @@
           "purchase_date": "2025-09-18",
           "purchase_disclosure_date": "2025-10-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 25.57,
-          "mtm_return_transaction_pct": 26.21,
+          "mtm_return_disclosure_pct": 23.23,
+          "mtm_return_transaction_pct": 23.86,
           "priceable": true
         },
         {
@@ -29168,8 +29292,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 19.64,
-          "mtm_return_transaction_pct": 30.73,
+          "mtm_return_disclosure_pct": 17.41,
+          "mtm_return_transaction_pct": 28.3,
           "priceable": true
         },
         {
@@ -29194,8 +29318,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-04-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -12.95,
-          "mtm_return_transaction_pct": -18.02,
+          "mtm_return_disclosure_pct": -14.97,
+          "mtm_return_transaction_pct": -19.93,
           "priceable": true
         },
         {
@@ -29207,8 +29331,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -35.73,
-          "mtm_return_transaction_pct": -33.03,
+          "mtm_return_disclosure_pct": -37.23,
+          "mtm_return_transaction_pct": -34.59,
           "priceable": true
         },
         {
@@ -29220,8 +29344,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -30.32,
-          "mtm_return_transaction_pct": -31.16,
+          "mtm_return_disclosure_pct": -31.94,
+          "mtm_return_transaction_pct": -32.76,
           "priceable": true
         },
         {
@@ -29246,8 +29370,8 @@
           "purchase_date": "2025-07-03",
           "purchase_disclosure_date": "2025-08-13",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 40.96,
-          "mtm_return_transaction_pct": 53.42,
+          "mtm_return_disclosure_pct": 37.97,
+          "mtm_return_transaction_pct": 50.17,
           "priceable": true
         },
         {
@@ -29259,8 +29383,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 36.49,
-          "mtm_return_transaction_pct": 39.71,
+          "mtm_return_disclosure_pct": 33.6,
+          "mtm_return_transaction_pct": 36.75,
           "priceable": true
         },
         {
@@ -29272,8 +29396,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 17.42,
-          "mtm_return_transaction_pct": 32.56,
+          "mtm_return_disclosure_pct": 14.94,
+          "mtm_return_transaction_pct": 29.75,
           "priceable": true
         },
         {
@@ -29285,8 +29409,8 @@
           "purchase_date": "2025-11-10",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 68.63,
-          "mtm_return_transaction_pct": 57.26,
+          "mtm_return_disclosure_pct": 64.22,
+          "mtm_return_transaction_pct": 53.14,
           "priceable": true
         },
         {
@@ -29363,8 +29487,8 @@
           "purchase_date": "2025-10-22",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 46.67,
-          "mtm_return_transaction_pct": 41.89,
+          "mtm_return_disclosure_pct": 46.04,
+          "mtm_return_transaction_pct": 41.28,
           "priceable": true
         },
         {
@@ -29662,8 +29786,8 @@
           "purchase_date": "2025-05-09",
           "purchase_disclosure_date": "2025-06-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 15.56,
-          "mtm_return_transaction_pct": 22.69,
+          "mtm_return_disclosure_pct": 14.12,
+          "mtm_return_transaction_pct": 21.16,
           "priceable": true
         },
         {
@@ -43875,8 +43999,8 @@
           "purchase_date": "2026-04-13",
           "purchase_disclosure_date": "2026-05-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -6.63,
-          "mtm_return_transaction_pct": 31.72,
+          "mtm_return_disclosure_pct": 1.14,
+          "mtm_return_transaction_pct": 42.68,
           "priceable": true
         },
         {
@@ -44629,8 +44753,8 @@
           "purchase_date": "2025-04-21",
           "purchase_disclosure_date": "2025-05-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 39.25,
-          "mtm_return_transaction_pct": 71.4,
+          "mtm_return_disclosure_pct": 40.41,
+          "mtm_return_transaction_pct": 72.83,
           "priceable": true
         },
         {
@@ -44707,8 +44831,8 @@
           "purchase_date": "2025-02-10",
           "purchase_disclosure_date": "2025-03-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 65.06,
-          "mtm_return_transaction_pct": 24.41,
+          "mtm_return_disclosure_pct": 73.21,
+          "mtm_return_transaction_pct": 30.56,
           "priceable": true
         },
         {
@@ -44746,8 +44870,8 @@
           "purchase_date": "2025-01-16",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -23.59,
-          "mtm_return_transaction_pct": -39.8,
+          "mtm_return_disclosure_pct": -24.62,
+          "mtm_return_transaction_pct": -40.61,
           "priceable": true
         },
         {
@@ -44759,8 +44883,8 @@
           "purchase_date": "2025-01-16",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 51.93,
-          "mtm_return_transaction_pct": 51.27,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
           "priceable": true
         },
         {
@@ -44772,8 +44896,8 @@
           "purchase_date": "2025-01-27",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 51.67,
-          "mtm_return_transaction_pct": 49.49,
+          "mtm_return_disclosure_pct": 55.43,
+          "mtm_return_transaction_pct": 53.21,
           "priceable": true
         },
         {
@@ -75217,8 +75341,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 72.28,
-          "mtm_return_transaction_pct": 82.24,
+          "mtm_return_disclosure_pct": 72.82,
+          "mtm_return_transaction_pct": 82.81,
           "priceable": true
         },
         {
@@ -75230,8 +75354,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 39.83,
-          "mtm_return_transaction_pct": 44.14,
+          "mtm_return_disclosure_pct": 40.21,
+          "mtm_return_transaction_pct": 44.53,
           "priceable": true
         },
         {
@@ -75256,8 +75380,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 14.1,
-          "mtm_return_transaction_pct": 15.24,
+          "mtm_return_disclosure_pct": 14.21,
+          "mtm_return_transaction_pct": 15.34,
           "priceable": true
         },
         {
@@ -75269,8 +75393,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 23.89,
-          "mtm_return_transaction_pct": 25.88,
+          "mtm_return_disclosure_pct": 23.23,
+          "mtm_return_transaction_pct": 25.21,
           "priceable": true
         },
         {
@@ -75282,8 +75406,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 23.32,
-          "mtm_return_transaction_pct": 26.66,
+          "mtm_return_disclosure_pct": 24.02,
+          "mtm_return_transaction_pct": 27.39,
           "priceable": true
         },
         {
@@ -75295,8 +75419,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 6.75,
-          "mtm_return_transaction_pct": 7.46,
+          "mtm_return_disclosure_pct": 7.11,
+          "mtm_return_transaction_pct": 7.83,
           "priceable": true
         },
         {
@@ -75308,8 +75432,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 8.4,
-          "mtm_return_transaction_pct": 9.57,
+          "mtm_return_disclosure_pct": 8.63,
+          "mtm_return_transaction_pct": 9.81,
           "priceable": true
         },
         {
@@ -75321,8 +75445,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 57.5,
-          "mtm_return_transaction_pct": 66.83,
+          "mtm_return_disclosure_pct": 57.14,
+          "mtm_return_transaction_pct": 66.44,
           "priceable": true
         }
       ],
@@ -83927,8 +84051,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 4.42,
-          "mtm_return_transaction_pct": 9.74,
+          "mtm_return_disclosure_pct": 4.2,
+          "mtm_return_transaction_pct": 9.51,
           "priceable": true
         },
         {
@@ -83940,8 +84064,8 @@
           "purchase_date": "2026-08-26",
           "purchase_disclosure_date": "2026-09-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -2.5,
-          "mtm_return_transaction_pct": -2.91,
+          "mtm_return_disclosure_pct": -2.71,
+          "mtm_return_transaction_pct": -3.12,
           "priceable": true
         },
         {
@@ -84343,8 +84467,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 0.53,
-          "mtm_return_transaction_pct": 1.95,
+          "mtm_return_disclosure_pct": 0.75,
+          "mtm_return_transaction_pct": 2.18,
           "priceable": true
         },
         {
@@ -84904,8 +85028,8 @@
           "purchase_date": "2025-12-26",
           "purchase_disclosure_date": "2026-01-21",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -4.99,
-          "mtm_return_transaction_pct": -8.11,
+          "mtm_return_disclosure_pct": -6.39,
+          "mtm_return_transaction_pct": -9.46,
           "priceable": true
         },
         {
@@ -88195,8 +88319,8 @@
           "purchase_date": "2026-05-07",
           "purchase_disclosure_date": "2026-05-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 15.9,
-          "mtm_return_transaction_pct": 14.94,
+          "mtm_return_disclosure_pct": 16.5,
+          "mtm_return_transaction_pct": 15.53,
           "priceable": true
         },
         {
@@ -92218,8 +92342,8 @@
           "purchase_date": "2024-10-29",
           "purchase_disclosure_date": "2025-09-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -12.03,
-          "mtm_return_transaction_pct": -32.04,
+          "mtm_return_disclosure_pct": -14.54,
+          "mtm_return_transaction_pct": -33.98,
           "priceable": true
         },
         {
