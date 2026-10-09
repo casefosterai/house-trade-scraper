@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9874,
-    "closed_positions": 1980,
-    "open_positions": 2583,
-    "unmatched_sales": 2321,
+    "trade_records": 9902,
+    "closed_positions": 1998,
+    "open_positions": 2582,
+    "unmatched_sales": 2323,
     "skipped": {
       "options_not_supported": 50,
       "professionally_managed": 280,
@@ -7363,8 +7363,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-03-31",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -3.74,
-          "mtm_return_transaction_pct": -5.91,
+          "mtm_return_disclosure_pct": -2.14,
+          "mtm_return_transaction_pct": -4.36,
           "priceable": true
         },
         {
@@ -16443,8 +16443,8 @@
           "purchase_date": "2026-04-21",
           "purchase_disclosure_date": "2026-04-27",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -11.35,
-          "mtm_return_transaction_pct": -12.13,
+          "mtm_return_disclosure_pct": -11.61,
+          "mtm_return_transaction_pct": -12.38,
           "priceable": true
         },
         {
@@ -24248,8 +24248,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -5.73,
-          "mtm_return_transaction_pct": -2.87,
+          "mtm_return_disclosure_pct": -10.63,
+          "mtm_return_transaction_pct": -7.92,
           "priceable": true
         },
         {
@@ -24261,8 +24261,8 @@
           "purchase_date": "2026-06-09",
           "purchase_disclosure_date": "2026-07-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -11.92,
-          "mtm_return_transaction_pct": -2.76,
+          "mtm_return_disclosure_pct": -16.5,
+          "mtm_return_transaction_pct": -7.82,
           "priceable": true
         },
         {
@@ -25119,8 +25119,8 @@
           "purchase_date": "2026-05-18",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -77.46,
-          "mtm_return_transaction_pct": -74.2,
+          "mtm_return_disclosure_pct": -79.28,
+          "mtm_return_transaction_pct": -76.28,
           "priceable": true
         },
         {
@@ -25145,8 +25145,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -8.05,
-          "mtm_return_transaction_pct": -8.66,
+          "mtm_return_disclosure_pct": -4.31,
+          "mtm_return_transaction_pct": -4.95,
           "priceable": true
         },
         {
@@ -25379,8 +25379,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -48.57,
-          "mtm_return_transaction_pct": -50.36,
+          "mtm_return_disclosure_pct": -47.96,
+          "mtm_return_transaction_pct": -49.76,
           "priceable": true
         },
         {
@@ -25392,8 +25392,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -45.39,
-          "mtm_return_transaction_pct": -44.67,
+          "mtm_return_disclosure_pct": -44.74,
+          "mtm_return_transaction_pct": -44.0,
           "priceable": true
         },
         {
@@ -25405,8 +25405,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -44.67,
-          "mtm_return_transaction_pct": -49.92,
+          "mtm_return_disclosure_pct": -44.0,
+          "mtm_return_transaction_pct": -49.31,
           "priceable": true
         },
         {
@@ -25977,8 +25977,8 @@
           "purchase_date": "2026-04-24",
           "purchase_disclosure_date": "2026-05-07",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 22.34,
-          "mtm_return_transaction_pct": 9.61,
+          "mtm_return_disclosure_pct": 23.55,
+          "mtm_return_transaction_pct": 10.69,
           "priceable": true
         },
         {
@@ -26172,8 +26172,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -42.72,
-          "mtm_return_transaction_pct": -44.43,
+          "mtm_return_disclosure_pct": -44.38,
+          "mtm_return_transaction_pct": -46.05,
           "priceable": true
         },
         {
@@ -26185,8 +26185,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -42.97,
-          "mtm_return_transaction_pct": -39.9,
+          "mtm_return_disclosure_pct": -44.63,
+          "mtm_return_transaction_pct": -41.65,
           "priceable": true
         },
         {
@@ -26198,8 +26198,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -42.37,
-          "mtm_return_transaction_pct": -38.24,
+          "mtm_return_disclosure_pct": -44.05,
+          "mtm_return_transaction_pct": -40.04,
           "priceable": true
         },
         {
@@ -26640,8 +26640,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -31.23,
-          "mtm_return_transaction_pct": -36.64,
+          "mtm_return_disclosure_pct": -33.21,
+          "mtm_return_transaction_pct": -38.47,
           "priceable": true
         },
         {
@@ -26653,8 +26653,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -29.3,
-          "mtm_return_transaction_pct": -34.9,
+          "mtm_return_disclosure_pct": -31.33,
+          "mtm_return_transaction_pct": -36.78,
           "priceable": true
         },
         {
@@ -26666,8 +26666,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -35.49,
-          "mtm_return_transaction_pct": -36.67,
+          "mtm_return_disclosure_pct": -37.35,
+          "mtm_return_transaction_pct": -38.49,
           "priceable": true
         },
         {
@@ -26679,8 +26679,8 @@
           "purchase_date": "2026-03-27",
           "purchase_disclosure_date": "2026-04-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -14.28,
-          "mtm_return_transaction_pct": -14.28,
+          "mtm_return_disclosure_pct": -16.75,
+          "mtm_return_transaction_pct": -16.75,
           "priceable": true
         },
         {
@@ -27121,8 +27121,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -43.12,
-          "mtm_return_transaction_pct": -37.61,
+          "mtm_return_disclosure_pct": -44.22,
+          "mtm_return_transaction_pct": -38.82,
           "priceable": true
         },
         {
@@ -27134,8 +27134,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -35.42,
-          "mtm_return_transaction_pct": -28.74,
+          "mtm_return_disclosure_pct": -36.67,
+          "mtm_return_transaction_pct": -30.11,
           "priceable": true
         },
         {
@@ -27355,8 +27355,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -14.0,
-          "mtm_return_transaction_pct": -14.63,
+          "mtm_return_disclosure_pct": -9.78,
+          "mtm_return_transaction_pct": -10.45,
           "priceable": true
         },
         {
@@ -27368,8 +27368,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -8.42,
-          "mtm_return_transaction_pct": -5.93,
+          "mtm_return_disclosure_pct": -3.92,
+          "mtm_return_transaction_pct": -1.32,
           "priceable": true
         },
         {
@@ -27381,8 +27381,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -27.7,
-          "mtm_return_transaction_pct": -19.07,
+          "mtm_return_disclosure_pct": -24.16,
+          "mtm_return_transaction_pct": -15.11,
           "priceable": true
         },
         {
@@ -27394,8 +27394,8 @@
           "purchase_date": "2026-02-13",
           "purchase_disclosure_date": "2026-03-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -18.42,
-          "mtm_return_transaction_pct": -27.12,
+          "mtm_return_disclosure_pct": -14.42,
+          "mtm_return_transaction_pct": -23.54,
           "priceable": true
         },
         {
@@ -27771,8 +27771,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -16.72,
-          "mtm_return_transaction_pct": -23.22,
+          "mtm_return_disclosure_pct": -18.55,
+          "mtm_return_transaction_pct": -24.92,
           "priceable": true
         },
         {
@@ -28434,8 +28434,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -43.63,
-          "mtm_return_transaction_pct": -43.2,
+          "mtm_return_disclosure_pct": -42.48,
+          "mtm_return_transaction_pct": -42.04,
           "priceable": true
         },
         {
@@ -28447,8 +28447,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -32.65,
-          "mtm_return_transaction_pct": -40.63,
+          "mtm_return_disclosure_pct": -31.28,
+          "mtm_return_transaction_pct": -39.42,
           "priceable": true
         },
         {
@@ -28954,8 +28954,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 13.67,
-          "mtm_return_transaction_pct": 18.9,
+          "mtm_return_disclosure_pct": 13.05,
+          "mtm_return_transaction_pct": 18.25,
           "priceable": true
         },
         {
@@ -28967,8 +28967,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 14.0,
-          "mtm_return_transaction_pct": 14.77,
+          "mtm_return_disclosure_pct": 13.37,
+          "mtm_return_transaction_pct": 14.14,
           "priceable": true
         },
         {
@@ -29201,8 +29201,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-04-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 77.01,
-          "mtm_return_transaction_pct": 59.06,
+          "mtm_return_disclosure_pct": 76.07,
+          "mtm_return_transaction_pct": 58.22,
           "priceable": true
         },
         {
@@ -29214,8 +29214,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 7.2,
-          "mtm_return_transaction_pct": 19.19,
+          "mtm_return_disclosure_pct": 6.64,
+          "mtm_return_transaction_pct": 18.56,
           "priceable": true
         },
         {
@@ -29227,8 +29227,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -3.73,
-          "mtm_return_transaction_pct": 11.78,
+          "mtm_return_disclosure_pct": -4.24,
+          "mtm_return_transaction_pct": 11.2,
           "priceable": true
         },
         {
@@ -29279,8 +29279,8 @@
           "purchase_date": "2025-09-18",
           "purchase_disclosure_date": "2025-10-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 22.34,
-          "mtm_return_transaction_pct": 22.97,
+          "mtm_return_disclosure_pct": 14.33,
+          "mtm_return_transaction_pct": 14.92,
           "priceable": true
         },
         {
@@ -29292,8 +29292,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 16.57,
-          "mtm_return_transaction_pct": 27.37,
+          "mtm_return_disclosure_pct": 8.94,
+          "mtm_return_transaction_pct": 19.04,
           "priceable": true
         },
         {
@@ -29318,8 +29318,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-04-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -14.89,
-          "mtm_return_transaction_pct": -19.85,
+          "mtm_return_disclosure_pct": -15.5,
+          "mtm_return_transaction_pct": -20.43,
           "priceable": true
         },
         {
@@ -29331,8 +29331,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -37.17,
-          "mtm_return_transaction_pct": -34.53,
+          "mtm_return_disclosure_pct": -37.62,
+          "mtm_return_transaction_pct": -35.0,
           "priceable": true
         },
         {
@@ -29344,8 +29344,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -31.88,
-          "mtm_return_transaction_pct": -32.7,
+          "mtm_return_disclosure_pct": -32.37,
+          "mtm_return_transaction_pct": -33.18,
           "priceable": true
         },
         {
@@ -29370,8 +29370,8 @@
           "purchase_date": "2025-07-03",
           "purchase_disclosure_date": "2025-08-13",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 38.01,
-          "mtm_return_transaction_pct": 50.22,
+          "mtm_return_disclosure_pct": 36.11,
+          "mtm_return_transaction_pct": 48.15,
           "priceable": true
         },
         {
@@ -29383,8 +29383,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 33.64,
-          "mtm_return_transaction_pct": 36.79,
+          "mtm_return_disclosure_pct": 31.8,
+          "mtm_return_transaction_pct": 34.91,
           "priceable": true
         },
         {
@@ -29396,8 +29396,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 14.97,
-          "mtm_return_transaction_pct": 29.79,
+          "mtm_return_disclosure_pct": 13.39,
+          "mtm_return_transaction_pct": 28.0,
           "priceable": true
         },
         {
@@ -29409,8 +29409,8 @@
           "purchase_date": "2025-11-10",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 73.36,
-          "mtm_return_transaction_pct": 61.66,
+          "mtm_return_disclosure_pct": 73.06,
+          "mtm_return_transaction_pct": 61.39,
           "priceable": true
         },
         {
@@ -29487,8 +29487,8 @@
           "purchase_date": "2025-10-22",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 48.92,
-          "mtm_return_transaction_pct": 44.07,
+          "mtm_return_disclosure_pct": 46.69,
+          "mtm_return_transaction_pct": 41.91,
           "priceable": true
         },
         {
@@ -29565,8 +29565,8 @@
           "purchase_date": "2025-10-30",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
+          "mtm_return_disclosure_pct": 7.91,
+          "mtm_return_transaction_pct": 3.7,
           "priceable": true
         },
         {
@@ -29786,8 +29786,8 @@
           "purchase_date": "2025-05-09",
           "purchase_disclosure_date": "2025-06-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 20.8,
-          "mtm_return_transaction_pct": 28.25,
+          "mtm_return_disclosure_pct": 15.53,
+          "mtm_return_transaction_pct": 22.66,
           "priceable": true
         },
         {
@@ -42541,17 +42541,17 @@
       "chamber": "house",
       "state_district": "NJ05",
       "party": "D",
-      "closed_return_disclosure_pct": -2.37,
-      "closed_return_transaction_pct": -9.93,
-      "closed_win_rate_pct": 40.0,
-      "closed_avg_return_pct": -2.37,
-      "closed_trade_count": 60,
-      "closed_priceable_count": 55,
-      "closed_total_cost_basis_usd": 440028.0,
+      "closed_return_disclosure_pct": -1.86,
+      "closed_return_transaction_pct": -10.14,
+      "closed_win_rate_pct": 41.1,
+      "closed_avg_return_pct": -1.86,
+      "closed_trade_count": 61,
+      "closed_priceable_count": 56,
+      "closed_total_cost_basis_usd": 448028.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 105,
-      "open_priceable_count": 101,
-      "open_total_cost_basis_usd": 808050.0,
+      "open_position_count": 104,
+      "open_priceable_count": 100,
+      "open_total_cost_basis_usd": 800050.0,
       "unmatched_sale_count": 164,
       "untracked_tickers": [
         "BRK.B",
@@ -42565,6 +42565,23 @@
         "options_not_supported": 25
       },
       "closed_positions": [
+        {
+          "ticker": "AMAT",
+          "asset_description": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
+          "purchase_trade_id": "20035455-0",
+          "sale_trade_id": "20035590-0",
+          "purchase_date": "2026-08-06",
+          "purchase_disclosure_date": "2026-09-14",
+          "sale_date": "2026-09-15",
+          "sale_disclosure_date": "2026-10-06",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": 26.63,
+          "return_transaction_pct": -21.46,
+          "priceable": true
+        },
         {
           "ticker": "IBM",
           "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
@@ -43601,19 +43618,6 @@
           "priceable": true
         },
         {
-          "ticker": "AMAT",
-          "asset_description": "Applied Materials, Inc. - Common Stock (AMAT) [ST]",
-          "owner": "JT",
-          "subholding_of": "Morgan Stanley - Select UMA Account # 1",
-          "purchase_trade_id": "20035455-0",
-          "purchase_date": "2026-08-06",
-          "purchase_disclosure_date": "2026-09-14",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "PANW",
           "asset_description": "Palo Alto Networks, Inc. (PANW) [ST]",
           "owner": "JT",
@@ -43999,8 +44003,8 @@
           "purchase_date": "2026-04-13",
           "purchase_disclosure_date": "2026-05-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -5.08,
-          "mtm_return_transaction_pct": 33.91,
+          "mtm_return_disclosure_pct": -9.86,
+          "mtm_return_transaction_pct": 27.17,
           "priceable": true
         },
         {
@@ -44753,8 +44757,8 @@
           "purchase_date": "2025-04-21",
           "purchase_disclosure_date": "2025-05-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 42.34,
-          "mtm_return_transaction_pct": 75.2,
+          "mtm_return_disclosure_pct": 39.27,
+          "mtm_return_transaction_pct": 71.42,
           "priceable": true
         },
         {
@@ -44831,8 +44835,8 @@
           "purchase_date": "2025-02-10",
           "purchase_disclosure_date": "2025-03-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 67.28,
-          "mtm_return_transaction_pct": 26.09,
+          "mtm_return_disclosure_pct": 63.18,
+          "mtm_return_transaction_pct": 23.0,
           "priceable": true
         },
         {
@@ -44870,8 +44874,8 @@
           "purchase_date": "2025-01-16",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -23.85,
-          "mtm_return_transaction_pct": -40.0,
+          "mtm_return_disclosure_pct": -21.54,
+          "mtm_return_transaction_pct": -38.18,
           "priceable": true
         },
         {
@@ -44896,8 +44900,8 @@
           "purchase_date": "2025-01-27",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 56.0,
-          "mtm_return_transaction_pct": 53.76,
+          "mtm_return_disclosure_pct": 54.75,
+          "mtm_return_transaction_pct": 52.53,
           "priceable": true
         },
         {
@@ -68489,23 +68493,329 @@
       "chamber": "house",
       "state_district": "FL27",
       "party": "R",
-      "closed_return_disclosure_pct": -7.64,
-      "closed_return_transaction_pct": -5.52,
-      "closed_win_rate_pct": 25.0,
-      "closed_avg_return_pct": -8.71,
-      "closed_trade_count": 12,
-      "closed_priceable_count": 12,
-      "closed_total_cost_basis_usd": 120506.0,
+      "closed_return_disclosure_pct": NaN,
+      "closed_return_transaction_pct": 3.97,
+      "closed_win_rate_pct": 10.7,
+      "closed_avg_return_pct": NaN,
+      "closed_trade_count": 29,
+      "closed_priceable_count": 28,
+      "closed_total_cost_basis_usd": 273014.0,
       "open_mtm_return_disclosure_pct": NaN,
       "open_position_count": 56,
-      "open_priceable_count": 53,
-      "open_total_cost_basis_usd": 1161524.0,
-      "unmatched_sale_count": 5,
+      "open_priceable_count": 54,
+      "open_total_cost_basis_usd": 1097520.0,
+      "unmatched_sale_count": 7,
       "untracked_tickers": [
         "BRK.B"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-7",
+          "sale_trade_id": "20035562-9",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-04",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 13.53,
+          "priceable": true
+        },
+        {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20033993-8",
+          "sale_trade_id": "20035562-10",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-04",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 13.53,
+          "priceable": true
+        },
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-3",
+          "sale_trade_id": "20035562-4",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-08",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 39.92,
+          "priceable": true
+        },
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20033993-4",
+          "sale_trade_id": "20035562-5",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 32500.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 35.07,
+          "priceable": true
+        },
+        {
+          "ticker": "URI",
+          "asset_description": "United Rentals, Inc. Common Stock (URI) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-21",
+          "sale_trade_id": "20035562-26",
+          "purchase_date": "2026-03-25",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 35.83,
+          "priceable": true
+        },
+        {
+          "ticker": "SNOW",
+          "asset_description": "Snowflake Inc. Common Stock (SNOW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035562-24",
+          "sale_trade_id": "20035562-23",
+          "purchase_date": "2026-09-04",
+          "purchase_disclosure_date": "2026-10-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -4.66,
+          "priceable": true
+        },
+        {
+          "ticker": "RH",
+          "asset_description": "RH Common Stock (RH) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-18",
+          "sale_trade_id": "20035562-22",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -9.54,
+          "priceable": true
+        },
+        {
+          "ticker": "OKTA",
+          "asset_description": "Okta, Inc. - Class A Common Stock (OKTA) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035562-21",
+          "sale_trade_id": "20035562-20",
+          "purchase_date": "2026-09-04",
+          "purchase_disclosure_date": "2026-10-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 21.76,
+          "priceable": true
+        },
+        {
+          "ticker": "BEP",
+          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034709-3",
+          "sale_trade_id": "20035562-2",
+          "purchase_date": "2026-05-29",
+          "purchase_disclosure_date": "2026-06-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -24.32,
+          "priceable": true
+        },
+        {
+          "ticker": "MRK",
+          "asset_description": "Merck & Company, Inc. Common Stock (MRK) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035411-3",
+          "sale_trade_id": "20035562-16",
+          "purchase_date": "2026-08-19",
+          "purchase_disclosure_date": "2026-09-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 10.5,
+          "priceable": true
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20034709-6",
+          "sale_trade_id": "20035411-2",
+          "purchase_date": "2026-05-21",
+          "purchase_disclosure_date": "2026-06-01",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": -27.61,
+          "return_transaction_pct": -1.56,
+          "priceable": true
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20034709-6",
+          "sale_trade_id": "20035562-15",
+          "purchase_date": "2026-05-21",
+          "purchase_disclosure_date": "2026-06-01",
+          "sale_date": "2026-09-04",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -2.5,
+          "priceable": true
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034709-7",
+          "sale_trade_id": "20035562-14",
+          "purchase_date": "2026-05-21",
+          "purchase_disclosure_date": "2026-06-01",
+          "sale_date": "2026-09-04",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -2.5,
+          "priceable": true
+        },
+        {
+          "ticker": "HON",
+          "asset_description": "Honeywell International Inc. (HON) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-14",
+          "sale_trade_id": "20035562-13",
+          "purchase_date": "2026-03-24",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -5.31,
+          "priceable": true
+        },
+        {
+          "ticker": "GS",
+          "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-13",
+          "sale_trade_id": "20035562-12",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 13.23,
+          "priceable": true
+        },
+        {
+          "ticker": "FDX",
+          "asset_description": "FedEx Corporation Common Stock (FDX) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-10",
+          "sale_trade_id": "20035562-11",
+          "purchase_date": "2026-03-25",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -20.67,
+          "priceable": true
+        },
+        {
+          "ticker": "BA",
+          "asset_description": "Boeing Company (BA) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-2",
+          "sale_trade_id": "20035562-1",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -2.64,
+          "priceable": true
+        },
+        {
+          "ticker": "BRK.B",
+          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035138-0",
+          "sale_trade_id": "20035562-0",
+          "purchase_date": "2026-07-28",
+          "purchase_disclosure_date": "2026-08-01",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": null,
+          "return_transaction_pct": null,
+          "priceable": false
+        },
         {
           "ticker": "QCOM",
           "asset_description": "QUALCOMM Incorporated - Common Stock (QCOM) [ST]",
@@ -68538,23 +68848,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": -25.87,
           "return_transaction_pct": -23.83,
-          "priceable": true
-        },
-        {
-          "ticker": "IBM",
-          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
-          "owner": "",
-          "subholding_of": "UBS Brokerage Account",
-          "purchase_trade_id": "20034709-6",
-          "sale_trade_id": "20035411-2",
-          "purchase_date": "2026-05-21",
-          "purchase_disclosure_date": "2026-06-01",
-          "sale_date": "2026-08-24",
-          "sale_disclosure_date": "2026-09-01",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": -27.61,
-          "return_transaction_pct": -1.56,
           "priceable": true
         },
         {
@@ -68713,6 +69006,266 @@
       ],
       "open_positions": [
         {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-7",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035562-7",
+          "purchase_date": "2026-09-08",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20033993-8",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GLW",
+          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035562-8",
+          "purchase_date": "2026-09-08",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "CVX",
+          "asset_description": "Chevron Corporation Common Stock (CVX) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035562-3",
+          "purchase_date": "2026-09-02",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "URI",
+          "asset_description": "United Rentals, Inc. Common Stock (URI) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034479-8",
+          "purchase_date": "2026-04-24",
+          "purchase_disclosure_date": "2026-05-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "SNOW",
+          "asset_description": "Snowflake Inc. Common Stock (SNOW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035562-25",
+          "purchase_date": "2026-09-04",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "SNOW",
+          "asset_description": "Snowflake Inc. Common Stock (SNOW) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035562-24",
+          "purchase_date": "2026-09-04",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "RH",
+          "asset_description": "RH Common Stock (RH) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-18",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "BEP",
+          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034928-3",
+          "purchase_date": "2026-06-02",
+          "purchase_disclosure_date": "2026-07-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "BEP",
+          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034928-2",
+          "purchase_date": "2026-06-03",
+          "purchase_disclosure_date": "2026-07-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "BEP",
+          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034928-1",
+          "purchase_date": "2026-06-04",
+          "purchase_disclosure_date": "2026-07-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "META",
+          "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035562-18",
+          "purchase_date": "2026-09-22",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "META",
+          "asset_description": "Meta Platforms, Inc. - Class A Common Stock (META) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035562-17",
+          "purchase_date": "2026-09-22",
+          "purchase_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "MRK",
+          "asset_description": "Merck & Company, Inc. Common Stock (MRK) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035411-3",
+          "purchase_date": "2026-08-19",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20034709-6",
+          "purchase_date": "2026-05-21",
+          "purchase_disclosure_date": "2026-06-01",
+          "cost_basis_usd": 16499.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "IBM",
+          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20034709-7",
+          "purchase_date": "2026-05-21",
+          "purchase_disclosure_date": "2026-06-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "HON",
+          "asset_description": "Honeywell International Inc. (HON) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-14",
+          "purchase_date": "2026-03-24",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "GS",
+          "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-13",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "cost_basis_usd": 24500.0,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "BRK.B",
+          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035411-0",
+          "purchase_date": "2026-08-07",
+          "purchase_disclosure_date": "2026-09-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
+        },
+        {
           "ticker": "SPCX",
           "asset_description": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
           "owner": "",
@@ -68765,32 +69318,6 @@
           "priceable": true
         },
         {
-          "ticker": "MRK",
-          "asset_description": "Merck & Company, Inc. Common Stock (MRK) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20035411-3",
-          "purchase_date": "2026-08-19",
-          "purchase_disclosure_date": "2026-09-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "IBM",
-          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
-          "owner": "",
-          "subholding_of": "UBS Brokerage Account",
-          "purchase_trade_id": "20034709-6",
-          "purchase_date": "2026-05-21",
-          "purchase_disclosure_date": "2026-06-01",
-          "cost_basis_usd": 24500.0,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "SPCX",
           "asset_description": "Space Exploration Technologies Corp. - Class A Common Stock (SPCX) [ST]",
           "owner": "",
@@ -68802,32 +69329,6 @@
           "mtm_return_disclosure_pct": NaN,
           "mtm_return_transaction_pct": NaN,
           "priceable": true
-        },
-        {
-          "ticker": "BRK.B",
-          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20035138-0",
-          "purchase_date": "2026-07-28",
-          "purchase_disclosure_date": "2026-08-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": null,
-          "mtm_return_transaction_pct": null,
-          "priceable": false
-        },
-        {
-          "ticker": "BRK.B",
-          "asset_description": "Berkshire Hathaway Inc. New Common Stock (BRK.B) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20035411-0",
-          "purchase_date": "2026-08-07",
-          "purchase_disclosure_date": "2026-09-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": null,
-          "mtm_return_transaction_pct": null,
-          "priceable": false
         },
         {
           "ticker": "CB",
@@ -68947,71 +69448,6 @@
           "priceable": true
         },
         {
-          "ticker": "BEP",
-          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034709-3",
-          "purchase_date": "2026-05-29",
-          "purchase_disclosure_date": "2026-06-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "BEP",
-          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034928-3",
-          "purchase_date": "2026-06-02",
-          "purchase_disclosure_date": "2026-07-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "BEP",
-          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034928-2",
-          "purchase_date": "2026-06-03",
-          "purchase_disclosure_date": "2026-07-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "BEP",
-          "asset_description": "Brookfield Renewable Partners L.P. Limited Partnership Units (BEP) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034928-1",
-          "purchase_date": "2026-06-04",
-          "purchase_disclosure_date": "2026-07-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "IBM",
-          "asset_description": "International Business Machines Corporation Common Stock (IBM) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034709-7",
-          "purchase_date": "2026-05-21",
-          "purchase_disclosure_date": "2026-06-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "DDOG",
           "asset_description": "Datadog, Inc. - Class A Common Stock (DDOG) [ST]",
           "owner": "",
@@ -69072,32 +69508,6 @@
           "purchase_date": "2026-04-20",
           "purchase_disclosure_date": "2026-05-01",
           "cost_basis_usd": 24500.0,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "URI",
-          "asset_description": "United Rentals, Inc. Common Stock (URI) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-21",
-          "purchase_date": "2026-03-25",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "URI",
-          "asset_description": "United Rentals, Inc. Common Stock (URI) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20034479-8",
-          "purchase_date": "2026-04-24",
-          "purchase_disclosure_date": "2026-05-01",
-          "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": NaN,
           "mtm_return_transaction_pct": NaN,
           "priceable": true
@@ -69168,32 +69578,6 @@
           "priceable": true
         },
         {
-          "ticker": "GLW",
-          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
-          "owner": "",
-          "subholding_of": "UBS Brokerage Account",
-          "purchase_trade_id": "20033993-8",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GLW",
-          "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-7",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "C",
           "asset_description": "Citigroup, Inc. Common Stock (C) [ST]",
           "owner": "",
@@ -69215,32 +69599,6 @@
           "purchase_date": "2026-03-19",
           "purchase_disclosure_date": "2026-04-01",
           "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "CSCO",
-          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
-          "owner": "",
-          "subholding_of": "UBS Brokerage Account",
-          "purchase_trade_id": "20033993-4",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "CSCO",
-          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-3",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": NaN,
           "mtm_return_transaction_pct": NaN,
           "priceable": true
@@ -69272,37 +69630,11 @@
           "priceable": true
         },
         {
-          "ticker": "BA",
-          "asset_description": "Boeing Company (BA) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-2",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "RH",
           "asset_description": "RH Common Stock (RH) [ST]",
           "owner": "",
           "subholding_of": "UBS Brokerage Account",
           "purchase_trade_id": "20033993-19",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "RH",
-          "asset_description": "RH Common Stock (RH) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-18",
           "purchase_date": "2026-03-19",
           "purchase_disclosure_date": "2026-04-01",
           "cost_basis_usd": 32500.5,
@@ -69350,32 +69682,6 @@
           "priceable": true
         },
         {
-          "ticker": "HON",
-          "asset_description": "Honeywell International Inc. (HON) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-14",
-          "purchase_date": "2026-03-24",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "GS",
-          "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-13",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
           "ticker": "GS",
           "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
           "owner": "",
@@ -69395,19 +69701,6 @@
           "subholding_of": "UBS IRA Account",
           "purchase_trade_id": "20033993-11",
           "purchase_date": "2026-03-24",
-          "purchase_disclosure_date": "2026-04-01",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
-        },
-        {
-          "ticker": "FDX",
-          "asset_description": "FedEx Corporation Common Stock (FDX) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-10",
-          "purchase_date": "2026-03-25",
           "purchase_disclosure_date": "2026-04-01",
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": NaN,
@@ -69442,6 +69735,26 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "sale_trade_id": "20035562-6",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "sale_trade_id": "20035562-19",
+          "sale_date": "2026-09-24",
+          "sale_disclosure_date": "2026-10-01",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "MRNA",
           "asset_description": "Moderna, Inc. - Common Stock (MRNA) [ST]",
@@ -75416,8 +75729,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 77.63,
-          "mtm_return_transaction_pct": 87.9,
+          "mtm_return_disclosure_pct": 74.84,
+          "mtm_return_transaction_pct": 84.94,
           "priceable": true
         },
         {
@@ -75429,8 +75742,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 48.63,
-          "mtm_return_transaction_pct": 53.21,
+          "mtm_return_disclosure_pct": 46.7,
+          "mtm_return_transaction_pct": 51.21,
           "priceable": true
         },
         {
@@ -75468,8 +75781,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 24.3,
-          "mtm_return_transaction_pct": 26.3,
+          "mtm_return_disclosure_pct": 22.41,
+          "mtm_return_transaction_pct": 24.37,
           "priceable": true
         },
         {
@@ -75481,8 +75794,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 25.62,
-          "mtm_return_transaction_pct": 29.03,
+          "mtm_return_disclosure_pct": 23.81,
+          "mtm_return_transaction_pct": 27.17,
           "priceable": true
         },
         {
@@ -75507,8 +75820,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 8.4,
-          "mtm_return_transaction_pct": 9.57,
+          "mtm_return_disclosure_pct": 8.28,
+          "mtm_return_transaction_pct": 9.45,
           "priceable": true
         },
         {
@@ -75520,8 +75833,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 58.57,
-          "mtm_return_transaction_pct": 67.96,
+          "mtm_return_disclosure_pct": 55.59,
+          "mtm_return_transaction_pct": 64.8,
           "priceable": true
         }
       ],
@@ -84126,8 +84439,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 4.65,
-          "mtm_return_transaction_pct": 9.98,
+          "mtm_return_disclosure_pct": 4.42,
+          "mtm_return_transaction_pct": 9.74,
           "priceable": true
         },
         {
@@ -84139,8 +84452,8 @@
           "purchase_date": "2026-08-26",
           "purchase_disclosure_date": "2026-09-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -2.29,
-          "mtm_return_transaction_pct": -2.7,
+          "mtm_return_disclosure_pct": -2.5,
+          "mtm_return_transaction_pct": -2.91,
           "priceable": true
         },
         {
@@ -84542,8 +84855,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 0.53,
-          "mtm_return_transaction_pct": 1.95,
+          "mtm_return_disclosure_pct": 0.41,
+          "mtm_return_transaction_pct": 1.84,
           "priceable": true
         },
         {
@@ -85103,8 +85416,8 @@
           "purchase_date": "2025-12-26",
           "purchase_disclosure_date": "2026-01-21",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -8.18,
-          "mtm_return_transaction_pct": -11.2,
+          "mtm_return_disclosure_pct": -8.38,
+          "mtm_return_transaction_pct": -11.39,
           "priceable": true
         },
         {
@@ -88394,8 +88707,8 @@
           "purchase_date": "2026-05-07",
           "purchase_disclosure_date": "2026-05-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 11.85,
-          "mtm_return_transaction_pct": 10.93,
+          "mtm_return_disclosure_pct": 8.93,
+          "mtm_return_transaction_pct": 8.03,
           "priceable": true
         },
         {
@@ -92417,8 +92730,8 @@
           "purchase_date": "2024-10-29",
           "purchase_disclosure_date": "2025-09-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -13.43,
-          "mtm_return_transaction_pct": -33.12,
+          "mtm_return_disclosure_pct": -12.03,
+          "mtm_return_transaction_pct": -32.04,
           "priceable": true
         },
         {
