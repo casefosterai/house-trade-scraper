@@ -2,10 +2,10 @@
   "generated_at": "2026-10-14",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 9959,
-    "closed_positions": 2009,
-    "open_positions": 2608,
-    "unmatched_sales": 2330,
+    "trade_records": 9979,
+    "closed_positions": 2010,
+    "open_positions": 2607,
+    "unmatched_sales": 2343,
     "skipped": {
       "options_not_supported": 50,
       "professionally_managed": 280,
@@ -13532,7 +13532,7 @@
       "open_position_count": 1,
       "open_priceable_count": 1,
       "open_total_cost_basis_usd": 32500.0,
-      "unmatched_sale_count": 15,
+      "unmatched_sale_count": 16,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -13620,6 +13620,16 @@
           "sale_trade_id": "20034774-0",
           "sale_date": "2026-05-27",
           "sale_disclosure_date": "2026-06-09",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "SP",
+          "subholding_of": "Schwab Brokerage Account",
+          "sale_trade_id": "20035487-0",
+          "sale_date": "2026-08-31",
+          "sale_disclosure_date": "2026-09-14",
           "proceeds_usd": 8000.5
         },
         {
@@ -54680,18 +54690,18 @@
       "chamber": "house",
       "state_district": "OK01",
       "party": "R",
-      "closed_return_disclosure_pct": 5.34,
-      "closed_return_transaction_pct": 4.89,
-      "closed_win_rate_pct": 50.0,
-      "closed_avg_return_pct": 5.34,
-      "closed_trade_count": 2,
-      "closed_priceable_count": 2,
-      "closed_total_cost_basis_usd": 16001.0,
+      "closed_return_disclosure_pct": NaN,
+      "closed_return_transaction_pct": 3.01,
+      "closed_win_rate_pct": 33.3,
+      "closed_avg_return_pct": NaN,
+      "closed_trade_count": 3,
+      "closed_priceable_count": 3,
+      "closed_total_cost_basis_usd": 24002.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 2,
-      "open_priceable_count": 2,
-      "open_total_cost_basis_usd": 16001.0,
-      "unmatched_sale_count": 117,
+      "open_position_count": 1,
+      "open_priceable_count": 1,
+      "open_total_cost_basis_usd": 8000.0,
+      "unmatched_sale_count": 129,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -54710,6 +54720,23 @@
           "closed_via": "sale",
           "return_disclosure_pct": -17.14,
           "return_transaction_pct": -16.44,
+          "priceable": true
+        },
+        {
+          "ticker": "CB",
+          "asset_description": "Chubb Limited Common Stock (CB) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "purchase_trade_id": "20035491-10",
+          "sale_trade_id": "20035588-1",
+          "purchase_date": "2026-08-31",
+          "purchase_disclosure_date": "2026-09-15",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": -0.75,
           "priceable": true
         },
         {
@@ -54743,22 +54770,219 @@
           "mtm_return_disclosure_pct": NaN,
           "mtm_return_transaction_pct": NaN,
           "priceable": true
-        },
-        {
-          "ticker": "CB",
-          "asset_description": "Chubb Limited Common Stock (CB) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "purchase_trade_id": "20035491-10",
-          "purchase_date": "2026-08-31",
-          "purchase_disclosure_date": "2026-09-15",
-          "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": NaN,
-          "mtm_return_transaction_pct": NaN,
-          "priceable": true
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "LOW",
+          "asset_description": "Lowe's Companies, Inc. Common Stock (LOW) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035588-9",
+          "sale_date": "2026-09-17",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "LMT",
+          "asset_description": "Lockheed Martin Corporation Common Stock (LMT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-8",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "LMT",
+          "asset_description": "Lockheed Martin Corporation Common Stock (LMT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035491-37",
+          "sale_date": "2026-09-02",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "LMT",
+          "asset_description": "Lockheed Martin Corporation Common Stock (LMT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035588-6",
+          "sale_date": "2026-09-17",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "LMT",
+          "asset_description": "Lockheed Martin Corporation Common Stock (LMT) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035588-7",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035326-10",
+          "sale_date": "2026-08-24",
+          "sale_disclosure_date": "2026-08-27",
+          "proceeds_usd": 67000.0
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035491-24",
+          "sale_date": "2026-08-31",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035491-22",
+          "sale_date": "2026-09-14",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "HD",
+          "asset_description": "Home Depot, Inc. (HD) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-5",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "EMR",
+          "asset_description": "Emerson Electric Company Common Stock (EMR) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-3",
+          "sale_date": "2026-09-17",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "DVN",
+          "asset_description": "Devon Energy Corporation Common Stock (DVN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035491-17",
+          "sale_date": "2026-09-14",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "DVN",
+          "asset_description": "Devon Energy Corporation Common Stock (DVN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-2",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 75000.5
+        },
+        {
+          "ticker": "UNH",
+          "asset_description": "UnitedHealth Group Incorporated Common Stock (UNH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035491-62",
+          "sale_date": "2026-09-10",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "UNH",
+          "asset_description": "UnitedHealth Group Incorporated Common Stock (UNH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-17",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "SBUX",
+          "asset_description": "Starbucks Corporation - Common Stock (SBUX) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035588-15",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "NEE",
+          "asset_description": "NextEra Energy, Inc. Common Stock (NEE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035491-41",
+          "sale_date": "2026-09-14",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "NEE",
+          "asset_description": "NextEra Energy, Inc. Common Stock (NEE) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-12",
+          "sale_date": "2026-10-02",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "MRSH",
+          "asset_description": "Marsh Common Stock (MRSH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035491-38",
+          "sale_date": "2026-09-02",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "MRSH",
+          "asset_description": "Marsh Common Stock (MRSH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035491-39",
+          "sale_date": "2026-09-09",
+          "sale_disclosure_date": "2026-09-15",
+          "proceeds_usd": 175000.5
+        },
+        {
+          "ticker": "MRSH",
+          "asset_description": "Marsh Common Stock (MRSH) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Revocable Trust",
+          "sale_trade_id": "20035588-10",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 75000.5
+        },
+        {
+          "ticker": "CVX",
+          "asset_description": "Chevron Corporation Common Stock (CVX) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035588-0",
+          "sale_date": "2026-09-23",
+          "sale_disclosure_date": "2026-10-02",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "CNP",
           "asset_description": "CenterPoint Energy, Inc (CNP) [ST]",
@@ -54828,16 +55052,6 @@
           "sale_date": "2026-09-03",
           "sale_disclosure_date": "2026-09-15",
           "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "UNH",
-          "asset_description": "UnitedHealth Group Incorporated Common Stock (UNH) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035491-62",
-          "sale_date": "2026-09-10",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 32500.5
         },
         {
           "ticker": "TJX",
@@ -55000,16 +55214,6 @@
           "proceeds_usd": 32500.5
         },
         {
-          "ticker": "NEE",
-          "asset_description": "NextEra Energy, Inc. Common Stock (NEE) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035491-41",
-          "sale_date": "2026-09-14",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 32500.5
-        },
-        {
           "ticker": "BSX",
           "asset_description": "Boston Scientific Corporation Common Stock (BSX) [ST]",
           "owner": "DC",
@@ -55018,36 +55222,6 @@
           "sale_date": "2026-09-03",
           "sale_disclosure_date": "2026-09-15",
           "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MRSH",
-          "asset_description": "Marsh Common Stock (MRSH) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Revocable Trust",
-          "sale_trade_id": "20035491-38",
-          "sale_date": "2026-09-02",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "MRSH",
-          "asset_description": "Marsh Common Stock (MRSH) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Revocable Trust",
-          "sale_trade_id": "20035491-39",
-          "sale_date": "2026-09-09",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 175000.5
-        },
-        {
-          "ticker": "LMT",
-          "asset_description": "Lockheed Martin Corporation Common Stock (LMT) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Revocable Trust",
-          "sale_trade_id": "20035491-37",
-          "sale_date": "2026-09-02",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 32500.5
         },
         {
           "ticker": "LIN",
@@ -55173,36 +55347,6 @@
           "ticker": "HD",
           "asset_description": "Home Depot, Inc. (HD) [ST]",
           "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035326-10",
-          "sale_date": "2026-08-24",
-          "sale_disclosure_date": "2026-08-27",
-          "proceeds_usd": 67000.0
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035491-24",
-          "sale_date": "2026-08-31",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 32500.5
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035491-22",
-          "sale_date": "2026-09-14",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 8000.5
-        },
-        {
-          "ticker": "HD",
-          "asset_description": "Home Depot, Inc. (HD) [ST]",
-          "owner": "JT",
           "subholding_of": "Hern Family Revocable Trust",
           "sale_trade_id": "20035491-23",
           "sale_date": "2026-09-14",
@@ -55246,16 +55390,6 @@
           "subholding_of": "Kevin Hern Traditional IRA",
           "sale_trade_id": "20035491-18",
           "sale_date": "2026-08-31",
-          "sale_disclosure_date": "2026-09-15",
-          "proceeds_usd": 32500.5
-        },
-        {
-          "ticker": "DVN",
-          "asset_description": "Devon Energy Corporation Common Stock (DVN) [ST]",
-          "owner": "JT",
-          "subholding_of": "Hern Family Foundation",
-          "sale_trade_id": "20035491-17",
-          "sale_date": "2026-09-14",
           "sale_disclosure_date": "2026-09-15",
           "proceeds_usd": 32500.5
         },
