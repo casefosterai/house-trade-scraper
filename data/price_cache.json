@@ -393952,5 +393952,2075 @@
   },
   "ZTS|2026-10-26": {
     "close": 80.375
+  },
+  "A|2026-10-27": {
+    "close": NaN
+  },
+  "AA|2026-10-27": {
+    "close": NaN
+  },
+  "AAL|2026-10-27": {
+    "close": NaN
+  },
+  "AAPL|2026-10-27": {
+    "close": NaN
+  },
+  "AB|2026-10-27": {
+    "close": NaN
+  },
+  "ABBV|2026-10-27": {
+    "close": NaN
+  },
+  "ABCB|2026-10-27": {
+    "close": NaN
+  },
+  "ABT|2026-10-27": {
+    "close": NaN
+  },
+  "ACI|2026-10-27": {
+    "close": NaN
+  },
+  "ACN|2026-10-27": {
+    "close": NaN
+  },
+  "ADBE|2026-10-27": {
+    "close": NaN
+  },
+  "ADI|2026-10-27": {
+    "close": NaN
+  },
+  "ADM|2026-10-27": {
+    "close": NaN
+  },
+  "ADP|2026-10-27": {
+    "close": NaN
+  },
+  "ADSK|2026-10-27": {
+    "close": NaN
+  },
+  "AEIS|2026-10-27": {
+    "close": NaN
+  },
+  "AEP|2026-10-27": {
+    "close": NaN
+  },
+  "AES|2026-10-27": {
+    "close": NaN
+  },
+  "AESI|2026-10-27": {
+    "close": NaN
+  },
+  "AFL|2026-10-27": {
+    "close": NaN
+  },
+  "AGIO|2026-10-27": {
+    "close": NaN
+  },
+  "AGX|2026-10-27": {
+    "close": NaN
+  },
+  "AIZ|2026-10-27": {
+    "close": NaN
+  },
+  "AJG|2026-10-27": {
+    "close": NaN
+  },
+  "AJINF|2026-10-27": {
+    "close": 33.2400016784668
+  },
+  "AKAM|2026-10-27": {
+    "close": NaN
+  },
+  "ALEX|2026-10-27": {
+    "close": null
+  },
+  "ALGM|2026-10-27": {
+    "close": NaN
+  },
+  "ALKS|2026-10-27": {
+    "close": NaN
+  },
+  "ALKT|2026-10-27": {
+    "close": NaN
+  },
+  "ALV|2026-10-27": {
+    "close": NaN
+  },
+  "AMAT|2026-10-27": {
+    "close": NaN
+  },
+  "AMCR|2026-10-27": {
+    "close": NaN
+  },
+  "AMD|2026-10-27": {
+    "close": NaN
+  },
+  "AME|2026-10-27": {
+    "close": NaN
+  },
+  "AMGN|2026-10-27": {
+    "close": NaN
+  },
+  "AMH|2026-10-27": {
+    "close": NaN
+  },
+  "AMI|2026-10-27": {
+    "close": null
+  },
+  "AMT|2026-10-27": {
+    "close": NaN
+  },
+  "AMZN|2026-10-27": {
+    "close": NaN
+  },
+  "ANET|2026-10-27": {
+    "close": NaN
+  },
+  "ANGO|2026-10-27": {
+    "close": NaN
+  },
+  "AON|2026-10-27": {
+    "close": NaN
+  },
+  "AORT|2026-10-27": {
+    "close": NaN
+  },
+  "APD|2026-10-27": {
+    "close": NaN
+  },
+  "APG|2026-10-27": {
+    "close": NaN
+  },
+  "APH|2026-10-27": {
+    "close": NaN
+  },
+  "APO|2026-10-27": {
+    "close": NaN
+  },
+  "APP|2026-10-27": {
+    "close": NaN
+  },
+  "ARE|2026-10-27": {
+    "close": NaN
+  },
+  "ARES|2026-10-27": {
+    "close": NaN
+  },
+  "ARIS|2026-10-27": {
+    "close": NaN
+  },
+  "ARLP|2026-10-27": {
+    "close": NaN
+  },
+  "ARMK|2026-10-27": {
+    "close": NaN
+  },
+  "ARQT|2026-10-27": {
+    "close": NaN
+  },
+  "ASML|2026-10-27": {
+    "close": NaN
+  },
+  "ATO|2026-10-27": {
+    "close": NaN
+  },
+  "ATR|2026-10-27": {
+    "close": NaN
+  },
+  "ATRC|2026-10-27": {
+    "close": NaN
+  },
+  "AVAV|2026-10-27": {
+    "close": NaN
+  },
+  "AVGO|2026-10-27": {
+    "close": NaN
+  },
+  "AVNT|2026-10-27": {
+    "close": NaN
+  },
+  "AWK|2026-10-27": {
+    "close": NaN
+  },
+  "AXP|2026-10-27": {
+    "close": NaN
+  },
+  "AZN|2026-10-27": {
+    "close": NaN
+  },
+  "AZO|2026-10-27": {
+    "close": NaN
+  },
+  "AZSEY|2026-10-27": {
+    "close": null
+  },
+  "AZTA|2026-10-27": {
+    "close": NaN
+  },
+  "BA|2026-10-27": {
+    "close": NaN
+  },
+  "BABA|2026-10-27": {
+    "close": NaN
+  },
+  "BABAF|2026-10-27": {
+    "close": 12.539999961853027
+  },
+  "BAC|2026-10-27": {
+    "close": NaN
+  },
+  "BAH|2026-10-27": {
+    "close": NaN
+  },
+  "BALL|2026-10-27": {
+    "close": NaN
+  },
+  "BARIX|2026-10-27": {
+    "close": 102.61000061035156
+  },
+  "BAX|2026-10-27": {
+    "close": NaN
+  },
+  "BBAI|2026-10-27": {
+    "close": NaN
+  },
+  "BBIO|2026-10-27": {
+    "close": NaN
+  },
+  "BCLYF|2026-10-27": {
+    "close": 5.539999961853027
+  },
+  "BCPC|2026-10-27": {
+    "close": NaN
+  },
+  "BCRX|2026-10-27": {
+    "close": NaN
+  },
+  "BDRFF|2026-10-27": {
+    "close": 91.5199966430664
+  },
+  "BDX|2026-10-27": {
+    "close": NaN
+  },
+  "BE|2026-10-27": {
+    "close": NaN
+  },
+  "BEP|2026-10-27": {
+    "close": NaN
+  },
+  "BEXIX|2026-10-27": {
+    "close": 20.559999465942383
+  },
+  "BHE|2026-10-27": {
+    "close": NaN
+  },
+  "BHLB|2026-10-27": {
+    "close": null
+  },
+  "BHP|2026-10-27": {
+    "close": NaN
+  },
+  "BIIB|2026-10-27": {
+    "close": NaN
+  },
+  "BJ|2026-10-27": {
+    "close": NaN
+  },
+  "BK|2026-10-27": {
+    "close": null
+  },
+  "BKNG|2026-10-27": {
+    "close": NaN
+  },
+  "BKR|2026-10-27": {
+    "close": NaN
+  },
+  "BLK|2026-10-27": {
+    "close": NaN
+  },
+  "BMNR|2026-10-27": {
+    "close": NaN
+  },
+  "BMY|2026-10-27": {
+    "close": NaN
+  },
+  "BNPQF|2026-10-27": {
+    "close": 95.5999984741211
+  },
+  "BOOT|2026-10-27": {
+    "close": NaN
+  },
+  "BP|2026-10-27": {
+    "close": NaN
+  },
+  "BR|2026-10-27": {
+    "close": NaN
+  },
+  "BRK.B|2026-10-27": {
+    "close": null
+  },
+  "BRO|2026-10-27": {
+    "close": NaN
+  },
+  "BSX|2026-10-27": {
+    "close": NaN
+  },
+  "BTC|2026-10-27": {
+    "close": NaN
+  },
+  "BTI|2026-10-27": {
+    "close": NaN
+  },
+  "BUD|2026-10-27": {
+    "close": NaN
+  },
+  "BX|2026-10-27": {
+    "close": NaN
+  },
+  "C|2026-10-27": {
+    "close": NaN
+  },
+  "CACI|2026-10-27": {
+    "close": NaN
+  },
+  "CAH|2026-10-27": {
+    "close": NaN
+  },
+  "CARR|2026-10-27": {
+    "close": NaN
+  },
+  "CASY|2026-10-27": {
+    "close": NaN
+  },
+  "CAT|2026-10-27": {
+    "close": NaN
+  },
+  "CATY|2026-10-27": {
+    "close": NaN
+  },
+  "CB|2026-10-27": {
+    "close": NaN
+  },
+  "CBOE|2026-10-27": {
+    "close": NaN
+  },
+  "CBZ|2026-10-27": {
+    "close": NaN
+  },
+  "CCK|2026-10-27": {
+    "close": NaN
+  },
+  "CCL|2026-10-27": {
+    "close": NaN
+  },
+  "CDNS|2026-10-27": {
+    "close": NaN
+  },
+  "CDP|2026-10-27": {
+    "close": NaN
+  },
+  "CDRE|2026-10-27": {
+    "close": NaN
+  },
+  "CDW|2026-10-27": {
+    "close": NaN
+  },
+  "CECO|2026-10-27": {
+    "close": NaN
+  },
+  "CF|2026-10-27": {
+    "close": NaN
+  },
+  "CGEMY|2026-10-27": {
+    "close": 27.780000686645508
+  },
+  "CHD|2026-10-27": {
+    "close": NaN
+  },
+  "CHDN|2026-10-27": {
+    "close": NaN
+  },
+  "CHE|2026-10-27": {
+    "close": NaN
+  },
+  "CHKP|2026-10-27": {
+    "close": NaN
+  },
+  "CHRW|2026-10-27": {
+    "close": NaN
+  },
+  "CHTR|2026-10-27": {
+    "close": NaN
+  },
+  "CIEN|2026-10-27": {
+    "close": NaN
+  },
+  "CINF|2026-10-27": {
+    "close": NaN
+  },
+  "CLS|2026-10-27": {
+    "close": NaN
+  },
+  "CLX|2026-10-27": {
+    "close": NaN
+  },
+  "CMCSA|2026-10-27": {
+    "close": NaN
+  },
+  "CME|2026-10-27": {
+    "close": NaN
+  },
+  "CMG|2026-10-27": {
+    "close": NaN
+  },
+  "CMI|2026-10-27": {
+    "close": NaN
+  },
+  "CMPO|2026-10-27": {
+    "close": null
+  },
+  "CNC|2026-10-27": {
+    "close": NaN
+  },
+  "CNP|2026-10-27": {
+    "close": NaN
+  },
+  "CNS|2026-10-27": {
+    "close": NaN
+  },
+  "COCO|2026-10-27": {
+    "close": NaN
+  },
+  "COF|2026-10-27": {
+    "close": NaN
+  },
+  "COIN|2026-10-27": {
+    "close": NaN
+  },
+  "COMP|2026-10-27": {
+    "close": NaN
+  },
+  "COO|2026-10-27": {
+    "close": NaN
+  },
+  "COP|2026-10-27": {
+    "close": NaN
+  },
+  "COR|2026-10-27": {
+    "close": NaN
+  },
+  "COST|2026-10-27": {
+    "close": NaN
+  },
+  "CP|2026-10-27": {
+    "close": NaN
+  },
+  "CPB|2026-10-27": {
+    "close": NaN
+  },
+  "CRCL|2026-10-27": {
+    "close": NaN
+  },
+  "CRDO|2026-10-27": {
+    "close": NaN
+  },
+  "CRL|2026-10-27": {
+    "close": NaN
+  },
+  "CRM|2026-10-27": {
+    "close": NaN
+  },
+  "CRNX|2026-10-27": {
+    "close": null
+  },
+  "CRWD|2026-10-27": {
+    "close": NaN
+  },
+  "CRWV|2026-10-27": {
+    "close": NaN
+  },
+  "CSCO|2026-10-27": {
+    "close": NaN
+  },
+  "CSGP|2026-10-27": {
+    "close": NaN
+  },
+  "CSL|2026-10-27": {
+    "close": NaN
+  },
+  "CSW|2026-10-27": {
+    "close": NaN
+  },
+  "CTAS|2026-10-27": {
+    "close": NaN
+  },
+  "CTRA|2026-10-27": {
+    "close": null
+  },
+  "CTSH|2026-10-27": {
+    "close": NaN
+  },
+  "CVLT|2026-10-27": {
+    "close": NaN
+  },
+  "CVS|2026-10-27": {
+    "close": NaN
+  },
+  "CVX|2026-10-27": {
+    "close": NaN
+  },
+  "CYTK|2026-10-27": {
+    "close": NaN
+  },
+  "DAL|2026-10-27": {
+    "close": NaN
+  },
+  "DASH|2026-10-27": {
+    "close": NaN
+  },
+  "DBSDF|2026-10-27": {
+    "close": 56.650001525878906
+  },
+  "DCO|2026-10-27": {
+    "close": NaN
+  },
+  "DDOG|2026-10-27": {
+    "close": NaN
+  },
+  "DE|2026-10-27": {
+    "close": NaN
+  },
+  "DELL|2026-10-27": {
+    "close": NaN
+  },
+  "DG|2026-10-27": {
+    "close": NaN
+  },
+  "DHI|2026-10-27": {
+    "close": NaN
+  },
+  "DHR|2026-10-27": {
+    "close": NaN
+  },
+  "DIS|2026-10-27": {
+    "close": NaN
+  },
+  "DLR|2026-10-27": {
+    "close": NaN
+  },
+  "DLTR|2026-10-27": {
+    "close": NaN
+  },
+  "DNUT|2026-10-27": {
+    "close": NaN
+  },
+  "DOV|2026-10-27": {
+    "close": NaN
+  },
+  "DOW|2026-10-27": {
+    "close": NaN
+  },
+  "DPZ|2026-10-27": {
+    "close": NaN
+  },
+  "DRI|2026-10-27": {
+    "close": NaN
+  },
+  "DRS|2026-10-27": {
+    "close": NaN
+  },
+  "DSCSY|2026-10-27": {
+    "close": 31.25
+  },
+  "DSGX|2026-10-27": {
+    "close": NaN
+  },
+  "DUK|2026-10-27": {
+    "close": NaN
+  },
+  "DVN|2026-10-27": {
+    "close": NaN
+  },
+  "DXCM|2026-10-27": {
+    "close": NaN
+  },
+  "DY|2026-10-27": {
+    "close": NaN
+  },
+  "EA|2026-10-27": {
+    "close": null
+  },
+  "ECL|2026-10-27": {
+    "close": NaN
+  },
+  "EFC|2026-10-27": {
+    "close": NaN
+  },
+  "EFX|2026-10-27": {
+    "close": NaN
+  },
+  "EIX|2026-10-27": {
+    "close": NaN
+  },
+  "EL|2026-10-27": {
+    "close": NaN
+  },
+  "ELS|2026-10-27": {
+    "close": NaN
+  },
+  "ELV|2026-10-27": {
+    "close": NaN
+  },
+  "EME|2026-10-27": {
+    "close": NaN
+  },
+  "EMR|2026-10-27": {
+    "close": NaN
+  },
+  "ENGQF|2026-10-27": {
+    "close": 25.649999618530273
+  },
+  "EOG|2026-10-27": {
+    "close": NaN
+  },
+  "EPAC|2026-10-27": {
+    "close": NaN
+  },
+  "EPD|2026-10-27": {
+    "close": NaN
+  },
+  "EQIX|2026-10-27": {
+    "close": NaN
+  },
+  "EQT|2026-10-27": {
+    "close": NaN
+  },
+  "ES|2026-10-27": {
+    "close": NaN
+  },
+  "ESAB|2026-10-27": {
+    "close": NaN
+  },
+  "ETN|2026-10-27": {
+    "close": NaN
+  },
+  "EW|2026-10-27": {
+    "close": NaN
+  },
+  "EXC|2026-10-27": {
+    "close": NaN
+  },
+  "EXE|2026-10-27": {
+    "close": NaN
+  },
+  "EXPO|2026-10-27": {
+    "close": NaN
+  },
+  "EXR|2026-10-27": {
+    "close": NaN
+  },
+  "F|2026-10-27": {
+    "close": NaN
+  },
+  "FARCX|2026-10-27": {
+    "close": 15.329999923706055
+  },
+  "FB|2026-10-27": {
+    "close": NaN
+  },
+  "FBK|2026-10-27": {
+    "close": NaN
+  },
+  "FBKWX|2026-10-27": {
+    "close": 9.210000038146973
+  },
+  "FCNCA|2026-10-27": {
+    "close": NaN
+  },
+  "FCPIX|2026-10-27": {
+    "close": 35.06999969482422
+  },
+  "FCPT|2026-10-27": {
+    "close": NaN
+  },
+  "FCX|2026-10-27": {
+    "close": NaN
+  },
+  "FDS|2026-10-27": {
+    "close": NaN
+  },
+  "FDX|2026-10-27": {
+    "close": NaN
+  },
+  "FEPIX|2026-10-27": {
+    "close": 9.210000038146973
+  },
+  "FERG|2026-10-27": {
+    "close": NaN
+  },
+  "FI|2026-10-27": {
+    "close": null
+  },
+  "FIG|2026-10-27": {
+    "close": NaN
+  },
+  "FINMF|2026-10-27": {
+    "close": 55.630001068115234
+  },
+  "FIS|2026-10-27": {
+    "close": NaN
+  },
+  "FISV|2026-10-27": {
+    "close": NaN
+  },
+  "FITB|2026-10-27": {
+    "close": NaN
+  },
+  "FIX|2026-10-27": {
+    "close": NaN
+  },
+  "FMAO|2026-10-27": {
+    "close": NaN
+  },
+  "FN|2026-10-27": {
+    "close": NaN
+  },
+  "FNA|2026-10-27": {
+    "close": null
+  },
+  "FNV|2026-10-27": {
+    "close": NaN
+  },
+  "FRO|2026-10-27": {
+    "close": NaN
+  },
+  "FSLR|2026-10-27": {
+    "close": NaN
+  },
+  "FSS|2026-10-27": {
+    "close": NaN
+  },
+  "FSV|2026-10-27": {
+    "close": NaN
+  },
+  "FTNT|2026-10-27": {
+    "close": NaN
+  },
+  "FTV|2026-10-27": {
+    "close": NaN
+  },
+  "FWRG|2026-10-27": {
+    "close": NaN
+  },
+  "GBCI|2026-10-27": {
+    "close": NaN
+  },
+  "GBOOY|2026-10-27": {
+    "close": 57.7599983215332
+  },
+  "GD|2026-10-27": {
+    "close": NaN
+  },
+  "GDDY|2026-10-27": {
+    "close": NaN
+  },
+  "GE|2026-10-27": {
+    "close": NaN
+  },
+  "GEHC|2026-10-27": {
+    "close": NaN
+  },
+  "GEN|2026-10-27": {
+    "close": NaN
+  },
+  "GEV|2026-10-27": {
+    "close": NaN
+  },
+  "GH|2026-10-27": {
+    "close": NaN
+  },
+  "GIL|2026-10-27": {
+    "close": NaN
+  },
+  "GILD|2026-10-27": {
+    "close": NaN
+  },
+  "GIS|2026-10-27": {
+    "close": NaN
+  },
+  "GLAS|2026-10-27": {
+    "close": NaN
+  },
+  "GLDW|2026-10-27": {
+    "close": NaN
+  },
+  "GLOB|2026-10-27": {
+    "close": NaN
+  },
+  "GLW|2026-10-27": {
+    "close": NaN
+  },
+  "GM|2026-10-27": {
+    "close": NaN
+  },
+  "GMAB|2026-10-27": {
+    "close": NaN
+  },
+  "GME|2026-10-27": {
+    "close": NaN
+  },
+  "GMED|2026-10-27": {
+    "close": NaN
+  },
+  "GNPX|2026-10-27": {
+    "close": NaN
+  },
+  "GOOG|2026-10-27": {
+    "close": NaN
+  },
+  "GOOGL|2026-10-27": {
+    "close": NaN
+  },
+  "GOOGM|2026-10-27": {
+    "close": NaN
+  },
+  "GOOGN|2026-10-27": {
+    "close": NaN
+  },
+  "GPI|2026-10-27": {
+    "close": NaN
+  },
+  "GPN|2026-10-27": {
+    "close": NaN
+  },
+  "GPOR|2026-10-27": {
+    "close": NaN
+  },
+  "GS|2026-10-27": {
+    "close": NaN
+  },
+  "GTES|2026-10-27": {
+    "close": NaN
+  },
+  "HAL|2026-10-27": {
+    "close": NaN
+  },
+  "HALO|2026-10-27": {
+    "close": NaN
+  },
+  "HCA|2026-10-27": {
+    "close": NaN
+  },
+  "HCN|2026-10-27": {
+    "close": null
+  },
+  "HD|2026-10-27": {
+    "close": NaN
+  },
+  "HDB|2026-10-27": {
+    "close": NaN
+  },
+  "HE|2026-10-27": {
+    "close": NaN
+  },
+  "HEI.A|2026-10-27": {
+    "close": null
+  },
+  "HESAF|2026-10-27": {
+    "close": 1371.300048828125
+  },
+  "HIMS|2026-10-27": {
+    "close": NaN
+  },
+  "HIW|2026-10-27": {
+    "close": NaN
+  },
+  "HLI|2026-10-27": {
+    "close": NaN
+  },
+  "HLMN|2026-10-27": {
+    "close": NaN
+  },
+  "HLT|2026-10-27": {
+    "close": NaN
+  },
+  "HMC|2026-10-27": {
+    "close": NaN
+  },
+  "HMN|2026-10-27": {
+    "close": NaN
+  },
+  "HOG|2026-10-27": {
+    "close": NaN
+  },
+  "HON|2026-10-27": {
+    "close": NaN
+  },
+  "HOOD|2026-10-27": {
+    "close": NaN
+  },
+  "HQY|2026-10-27": {
+    "close": NaN
+  },
+  "HRB|2026-10-27": {
+    "close": NaN
+  },
+  "HRI|2026-10-27": {
+    "close": NaN
+  },
+  "HSIC|2026-10-27": {
+    "close": NaN
+  },
+  "HST|2026-10-27": {
+    "close": NaN
+  },
+  "HSY|2026-10-27": {
+    "close": NaN
+  },
+  "HUBB|2026-10-27": {
+    "close": NaN
+  },
+  "HUBS|2026-10-27": {
+    "close": NaN
+  },
+  "HUM|2026-10-27": {
+    "close": NaN
+  },
+  "HURA|2026-10-27": {
+    "close": NaN
+  },
+  "HWM|2026-10-27": {
+    "close": NaN
+  },
+  "HY|2026-10-27": {
+    "close": NaN
+  },
+  "IBDSF|2026-10-27": {
+    "close": 24.299999237060547
+  },
+  "IBIT|2026-10-27": {
+    "close": NaN
+  },
+  "IBM|2026-10-27": {
+    "close": NaN
+  },
+  "IBP|2026-10-27": {
+    "close": NaN
+  },
+  "IBRX|2026-10-27": {
+    "close": NaN
+  },
+  "ICE|2026-10-27": {
+    "close": NaN
+  },
+  "ICHR|2026-10-27": {
+    "close": NaN
+  },
+  "ICON|2026-10-27": {
+    "close": NaN
+  },
+  "IDA|2026-10-27": {
+    "close": NaN
+  },
+  "IDXX|2026-10-27": {
+    "close": NaN
+  },
+  "IFF|2026-10-27": {
+    "close": NaN
+  },
+  "IFNNY|2026-10-27": {
+    "close": 56.459999084472656
+  },
+  "IHG|2026-10-27": {
+    "close": NaN
+  },
+  "ILMN|2026-10-27": {
+    "close": NaN
+  },
+  "INDB|2026-10-27": {
+    "close": NaN
+  },
+  "INFY|2026-10-27": {
+    "close": NaN
+  },
+  "INGR|2026-10-27": {
+    "close": NaN
+  },
+  "INSM|2026-10-27": {
+    "close": NaN
+  },
+  "INTA|2026-10-27": {
+    "close": NaN
+  },
+  "INTC|2026-10-27": {
+    "close": NaN
+  },
+  "INTU|2026-10-27": {
+    "close": NaN
+  },
+  "IONQ|2026-10-27": {
+    "close": NaN
+  },
+  "IQV|2026-10-27": {
+    "close": NaN
+  },
+  "IR|2026-10-27": {
+    "close": NaN
+  },
+  "IREN|2026-10-27": {
+    "close": NaN
+  },
+  "IRT|2026-10-27": {
+    "close": NaN
+  },
+  "ISRG|2026-10-27": {
+    "close": NaN
+  },
+  "ITW|2026-10-27": {
+    "close": NaN
+  },
+  "IVV|2026-10-27": {
+    "close": NaN
+  },
+  "IVZ|2026-10-27": {
+    "close": NaN
+  },
+  "J|2026-10-27": {
+    "close": NaN
+  },
+  "JCI|2026-10-27": {
+    "close": NaN
+  },
+  "JFLEX|2026-10-27": {
+    "close": 8.970000267028809
+  },
+  "JKHY|2026-10-27": {
+    "close": NaN
+  },
+  "JNJ|2026-10-27": {
+    "close": NaN
+  },
+  "JPM|2026-10-27": {
+    "close": NaN
+  },
+  "KEYS|2026-10-27": {
+    "close": NaN
+  },
+  "KHC|2026-10-27": {
+    "close": NaN
+  },
+  "KKR|2026-10-27": {
+    "close": NaN
+  },
+  "KLAC|2026-10-27": {
+    "close": NaN
+  },
+  "KMI|2026-10-27": {
+    "close": NaN
+  },
+  "KMX|2026-10-27": {
+    "close": NaN
+  },
+  "KNX|2026-10-27": {
+    "close": NaN
+  },
+  "KO|2026-10-27": {
+    "close": NaN
+  },
+  "KR|2026-10-27": {
+    "close": NaN
+  },
+  "KVUE|2026-10-27": {
+    "close": NaN
+  },
+  "L|2026-10-27": {
+    "close": NaN
+  },
+  "LB|2026-10-27": {
+    "close": NaN
+  },
+  "LGIH|2026-10-27": {
+    "close": NaN
+  },
+  "LGN|2026-10-27": {
+    "close": NaN
+  },
+  "LGND|2026-10-27": {
+    "close": NaN
+  },
+  "LH|2026-10-27": {
+    "close": NaN
+  },
+  "LHX|2026-10-27": {
+    "close": NaN
+  },
+  "LI|2026-10-27": {
+    "close": NaN
+  },
+  "LIN|2026-10-27": {
+    "close": NaN
+  },
+  "LINE|2026-10-27": {
+    "close": NaN
+  },
+  "LITE|2026-10-27": {
+    "close": NaN
+  },
+  "LLY|2026-10-27": {
+    "close": NaN
+  },
+  "LMT|2026-10-27": {
+    "close": NaN
+  },
+  "LNTH|2026-10-27": {
+    "close": NaN
+  },
+  "LOW|2026-10-27": {
+    "close": NaN
+  },
+  "LPLA|2026-10-27": {
+    "close": NaN
+  },
+  "LRCX|2026-10-27": {
+    "close": NaN
+  },
+  "LSYIX|2026-10-27": {
+    "close": 9.220000267028809
+  },
+  "LULU|2026-10-27": {
+    "close": NaN
+  },
+  "LUV|2026-10-27": {
+    "close": NaN
+  },
+  "LYB|2026-10-27": {
+    "close": NaN
+  },
+  "MA|2026-10-27": {
+    "close": NaN
+  },
+  "MBFJF|2026-10-27": {
+    "close": 22.010000228881836
+  },
+  "MCD|2026-10-27": {
+    "close": NaN
+  },
+  "MCHP|2026-10-27": {
+    "close": NaN
+  },
+  "MCK|2026-10-27": {
+    "close": NaN
+  },
+  "MCO|2026-10-27": {
+    "close": NaN
+  },
+  "MDB|2026-10-27": {
+    "close": NaN
+  },
+  "MDLZ|2026-10-27": {
+    "close": NaN
+  },
+  "MDT|2026-10-27": {
+    "close": NaN
+  },
+  "MEDP|2026-10-27": {
+    "close": NaN
+  },
+  "MELI|2026-10-27": {
+    "close": NaN
+  },
+  "META|2026-10-27": {
+    "close": NaN
+  },
+  "MGK|2026-10-27": {
+    "close": NaN
+  },
+  "MHVYF|2026-10-27": {
+    "close": 22.600000381469727
+  },
+  "MIAX|2026-10-27": {
+    "close": NaN
+  },
+  "MIDD|2026-10-27": {
+    "close": NaN
+  },
+  "MKL|2026-10-27": {
+    "close": NaN
+  },
+  "MKSI|2026-10-27": {
+    "close": NaN
+  },
+  "MLM|2026-10-27": {
+    "close": NaN
+  },
+  "MMM|2026-10-27": {
+    "close": NaN
+  },
+  "MMSI|2026-10-27": {
+    "close": NaN
+  },
+  "MNDY|2026-10-27": {
+    "close": NaN
+  },
+  "MNST|2026-10-27": {
+    "close": NaN
+  },
+  "MOG.A|2026-10-27": {
+    "close": null
+  },
+  "MOH|2026-10-27": {
+    "close": NaN
+  },
+  "MPC|2026-10-27": {
+    "close": NaN
+  },
+  "MPWR|2026-10-27": {
+    "close": NaN
+  },
+  "MRK|2026-10-27": {
+    "close": NaN
+  },
+  "MRNA|2026-10-27": {
+    "close": NaN
+  },
+  "MRVL|2026-10-27": {
+    "close": NaN
+  },
+  "MS|2026-10-27": {
+    "close": NaN
+  },
+  "MSB|2026-10-27": {
+    "close": NaN
+  },
+  "MSCI|2026-10-27": {
+    "close": NaN
+  },
+  "MSFT|2026-10-27": {
+    "close": NaN
+  },
+  "MSI|2026-10-27": {
+    "close": NaN
+  },
+  "MSTR|2026-10-27": {
+    "close": NaN
+  },
+  "MSTY|2026-10-27": {
+    "close": NaN
+  },
+  "MTB|2026-10-27": {
+    "close": NaN
+  },
+  "MTD|2026-10-27": {
+    "close": NaN
+  },
+  "MTN|2026-10-27": {
+    "close": NaN
+  },
+  "MTSI|2026-10-27": {
+    "close": NaN
+  },
+  "MTX|2026-10-27": {
+    "close": NaN
+  },
+  "MTZ|2026-10-27": {
+    "close": NaN
+  },
+  "MU|2026-10-27": {
+    "close": NaN
+  },
+  "NBGIX|2026-10-27": {
+    "close": 59.560001373291016
+  },
+  "NBIX|2026-10-27": {
+    "close": NaN
+  },
+  "NEE|2026-10-27": {
+    "close": NaN
+  },
+  "NEO|2026-10-27": {
+    "close": NaN
+  },
+  "NET|2026-10-27": {
+    "close": NaN
+  },
+  "NFLX|2026-10-27": {
+    "close": NaN
+  },
+  "NG|2026-10-27": {
+    "close": NaN
+  },
+  "NGD|2026-10-27": {
+    "close": null
+  },
+  "NHI|2026-10-27": {
+    "close": NaN
+  },
+  "NICE|2026-10-27": {
+    "close": NaN
+  },
+  "NJR|2026-10-27": {
+    "close": NaN
+  },
+  "NKE|2026-10-27": {
+    "close": NaN
+  },
+  "NOC|2026-10-27": {
+    "close": NaN
+  },
+  "NOKBF|2026-10-27": {
+    "close": 8.229999542236328
+  },
+  "NOVT|2026-10-27": {
+    "close": NaN
+  },
+  "NOW|2026-10-27": {
+    "close": NaN
+  },
+  "NSC|2026-10-27": {
+    "close": NaN
+  },
+  "NSRGY|2026-10-27": {
+    "close": 100.83000183105469
+  },
+  "NTDOF|2026-10-27": {
+    "close": 53.97999954223633
+  },
+  "NTES|2026-10-27": {
+    "close": NaN
+  },
+  "NTRA|2026-10-27": {
+    "close": NaN
+  },
+  "NTRS|2026-10-27": {
+    "close": NaN
+  },
+  "NUE|2026-10-27": {
+    "close": NaN
+  },
+  "NVDA|2026-10-27": {
+    "close": NaN
+  },
+  "NVO|2026-10-27": {
+    "close": NaN
+  },
+  "NVR|2026-10-27": {
+    "close": NaN
+  },
+  "NVS|2026-10-27": {
+    "close": NaN
+  },
+  "NVT|2026-10-27": {
+    "close": NaN
+  },
+  "NWE|2026-10-27": {
+    "close": NaN
+  },
+  "NWL|2026-10-27": {
+    "close": NaN
+  },
+  "NWS|2026-10-27": {
+    "close": NaN
+  },
+  "NXPI|2026-10-27": {
+    "close": NaN
+  },
+  "NYSE|2026-10-27": {
+    "close": null
+  },
+  "O|2026-10-27": {
+    "close": NaN
+  },
+  "ODFL|2026-10-27": {
+    "close": NaN
+  },
+  "OKE|2026-10-27": {
+    "close": NaN
+  },
+  "OKTA|2026-10-27": {
+    "close": NaN
+  },
+  "OLN|2026-10-27": {
+    "close": NaN
+  },
+  "ON|2026-10-27": {
+    "close": NaN
+  },
+  "OPCH|2026-10-27": {
+    "close": NaN
+  },
+  "OPEN|2026-10-27": {
+    "close": NaN
+  },
+  "ORCL|2026-10-27": {
+    "close": NaN
+  },
+  "ORLY|2026-10-27": {
+    "close": NaN
+  },
+  "OVV|2026-10-27": {
+    "close": NaN
+  },
+  "OWL|2026-10-27": {
+    "close": NaN
+  },
+  "OXY|2026-10-27": {
+    "close": NaN
+  },
+  "PANW|2026-10-27": {
+    "close": NaN
+  },
+  "PAR|2026-10-27": {
+    "close": NaN
+  },
+  "PATK|2026-10-27": {
+    "close": NaN
+  },
+  "PAYX|2026-10-27": {
+    "close": NaN
+  },
+  "PCAR|2026-10-27": {
+    "close": NaN
+  },
+  "PCVX|2026-10-27": {
+    "close": NaN
+  },
+  "PDD|2026-10-27": {
+    "close": NaN
+  },
+  "PEG|2026-10-27": {
+    "close": NaN
+  },
+  "PEP|2026-10-27": {
+    "close": NaN
+  },
+  "PFE|2026-10-27": {
+    "close": NaN
+  },
+  "PG|2026-10-27": {
+    "close": NaN
+  },
+  "PGR|2026-10-27": {
+    "close": NaN
+  },
+  "PH|2026-10-27": {
+    "close": NaN
+  },
+  "PI|2026-10-27": {
+    "close": NaN
+  },
+  "PII|2026-10-27": {
+    "close": NaN
+  },
+  "PKG|2026-10-27": {
+    "close": NaN
+  },
+  "PLD|2026-10-27": {
+    "close": NaN
+  },
+  "PLTR|2026-10-27": {
+    "close": NaN
+  },
+  "PM|2026-10-27": {
+    "close": NaN
+  },
+  "PNC|2026-10-27": {
+    "close": NaN
+  },
+  "PPG|2026-10-27": {
+    "close": NaN
+  },
+  "PPL|2026-10-27": {
+    "close": NaN
+  },
+  "PRAX|2026-10-27": {
+    "close": NaN
+  },
+  "PTA|2026-10-27": {
+    "close": 16.829999923706055
+  },
+  "PTC|2026-10-27": {
+    "close": NaN
+  },
+  "PTON|2026-10-27": {
+    "close": NaN
+  },
+  "PVH|2026-10-27": {
+    "close": NaN
+  },
+  "PWP|2026-10-27": {
+    "close": NaN
+  },
+  "PWR|2026-10-27": {
+    "close": NaN
+  },
+  "PYPL|2026-10-27": {
+    "close": NaN
+  },
+  "QCOM|2026-10-27": {
+    "close": NaN
+  },
+  "QNT|2026-10-27": {
+    "close": NaN
+  },
+  "QQQM|2026-10-27": {
+    "close": NaN
+  },
+  "QSR|2026-10-27": {
+    "close": NaN
+  },
+  "QYLD|2026-10-27": {
+    "close": NaN
+  },
+  "RACE|2026-10-27": {
+    "close": NaN
+  },
+  "RARE|2026-10-27": {
+    "close": NaN
+  },
+  "RBA|2026-10-27": {
+    "close": NaN
+  },
+  "RBLX|2026-10-27": {
+    "close": NaN
+  },
+  "RCL|2026-10-27": {
+    "close": NaN
+  },
+  "REG|2026-10-27": {
+    "close": NaN
+  },
+  "REGN|2026-10-27": {
+    "close": NaN
+  },
+  "RELX|2026-10-27": {
+    "close": NaN
+  },
+  "RGLD|2026-10-27": {
+    "close": NaN
+  },
+  "RH|2026-10-27": {
+    "close": NaN
+  },
+  "RHP|2026-10-27": {
+    "close": NaN
+  },
+  "RIG|2026-10-27": {
+    "close": NaN
+  },
+  "RNMBF|2026-10-27": {
+    "close": 1135.0
+  },
+  "ROP|2026-10-27": {
+    "close": NaN
+  },
+  "ROST|2026-10-27": {
+    "close": NaN
+  },
+  "RPM|2026-10-27": {
+    "close": NaN
+  },
+  "RS|2026-10-27": {
+    "close": NaN
+  },
+  "RSNHF|2026-10-27": {
+    "close": 13.175000190734863
+  },
+  "RSP|2026-10-27": {
+    "close": NaN
+  },
+  "RTX|2026-10-27": {
+    "close": NaN
+  },
+  "RVTY|2026-10-27": {
+    "close": NaN
+  },
+  "RYCEY|2026-10-27": {
+    "close": 16.40999984741211
+  },
+  "SAIA|2026-10-27": {
+    "close": NaN
+  },
+  "SAIC|2026-10-27": {
+    "close": NaN
+  },
+  "SAIL|2026-10-27": {
+    "close": NaN
+  },
+  "SAN|2026-10-27": {
+    "close": NaN
+  },
+  "SAP|2026-10-27": {
+    "close": NaN
+  },
+  "SARO|2026-10-27": {
+    "close": NaN
+  },
+  "SBAC|2026-10-27": {
+    "close": NaN
+  },
+  "SBCF|2026-10-27": {
+    "close": NaN
+  },
+  "SBUX|2026-10-27": {
+    "close": NaN
+  },
+  "SCCO|2026-10-27": {
+    "close": NaN
+  },
+  "SCHW|2026-10-27": {
+    "close": NaN
+  },
+  "SCMY|2026-10-27": {
+    "close": 24.670000076293945
+  },
+  "SDVY|2026-10-27": {
+    "close": NaN
+  },
+  "SE|2026-10-27": {
+    "close": NaN
+  },
+  "SEE|2026-10-27": {
+    "close": null
+  },
+  "SF|2026-10-27": {
+    "close": NaN
+  },
+  "SFGYY|2026-10-27": {
+    "close": 4.5
+  },
+  "SFM|2026-10-27": {
+    "close": NaN
+  },
+  "SHAK|2026-10-27": {
+    "close": NaN
+  },
+  "SHEL|2026-10-27": {
+    "close": NaN
+  },
+  "SHOP|2026-10-27": {
+    "close": NaN
+  },
+  "SHW|2026-10-27": {
+    "close": NaN
+  },
+  "SKHY|2026-10-27": {
+    "close": NaN
+  },
+  "SKWD|2026-10-27": {
+    "close": NaN
+  },
+  "SKY|2026-10-27": {
+    "close": NaN
+  },
+  "SMCY|2026-10-27": {
+    "close": NaN
+  },
+  "SMEGF|2026-10-27": {
+    "close": 140.0
+  },
+  "SMPL|2026-10-27": {
+    "close": NaN
+  },
+  "SMR|2026-10-27": {
+    "close": NaN
+  },
+  "SMTC|2026-10-27": {
+    "close": NaN
+  },
+  "SNAP|2026-10-27": {
+    "close": NaN
+  },
+  "SNDK|2026-10-27": {
+    "close": NaN
+  },
+  "SNEJF|2026-10-27": {
+    "close": 24.8700008392334
+  },
+  "SNN|2026-10-27": {
+    "close": NaN
+  },
+  "SNOW|2026-10-27": {
+    "close": NaN
+  },
+  "SNPS|2026-10-27": {
+    "close": NaN
+  },
+  "SO|2026-10-27": {
+    "close": NaN
+  },
+  "SOFI|2026-10-27": {
+    "close": NaN
+  },
+  "SONY|2026-10-27": {
+    "close": NaN
+  },
+  "SPCX|2026-10-27": {
+    "close": NaN
+  },
+  "SPG|2026-10-27": {
+    "close": NaN
+  },
+  "SPGI|2026-10-27": {
+    "close": NaN
+  },
+  "SPHR|2026-10-27": {
+    "close": NaN
+  },
+  "SPOT|2026-10-27": {
+    "close": NaN
+  },
+  "SQ|2026-10-27": {
+    "close": null
+  },
+  "SRE|2026-10-27": {
+    "close": NaN
+  },
+  "SSYS|2026-10-27": {
+    "close": NaN
+  },
+  "ST|2026-10-27": {
+    "close": NaN
+  },
+  "STAG|2026-10-27": {
+    "close": NaN
+  },
+  "STE|2026-10-27": {
+    "close": NaN
+  },
+  "STLD|2026-10-27": {
+    "close": NaN
+  },
+  "STRC|2026-10-27": {
+    "close": NaN
+  },
+  "STT|2026-10-27": {
+    "close": NaN
+  },
+  "STX|2026-10-27": {
+    "close": NaN
+  },
+  "STZ|2026-10-27": {
+    "close": NaN
+  },
+  "SUPN|2026-10-27": {
+    "close": NaN
+  },
+  "SW|2026-10-27": {
+    "close": NaN
+  },
+  "SYF|2026-10-27": {
+    "close": NaN
+  },
+  "SYK|2026-10-27": {
+    "close": NaN
+  },
+  "SYY|2026-10-27": {
+    "close": NaN
+  },
+  "T|2026-10-27": {
+    "close": NaN
+  },
+  "TCBI|2026-10-27": {
+    "close": NaN
+  },
+  "TCOM|2026-10-27": {
+    "close": NaN
+  },
+  "TCTZF|2026-10-27": {
+    "close": 49.65999984741211
+  },
+  "TDG|2026-10-27": {
+    "close": NaN
+  },
+  "TDY|2026-10-27": {
+    "close": NaN
+  },
+  "TEAM|2026-10-27": {
+    "close": NaN
+  },
+  "TEL|2026-10-27": {
+    "close": NaN
+  },
+  "TGT|2026-10-27": {
+    "close": NaN
+  },
+  "THLEF|2026-10-27": {
+    "close": 252.64999389648438
+  },
+  "THR|2026-10-27": {
+    "close": null
+  },
+  "TJX|2026-10-27": {
+    "close": NaN
+  },
+  "TKO|2026-10-27": {
+    "close": NaN
+  },
+  "TLK|2026-10-27": {
+    "close": NaN
+  },
+  "TMO|2026-10-27": {
+    "close": NaN
+  },
+  "TMUS|2026-10-27": {
+    "close": NaN
+  },
+  "TNA|2026-10-27": {
+    "close": NaN
+  },
+  "TNDM|2026-10-27": {
+    "close": NaN
+  },
+  "TOELF|2026-10-27": {
+    "close": 59.91999816894531
+  },
+  "TOST|2026-10-27": {
+    "close": NaN
+  },
+  "TPL|2026-10-27": {
+    "close": NaN
+  },
+  "TRGP|2026-10-27": {
+    "close": NaN
+  },
+  "TRMB|2026-10-27": {
+    "close": NaN
+  },
+  "TRP|2026-10-27": {
+    "close": NaN
+  },
+  "TRV|2026-10-27": {
+    "close": NaN
+  },
+  "TSCO|2026-10-27": {
+    "close": NaN
+  },
+  "TSIIX|2026-10-27": {
+    "close": 11.170000076293945
+  },
+  "TSLA|2026-10-27": {
+    "close": NaN
+  },
+  "TSM|2026-10-27": {
+    "close": NaN
+  },
+  "TTD|2026-10-27": {
+    "close": NaN
+  },
+  "TTNDY|2026-10-27": {
+    "close": 83.7300033569336
+  },
+  "TTWO|2026-10-27": {
+    "close": NaN
+  },
+  "TW|2026-10-27": {
+    "close": NaN
+  },
+  "TWLO|2026-10-27": {
+    "close": NaN
+  },
+  "TXN|2026-10-27": {
+    "close": NaN
+  },
+  "TXRH|2026-10-27": {
+    "close": NaN
+  },
+  "TXT|2026-10-27": {
+    "close": NaN
+  },
+  "TYL|2026-10-27": {
+    "close": NaN
+  },
+  "UBER|2026-10-27": {
+    "close": NaN
+  },
+  "UBSI|2026-10-27": {
+    "close": NaN
+  },
+  "UFPI|2026-10-27": {
+    "close": NaN
+  },
+  "UHALB|2026-10-27": {
+    "close": null
+  },
+  "UHS|2026-10-27": {
+    "close": NaN
+  },
+  "UL|2026-10-27": {
+    "close": NaN
+  },
+  "ULTA|2026-10-27": {
+    "close": NaN
+  },
+  "UNCFF|2026-10-27": {
+    "close": 80.2699966430664
+  },
+  "UNH|2026-10-27": {
+    "close": NaN
+  },
+  "UNICY|2026-10-27": {
+    "close": 3.2799999713897705
+  },
+  "UNP|2026-10-27": {
+    "close": NaN
+  },
+  "UPS|2026-10-27": {
+    "close": NaN
+  },
+  "URI|2026-10-27": {
+    "close": NaN
+  },
+  "USB|2026-10-27": {
+    "close": NaN
+  },
+  "USFD|2026-10-27": {
+    "close": NaN
+  },
+  "USOU|2026-10-27": {
+    "close": null
+  },
+  "USPH|2026-10-27": {
+    "close": NaN
+  },
+  "UTZ|2026-10-27": {
+    "close": NaN
+  },
+  "V|2026-10-27": {
+    "close": NaN
+  },
+  "VALE|2026-10-27": {
+    "close": NaN
+  },
+  "VCYT|2026-10-27": {
+    "close": NaN
+  },
+  "VEEV|2026-10-27": {
+    "close": NaN
+  },
+  "VG|2026-10-27": {
+    "close": NaN
+  },
+  "VICI|2026-10-27": {
+    "close": NaN
+  },
+  "VLO|2026-10-27": {
+    "close": NaN
+  },
+  "VLTO|2026-10-27": {
+    "close": NaN
+  },
+  "VNOM|2026-10-27": {
+    "close": NaN
+  },
+  "VOYG|2026-10-27": {
+    "close": NaN
+  },
+  "VRE|2026-10-27": {
+    "close": null
+  },
+  "VRSK|2026-10-27": {
+    "close": NaN
+  },
+  "VRSN|2026-10-27": {
+    "close": NaN
+  },
+  "VRT|2026-10-27": {
+    "close": NaN
+  },
+  "VRTX|2026-10-27": {
+    "close": NaN
+  },
+  "VST|2026-10-27": {
+    "close": NaN
+  },
+  "VTRS|2026-10-27": {
+    "close": NaN
+  },
+  "VZ|2026-10-27": {
+    "close": NaN
+  },
+  "W|2026-10-27": {
+    "close": NaN
+  },
+  "WAB|2026-10-27": {
+    "close": NaN
+  },
+  "WAT|2026-10-27": {
+    "close": NaN
+  },
+  "WBD|2026-10-27": {
+    "close": null
+  },
+  "WBI|2026-10-27": {
+    "close": NaN
+  },
+  "WDAY|2026-10-27": {
+    "close": NaN
+  },
+  "WDFC|2026-10-27": {
+    "close": NaN
+  },
+  "WELL|2026-10-27": {
+    "close": NaN
+  },
+  "WFC|2026-10-27": {
+    "close": NaN
+  },
+  "WHR|2026-10-27": {
+    "close": NaN
+  },
+  "WM|2026-10-27": {
+    "close": NaN
+  },
+  "WMB|2026-10-27": {
+    "close": NaN
+  },
+  "WMT|2026-10-27": {
+    "close": NaN
+  },
+  "WPC|2026-10-27": {
+    "close": NaN
+  },
+  "WPM|2026-10-27": {
+    "close": NaN
+  },
+  "WSFS|2026-10-27": {
+    "close": NaN
+  },
+  "WSM|2026-10-27": {
+    "close": NaN
+  },
+  "WTM|2026-10-27": {
+    "close": NaN
+  },
+  "WTW|2026-10-27": {
+    "close": NaN
+  },
+  "WUXIF|2026-10-27": {
+    "close": 24.979999542236328
+  },
+  "WYNN|2026-10-27": {
+    "close": NaN
+  },
+  "XIACF|2026-10-27": {
+    "close": 3.299999952316284
+  },
+  "XMEX|2026-10-27": {
+    "close": null
+  },
+  "XOM|2026-10-27": {
+    "close": NaN
+  },
+  "XYZ|2026-10-27": {
+    "close": NaN
+  },
+  "YETI|2026-10-27": {
+    "close": NaN
+  },
+  "ZM|2026-10-27": {
+    "close": NaN
+  },
+  "ZTS|2026-10-27": {
+    "close": NaN
   }
 }
