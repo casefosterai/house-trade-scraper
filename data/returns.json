@@ -2,10 +2,10 @@
   "generated_at": "2026-10-29",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 10049,
+    "trade_records": 10051,
     "closed_positions": 2014,
     "open_positions": 2615,
-    "unmatched_sales": 2379,
+    "unmatched_sales": 2381,
     "skipped": {
       "professionally_managed": 281,
       "options_not_supported": 50,
@@ -54888,7 +54888,7 @@
       "open_position_count": 1,
       "open_priceable_count": 1,
       "open_total_cost_basis_usd": 8000.0,
-      "unmatched_sale_count": 129,
+      "unmatched_sale_count": 131,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -54960,6 +54960,26 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "TXN",
+          "asset_description": "Texas Instruments Incorporated - Common Stock (TXN) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035710-1",
+          "sale_date": "2026-10-14",
+          "sale_disclosure_date": "2026-10-27",
+          "proceeds_usd": 32500.5
+        },
+        {
+          "ticker": "ASML",
+          "asset_description": "ASML Holding N.V. - New York Registry Shares (ASML) [ST]",
+          "owner": "JT",
+          "subholding_of": "Hern Family Foundation",
+          "sale_trade_id": "20035710-0",
+          "sale_date": "2026-10-23",
+          "sale_disclosure_date": "2026-10-27",
+          "proceeds_usd": 32500.5
+        },
         {
           "ticker": "LOW",
           "asset_description": "Lowe's Companies, Inc. Common Stock (LOW) [ST]",
