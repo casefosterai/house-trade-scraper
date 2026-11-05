@@ -2,10 +2,10 @@
   "generated_at": "2026-11-05",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 10072,
+    "trade_records": 10080,
     "closed_positions": 2016,
-    "open_positions": 2624,
-    "unmatched_sales": 2386,
+    "open_positions": 2628,
+    "unmatched_sales": 2388,
     "skipped": {
       "professionally_managed": 281,
       "options_not_supported": 50,
@@ -13584,7 +13584,7 @@
       "open_position_count": 1,
       "open_priceable_count": 1,
       "open_total_cost_basis_usd": 32500.0,
-      "unmatched_sale_count": 16,
+      "unmatched_sale_count": 17,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -13682,6 +13682,16 @@
           "sale_trade_id": "20035487-0",
           "sale_date": "2026-08-31",
           "sale_disclosure_date": "2026-09-14",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "SP",
+          "subholding_of": "Schwab Brokerage Account",
+          "sale_trade_id": "20035662-0",
+          "sale_date": "2026-09-25",
+          "sale_disclosure_date": "2026-10-14",
           "proceeds_usd": 8000.5
         },
         {
@@ -69552,15 +69562,32 @@
       "closed_priceable_count": 28,
       "closed_total_cost_basis_usd": 273014.0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 56,
-      "open_priceable_count": 54,
-      "open_total_cost_basis_usd": 1097520.0,
-      "unmatched_sale_count": 7,
+      "open_position_count": 60,
+      "open_priceable_count": 58,
+      "open_total_cost_basis_usd": 1129522.0,
+      "unmatched_sale_count": 8,
       "untracked_tickers": [
         "BRK.B"
       ],
       "excluded_by_reason": {},
       "closed_positions": [
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20033993-3",
+          "sale_trade_id": "20035562-4",
+          "purchase_date": "2026-03-19",
+          "purchase_disclosure_date": "2026-04-01",
+          "sale_date": "2026-09-08",
+          "sale_disclosure_date": "2026-10-01",
+          "cost_basis_usd": 8000.5,
+          "closed_via": "sale",
+          "return_disclosure_pct": NaN,
+          "return_transaction_pct": 39.92,
+          "priceable": true
+        },
         {
           "ticker": "GLW",
           "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
@@ -69593,23 +69620,6 @@
           "closed_via": "sale",
           "return_disclosure_pct": NaN,
           "return_transaction_pct": 13.53,
-          "priceable": true
-        },
-        {
-          "ticker": "CSCO",
-          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
-          "owner": "",
-          "subholding_of": "UBS IRA Account",
-          "purchase_trade_id": "20033993-3",
-          "sale_trade_id": "20035562-4",
-          "purchase_date": "2026-03-19",
-          "purchase_disclosure_date": "2026-04-01",
-          "sale_date": "2026-09-08",
-          "sale_disclosure_date": "2026-10-01",
-          "cost_basis_usd": 8000.5,
-          "closed_via": "sale",
-          "return_disclosure_pct": NaN,
-          "return_transaction_pct": 39.92,
           "priceable": true
         },
         {
@@ -70056,6 +70066,58 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "PG",
+          "asset_description": "Procter & Gamble Company (PG) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035778-4",
+          "purchase_date": "2026-10-23",
+          "purchase_disclosure_date": "2026-11-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "PG",
+          "asset_description": "Procter & Gamble Company (PG) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035778-3",
+          "purchase_date": "2026-10-23",
+          "purchase_disclosure_date": "2026-11-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "",
+          "subholding_of": "UBS Brokerage Account",
+          "purchase_trade_id": "20035778-2",
+          "purchase_date": "2026-10-23",
+          "purchase_disclosure_date": "2026-11-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
+        {
+          "ticker": "NVDA",
+          "asset_description": "NVIDIA Corporation - Common Stock (NVDA) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "purchase_trade_id": "20035778-1",
+          "purchase_date": "2026-10-23",
+          "purchase_disclosure_date": "2026-11-01",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
         {
           "ticker": "GLW",
           "asset_description": "Corning Incorporated Common Stock (GLW) [ST]",
@@ -70794,6 +70856,16 @@
           "sale_trade_id": "20035562-6",
           "sale_date": "2026-09-24",
           "sale_disclosure_date": "2026-10-01",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "CSCO",
+          "asset_description": "Cisco Systems, Inc. - Common Stock (CSCO) [ST]",
+          "owner": "",
+          "subholding_of": "UBS IRA Account",
+          "sale_trade_id": "20035778-0",
+          "sale_date": "2026-10-23",
+          "sale_disclosure_date": "2026-11-01",
           "proceeds_usd": 8000.5
         },
         {
