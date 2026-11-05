@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 10072,
@@ -7363,8 +7363,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-03-31",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 8.82,
-          "mtm_return_transaction_pct": 6.36,
+          "mtm_return_disclosure_pct": 12.07,
+          "mtm_return_transaction_pct": 9.53,
           "priceable": true
         },
         {
@@ -16637,8 +16637,8 @@
           "purchase_date": "2026-04-21",
           "purchase_disclosure_date": "2026-04-27",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -10.94,
-          "mtm_return_transaction_pct": -11.72,
+          "mtm_return_disclosure_pct": -10.11,
+          "mtm_return_transaction_pct": -10.89,
           "priceable": true
         },
         {
@@ -25358,8 +25358,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -11.97,
-          "mtm_return_transaction_pct": -9.3,
+          "mtm_return_disclosure_pct": -13.42,
+          "mtm_return_transaction_pct": -10.8,
           "priceable": true
         },
         {
@@ -25371,8 +25371,8 @@
           "purchase_date": "2026-06-09",
           "purchase_disclosure_date": "2026-07-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -17.75,
-          "mtm_return_transaction_pct": -9.2,
+          "mtm_return_disclosure_pct": -19.11,
+          "mtm_return_transaction_pct": -10.7,
           "priceable": true
         },
         {
@@ -26125,8 +26125,8 @@
           "purchase_date": "2026-05-18",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -82.87,
-          "mtm_return_transaction_pct": -80.39,
+          "mtm_return_disclosure_pct": -83.24,
+          "mtm_return_transaction_pct": -80.81,
           "priceable": true
         },
         {
@@ -26151,8 +26151,8 @@
           "purchase_date": "2026-05-11",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -2.01,
-          "mtm_return_transaction_pct": -2.66,
+          "mtm_return_disclosure_pct": -1.08,
+          "mtm_return_transaction_pct": -1.73,
           "priceable": true
         },
         {
@@ -26385,8 +26385,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -44.44,
-          "mtm_return_transaction_pct": -46.36,
+          "mtm_return_disclosure_pct": -49.19,
+          "mtm_return_transaction_pct": -50.96,
           "priceable": true
         },
         {
@@ -26398,8 +26398,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -41.0,
-          "mtm_return_transaction_pct": -40.21,
+          "mtm_return_disclosure_pct": -46.05,
+          "mtm_return_transaction_pct": -45.33,
           "priceable": true
         },
         {
@@ -26411,8 +26411,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -40.21,
-          "mtm_return_transaction_pct": -45.89,
+          "mtm_return_disclosure_pct": -45.33,
+          "mtm_return_transaction_pct": -50.52,
           "priceable": true
         },
         {
@@ -26788,8 +26788,8 @@
           "purchase_date": "2026-04-24",
           "purchase_disclosure_date": "2026-05-07",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 34.49,
-          "mtm_return_transaction_pct": 20.49,
+          "mtm_return_disclosure_pct": 31.91,
+          "mtm_return_transaction_pct": 18.18,
           "priceable": true
         },
         {
@@ -26983,8 +26983,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -41.35,
-          "mtm_return_transaction_pct": -43.11,
+          "mtm_return_disclosure_pct": -39.83,
+          "mtm_return_transaction_pct": -41.63,
           "priceable": true
         },
         {
@@ -26996,8 +26996,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -41.61,
-          "mtm_return_transaction_pct": -38.47,
+          "mtm_return_disclosure_pct": -40.09,
+          "mtm_return_transaction_pct": -36.87,
           "priceable": true
         },
         {
@@ -27009,8 +27009,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -41.0,
-          "mtm_return_transaction_pct": -36.77,
+          "mtm_return_disclosure_pct": -39.47,
+          "mtm_return_transaction_pct": -35.13,
           "priceable": true
         },
         {
@@ -27386,8 +27386,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -35.15,
-          "mtm_return_transaction_pct": -40.25,
+          "mtm_return_disclosure_pct": -32.76,
+          "mtm_return_transaction_pct": -38.04,
           "priceable": true
         },
         {
@@ -27399,8 +27399,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -33.33,
-          "mtm_return_transaction_pct": -38.62,
+          "mtm_return_disclosure_pct": -30.86,
+          "mtm_return_transaction_pct": -36.35,
           "priceable": true
         },
         {
@@ -27412,8 +27412,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -39.17,
-          "mtm_return_transaction_pct": -40.28,
+          "mtm_return_disclosure_pct": -36.92,
+          "mtm_return_transaction_pct": -38.07,
           "priceable": true
         },
         {
@@ -27425,8 +27425,8 @@
           "purchase_date": "2026-03-27",
           "purchase_disclosure_date": "2026-04-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -19.17,
-          "mtm_return_transaction_pct": -19.17,
+          "mtm_return_disclosure_pct": -16.18,
+          "mtm_return_transaction_pct": -16.18,
           "priceable": true
         },
         {
@@ -27789,8 +27789,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -33.94,
-          "mtm_return_transaction_pct": -27.55,
+          "mtm_return_disclosure_pct": -31.56,
+          "mtm_return_transaction_pct": -24.93,
           "priceable": true
         },
         {
@@ -27802,8 +27802,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -25.0,
-          "mtm_return_transaction_pct": -17.24,
+          "mtm_return_disclosure_pct": -22.29,
+          "mtm_return_transaction_pct": -14.25,
           "priceable": true
         },
         {
@@ -27971,8 +27971,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -24.56,
-          "mtm_return_transaction_pct": -25.11,
+          "mtm_return_disclosure_pct": -26.47,
+          "mtm_return_transaction_pct": -27.01,
           "priceable": true
         },
         {
@@ -27984,8 +27984,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -19.66,
-          "mtm_return_transaction_pct": -17.48,
+          "mtm_return_disclosure_pct": -21.7,
+          "mtm_return_transaction_pct": -19.57,
           "priceable": true
         },
         {
@@ -27997,8 +27997,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -36.58,
-          "mtm_return_transaction_pct": -29.01,
+          "mtm_return_disclosure_pct": -38.19,
+          "mtm_return_transaction_pct": -30.81,
           "priceable": true
         },
         {
@@ -28010,8 +28010,8 @@
           "purchase_date": "2026-02-13",
           "purchase_disclosure_date": "2026-03-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -28.44,
-          "mtm_return_transaction_pct": -36.07,
+          "mtm_return_disclosure_pct": -30.25,
+          "mtm_return_transaction_pct": -37.69,
           "priceable": true
         },
         {
@@ -28387,8 +28387,8 @@
           "purchase_date": "2026-02-03",
           "purchase_disclosure_date": "2026-02-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -7.96,
-          "mtm_return_transaction_pct": -15.15,
+          "mtm_return_disclosure_pct": -9.62,
+          "mtm_return_transaction_pct": -16.68,
           "priceable": true
         },
         {
@@ -29050,8 +29050,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -39.76,
-          "mtm_return_transaction_pct": -39.3,
+          "mtm_return_disclosure_pct": -36.73,
+          "mtm_return_transaction_pct": -36.25,
           "priceable": true
         },
         {
@@ -29063,8 +29063,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -28.02,
-          "mtm_return_transaction_pct": -36.55,
+          "mtm_return_disclosure_pct": -24.4,
+          "mtm_return_transaction_pct": -33.36,
           "priceable": true
         },
         {
@@ -29089,8 +29089,8 @@
           "purchase_date": "2025-12-19",
           "purchase_disclosure_date": "2026-01-09",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 24.91,
-          "mtm_return_transaction_pct": 37.21,
+          "mtm_return_disclosure_pct": 23.64,
+          "mtm_return_transaction_pct": 35.81,
           "priceable": true
         },
         {
@@ -29401,8 +29401,8 @@
           "purchase_date": "2025-08-08",
           "purchase_disclosure_date": "2025-09-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 41.2,
-          "mtm_return_transaction_pct": 52.28,
+          "mtm_return_disclosure_pct": 39.76,
+          "mtm_return_transaction_pct": 50.73,
           "priceable": true
         },
         {
@@ -29414,8 +29414,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 44.26,
-          "mtm_return_transaction_pct": 40.32,
+          "mtm_return_disclosure_pct": 42.79,
+          "mtm_return_transaction_pct": 38.9,
           "priceable": true
         },
         {
@@ -29427,8 +29427,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 33.31,
-          "mtm_return_transaction_pct": 43.68,
+          "mtm_return_disclosure_pct": 31.96,
+          "mtm_return_transaction_pct": 42.22,
           "priceable": true
         },
         {
@@ -29453,8 +29453,8 @@
           "purchase_date": "2025-11-18",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 8.66,
-          "mtm_return_transaction_pct": 9.72,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
           "priceable": true
         },
         {
@@ -29570,8 +29570,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 18.31,
-          "mtm_return_transaction_pct": 23.75,
+          "mtm_return_disclosure_pct": 17.93,
+          "mtm_return_transaction_pct": 23.35,
           "priceable": true
         },
         {
@@ -29583,8 +29583,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 18.65,
-          "mtm_return_transaction_pct": 19.45,
+          "mtm_return_disclosure_pct": 18.26,
+          "mtm_return_transaction_pct": 19.06,
           "priceable": true
         },
         {
@@ -29882,8 +29882,8 @@
           "purchase_date": "2025-09-18",
           "purchase_disclosure_date": "2025-10-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 11.32,
-          "mtm_return_transaction_pct": 11.89,
+          "mtm_return_disclosure_pct": 18.71,
+          "mtm_return_transaction_pct": 19.32,
           "priceable": true
         },
         {
@@ -29895,8 +29895,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 6.07,
-          "mtm_return_transaction_pct": 15.9,
+          "mtm_return_disclosure_pct": 13.11,
+          "mtm_return_transaction_pct": 23.59,
           "priceable": true
         },
         {
@@ -29921,8 +29921,8 @@
           "purchase_date": "2025-03-20",
           "purchase_disclosure_date": "2025-04-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -18.95,
-          "mtm_return_transaction_pct": -23.68,
+          "mtm_return_disclosure_pct": -14.82,
+          "mtm_return_transaction_pct": -19.79,
           "priceable": true
         },
         {
@@ -29934,8 +29934,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -40.17,
-          "mtm_return_transaction_pct": -37.65,
+          "mtm_return_disclosure_pct": -37.12,
+          "mtm_return_transaction_pct": -34.48,
           "priceable": true
         },
         {
@@ -29947,8 +29947,8 @@
           "purchase_date": "2025-11-20",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -35.13,
-          "mtm_return_transaction_pct": -35.91,
+          "mtm_return_disclosure_pct": -31.83,
+          "mtm_return_transaction_pct": -32.65,
           "priceable": true
         },
         {
@@ -29973,8 +29973,8 @@
           "purchase_date": "2025-07-03",
           "purchase_disclosure_date": "2025-08-13",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 24.88,
-          "mtm_return_transaction_pct": 35.93,
+          "mtm_return_disclosure_pct": 18.33,
+          "mtm_return_transaction_pct": 28.8,
           "priceable": true
         },
         {
@@ -29986,8 +29986,8 @@
           "purchase_date": "2025-10-21",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 20.92,
-          "mtm_return_transaction_pct": 23.78,
+          "mtm_return_disclosure_pct": 14.58,
+          "mtm_return_transaction_pct": 17.28,
           "priceable": true
         },
         {
@@ -29999,8 +29999,8 @@
           "purchase_date": "2025-11-19",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 4.03,
-          "mtm_return_transaction_pct": 17.44,
+          "mtm_return_disclosure_pct": -1.42,
+          "mtm_return_transaction_pct": 11.28,
           "priceable": true
         },
         {
@@ -30012,8 +30012,8 @@
           "purchase_date": "2025-11-10",
           "purchase_disclosure_date": "2025-12-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 49.76,
-          "mtm_return_transaction_pct": 39.66,
+          "mtm_return_disclosure_pct": 48.49,
+          "mtm_return_transaction_pct": 38.47,
           "priceable": true
         },
         {
@@ -30090,8 +30090,8 @@
           "purchase_date": "2025-10-22",
           "purchase_disclosure_date": "2025-11-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 37.77,
-          "mtm_return_transaction_pct": 33.28,
+          "mtm_return_disclosure_pct": 36.1,
+          "mtm_return_transaction_pct": 31.66,
           "priceable": true
         },
         {
@@ -30376,8 +30376,8 @@
           "purchase_date": "2025-05-09",
           "purchase_disclosure_date": "2025-06-04",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 20.25,
-          "mtm_return_transaction_pct": 27.67,
+          "mtm_return_disclosure_pct": 15.9,
+          "mtm_return_transaction_pct": 23.05,
           "priceable": true
         },
         {
@@ -44783,8 +44783,8 @@
           "purchase_date": "2026-04-13",
           "purchase_disclosure_date": "2026-05-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -18.55,
-          "mtm_return_transaction_pct": 14.91,
+          "mtm_return_disclosure_pct": -20.96,
+          "mtm_return_transaction_pct": 11.51,
           "priceable": true
         },
         {
@@ -45537,8 +45537,8 @@
           "purchase_date": "2025-04-21",
           "purchase_disclosure_date": "2025-05-12",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 46.92,
-          "mtm_return_transaction_pct": 80.83,
+          "mtm_return_disclosure_pct": 55.3,
+          "mtm_return_transaction_pct": 91.15,
           "priceable": true
         },
         {
@@ -45615,8 +45615,8 @@
           "purchase_date": "2025-02-10",
           "purchase_disclosure_date": "2025-03-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 36.46,
-          "mtm_return_transaction_pct": 2.85,
+          "mtm_return_disclosure_pct": 29.74,
+          "mtm_return_transaction_pct": -2.21,
           "priceable": true
         },
         {
@@ -45654,8 +45654,8 @@
           "purchase_date": "2025-01-16",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -16.92,
-          "mtm_return_transaction_pct": -34.55,
+          "mtm_return_disclosure_pct": -16.15,
+          "mtm_return_transaction_pct": -33.94,
           "priceable": true
         },
         {
@@ -45680,8 +45680,8 @@
           "purchase_date": "2025-01-27",
           "purchase_disclosure_date": "2025-02-06",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 66.27,
-          "mtm_return_transaction_pct": 63.88,
+          "mtm_return_disclosure_pct": 64.4,
+          "mtm_return_transaction_pct": 62.04,
           "priceable": true
         },
         {
@@ -56488,8 +56488,8 @@
           "purchase_date": "2026-09-18",
           "purchase_disclosure_date": "2026-09-21",
           "cost_basis_usd": 32500.5,
-          "mtm_return_disclosure_pct": -24.18,
-          "mtm_return_transaction_pct": -22.06,
+          "mtm_return_disclosure_pct": -23.0,
+          "mtm_return_transaction_pct": -20.84,
           "priceable": true
         },
         {
@@ -77113,8 +77113,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 53.97,
-          "mtm_return_transaction_pct": 62.87,
+          "mtm_return_disclosure_pct": 54.75,
+          "mtm_return_transaction_pct": 63.69,
           "priceable": true
         },
         {
@@ -77126,8 +77126,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 45.62,
-          "mtm_return_transaction_pct": 50.1,
+          "mtm_return_disclosure_pct": 47.04,
+          "mtm_return_transaction_pct": 51.56,
           "priceable": true
         },
         {
@@ -77152,8 +77152,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 15.34,
-          "mtm_return_transaction_pct": 16.49,
+          "mtm_return_disclosure_pct": 15.24,
+          "mtm_return_transaction_pct": 16.38,
           "priceable": true
         },
         {
@@ -77165,8 +77165,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 29.0,
-          "mtm_return_transaction_pct": 31.07,
+          "mtm_return_disclosure_pct": 29.58,
+          "mtm_return_transaction_pct": 31.66,
           "priceable": true
         },
         {
@@ -77178,8 +77178,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 31.24,
-          "mtm_return_transaction_pct": 34.79,
+          "mtm_return_disclosure_pct": 30.98,
+          "mtm_return_transaction_pct": 34.53,
           "priceable": true
         },
         {
@@ -77191,8 +77191,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 9.05,
-          "mtm_return_transaction_pct": 9.77,
+          "mtm_return_disclosure_pct": 8.8,
+          "mtm_return_transaction_pct": 9.53,
           "priceable": true
         },
         {
@@ -77204,8 +77204,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 10.54,
-          "mtm_return_transaction_pct": 11.74,
+          "mtm_return_disclosure_pct": 10.18,
+          "mtm_return_transaction_pct": 11.37,
           "priceable": true
         },
         {
@@ -77217,8 +77217,8 @@
           "purchase_date": "2023-03-15",
           "purchase_disclosure_date": "2023-04-10",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 43.99,
-          "mtm_return_transaction_pct": 52.52,
+          "mtm_return_disclosure_pct": 44.53,
+          "mtm_return_transaction_pct": 53.09,
           "priceable": true
         }
       ],
@@ -85896,8 +85896,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 3.42,
-          "mtm_return_transaction_pct": 8.69,
+          "mtm_return_disclosure_pct": 3.31,
+          "mtm_return_transaction_pct": 8.57,
           "priceable": true
         },
         {
@@ -85909,8 +85909,8 @@
           "purchase_date": "2026-08-26",
           "purchase_disclosure_date": "2026-09-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -3.44,
-          "mtm_return_transaction_pct": -3.84,
+          "mtm_return_disclosure_pct": -3.55,
+          "mtm_return_transaction_pct": -3.95,
           "priceable": true
         },
         {
@@ -86312,8 +86312,8 @@
           "purchase_date": "2024-08-07",
           "purchase_disclosure_date": "2025-05-19",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 2.52,
-          "mtm_return_transaction_pct": 3.97,
+          "mtm_return_disclosure_pct": 2.18,
+          "mtm_return_transaction_pct": 3.64,
           "priceable": true
         },
         {
@@ -86873,8 +86873,8 @@
           "purchase_date": "2025-12-26",
           "purchase_disclosure_date": "2026-01-21",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -11.18,
-          "mtm_return_transaction_pct": -14.09,
+          "mtm_return_disclosure_pct": -9.78,
+          "mtm_return_transaction_pct": -12.74,
           "priceable": true
         },
         {
@@ -90214,8 +90214,8 @@
           "purchase_date": "2026-05-07",
           "purchase_disclosure_date": "2026-05-08",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": 0.0,
-          "mtm_return_transaction_pct": -0.83,
+          "mtm_return_disclosure_pct": 1.79,
+          "mtm_return_transaction_pct": 0.95,
           "priceable": true
         },
         {
@@ -94237,8 +94237,8 @@
           "purchase_date": "2024-10-29",
           "purchase_disclosure_date": "2025-09-11",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -2.62,
-          "mtm_return_transaction_pct": -24.77,
+          "mtm_return_disclosure_pct": 1.46,
+          "mtm_return_transaction_pct": -21.61,
           "priceable": true
         },
         {
