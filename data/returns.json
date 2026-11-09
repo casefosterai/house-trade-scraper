@@ -2,10 +2,10 @@
   "generated_at": "2026-11-09",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 10083,
+    "trade_records": 10085,
     "closed_positions": 2017,
     "open_positions": 2629,
-    "unmatched_sales": 2388,
+    "unmatched_sales": 2390,
     "skipped": {
       "professionally_managed": 281,
       "options_not_supported": 50,
@@ -41690,7 +41690,7 @@
       "open_position_count": 14,
       "open_priceable_count": 14,
       "open_total_cost_basis_usd": 112007.0,
-      "unmatched_sale_count": 4,
+      "unmatched_sale_count": 5,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -41914,6 +41914,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "WDC",
+          "asset_description": "Western Digital Corporation - Common Stock (WDC) [ST]",
+          "owner": "SP",
+          "subholding_of": "Merrill Lynch SEP IRA",
+          "sale_trade_id": "20035775-0",
+          "sale_date": "2026-10-15",
+          "sale_disclosure_date": "2026-11-04",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "AVGO",
           "asset_description": "Broadcom Inc. - Common Stock (AVGO) [ST]",
@@ -75466,7 +75476,7 @@
       "open_position_count": 11,
       "open_priceable_count": 11,
       "open_total_cost_basis_usd": 16300006.0,
-      "unmatched_sale_count": 4,
+      "unmatched_sale_count": 5,
       "untracked_tickers": [],
       "excluded_by_reason": {
         "options_not_supported": 14
@@ -75618,6 +75628,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "WBD",
+          "asset_description": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20035780-0",
+          "sale_date": "2026-10-07",
+          "sale_disclosure_date": "2026-10-07",
+          "proceeds_usd": 75000.5
+        },
         {
           "ticker": "PYPL",
           "asset_description": "PayPal Holdings, Inc. - Common Stock (PYPL) [ST]",
