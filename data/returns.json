@@ -2,10 +2,10 @@
   "generated_at": "2026-11-19",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 10197,
+    "trade_records": 10207,
     "closed_positions": 2055,
-    "open_positions": 2639,
-    "unmatched_sales": 2399,
+    "open_positions": 2640,
+    "unmatched_sales": 2407,
     "skipped": {
       "professionally_managed": 281,
       "options_not_supported": 50,
@@ -75716,11 +75716,11 @@
       "closed_trade_count": 5,
       "closed_priceable_count": 5,
       "closed_total_cost_basis_usd": 40002.0,
-      "open_mtm_return_disclosure_pct": -14.05,
-      "open_position_count": 11,
-      "open_priceable_count": 11,
-      "open_total_cost_basis_usd": 88006.0,
-      "unmatched_sale_count": 18,
+      "open_mtm_return_disclosure_pct": NaN,
+      "open_position_count": 12,
+      "open_priceable_count": 12,
+      "open_total_cost_basis_usd": 96006.0,
+      "unmatched_sale_count": 20,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [
@@ -75811,6 +75811,19 @@
         }
       ],
       "open_positions": [
+        {
+          "ticker": "MSFT",
+          "asset_description": "Microsoft Corporation - Common Stock (MSFT) [ST]",
+          "owner": "",
+          "subholding_of": "Merrill Lynch SIMPLE Managed Account",
+          "purchase_trade_id": "20036855-2",
+          "purchase_date": "2026-11-04",
+          "purchase_disclosure_date": "2026-11-04",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": NaN,
+          "priceable": true
+        },
         {
           "ticker": "GS",
           "asset_description": "Goldman Sachs Group, Inc. (GS) [ST]",
@@ -75956,6 +75969,26 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "LLY",
+          "asset_description": "Eli Lilly and Company Common Stock (LLY) [ST]",
+          "owner": "",
+          "subholding_of": "Merrill Lynch SIMPLE Managed Account",
+          "sale_trade_id": "20036855-1",
+          "sale_date": "2026-11-04",
+          "sale_disclosure_date": "2026-11-04",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "GOOGL",
+          "asset_description": "Alphabet Inc. - Class A Common Stock (GOOGL) [ST]",
+          "owner": "",
+          "subholding_of": "Merrill Lynch SIMPLE Managed Account",
+          "sale_trade_id": "20036855-0",
+          "sale_date": "2026-11-04",
+          "sale_disclosure_date": "2026-11-04",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "WSBC",
           "asset_description": "WesBanco, Inc. - Common Stock (WSBC) [ST]",
@@ -87874,7 +87907,7 @@
       "open_position_count": 2,
       "open_priceable_count": 2,
       "open_total_cost_basis_usd": 16001.0,
-      "unmatched_sale_count": 6,
+      "unmatched_sale_count": 7,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -87907,6 +87940,16 @@
         }
       ],
       "unmatched_sales": [
+        {
+          "ticker": "WBD",
+          "asset_description": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+          "owner": "",
+          "subholding_of": "Stephens Advantage Account",
+          "sale_trade_id": "20036849-0",
+          "sale_date": "2026-10-07",
+          "sale_disclosure_date": "2026-11-16",
+          "proceeds_usd": 8000.5
+        },
         {
           "ticker": "FLR",
           "asset_description": "Fluor Corporation Common Stock (FLR) [ST]",
@@ -88195,7 +88238,7 @@
       "open_position_count": 2,
       "open_priceable_count": 2,
       "open_total_cost_basis_usd": 16001.0,
-      "unmatched_sale_count": 2,
+      "unmatched_sale_count": 3,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -88239,6 +88282,16 @@
           "proceeds_usd": 32500.5
         },
         {
+          "ticker": "TPR",
+          "asset_description": "Tapestry, Inc. Common Stock (TPR) [ST]",
+          "owner": "",
+          "subholding_of": null,
+          "sale_trade_id": "20036864-0",
+          "sale_date": "2026-11-05",
+          "sale_disclosure_date": "2026-11-06",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "GEHC",
           "asset_description": "GE HealthCare Technologies Inc. - Common Stock (GEHC) [ST]",
           "owner": "",
@@ -88267,7 +88320,7 @@
       "open_position_count": 49,
       "open_priceable_count": 48,
       "open_total_cost_basis_usd": 392523.0,
-      "unmatched_sale_count": 31,
+      "unmatched_sale_count": 35,
       "untracked_tickers": [
         "FI"
       ],
@@ -89152,6 +89205,16 @@
           "proceeds_usd": 8000.5
         },
         {
+          "ticker": "SYK",
+          "asset_description": "Stryker Corporation Common Stock (SYK) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20036844-1",
+          "sale_date": "2026-10-27",
+          "sale_disclosure_date": "2026-11-12",
+          "proceeds_usd": 8000.5
+        },
+        {
           "ticker": "JNJ",
           "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
           "owner": "",
@@ -89199,6 +89262,36 @@
           "sale_trade_id": "20035591-2",
           "sale_date": "2026-09-30",
           "sale_disclosure_date": "2026-10-07",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "JNJ",
+          "asset_description": "Johnson & Johnson Common Stock (JNJ) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20036844-0",
+          "sale_date": "2026-10-27",
+          "sale_disclosure_date": "2026-11-12",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "WBD",
+          "asset_description": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "sale_trade_id": "20036844-4",
+          "sale_date": "2026-10-07",
+          "sale_disclosure_date": "2026-10-22",
+          "proceeds_usd": 8000.5
+        },
+        {
+          "ticker": "WBD",
+          "asset_description": "Warner Bros. Discovery, Inc. - Series A Common Stock (WBD) [ST]",
+          "owner": "",
+          "subholding_of": "State Street Bank & Trust Co.",
+          "sale_trade_id": "20036844-3",
+          "sale_date": "2026-10-07",
+          "sale_disclosure_date": "2026-10-22",
           "proceeds_usd": 8000.5
         },
         {
