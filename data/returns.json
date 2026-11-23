@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22",
+  "generated_at": "2026-11-23",
   "min_closed_for_leaderboard": 5,
   "totals": {
     "trade_records": 10207,
@@ -18335,8 +18335,8 @@
       "closed_total_cost_basis_usd": 2102612.0,
       "open_mtm_return_disclosure_pct": NaN,
       "open_position_count": 687,
-      "open_priceable_count": 667,
-      "open_total_cost_basis_usd": 7087336.0,
+      "open_priceable_count": 665,
+      "open_total_cost_basis_usd": 7071334.0,
       "unmatched_sale_count": 195,
       "untracked_tickers": [
         "AZSEY",
@@ -18363,6 +18363,7 @@
         "RNMBF",
         "SQ",
         "SWTX",
+        "TCBI",
         "THR",
         "WBD"
       ],
@@ -26868,9 +26869,9 @@
           "purchase_date": "2026-05-29",
           "purchase_disclosure_date": "2026-06-05",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -6.3,
-          "mtm_return_transaction_pct": -4.04,
-          "priceable": true
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
         },
         {
           "ticker": "TCBI",
@@ -26881,9 +26882,9 @@
           "purchase_date": "2026-06-30",
           "purchase_disclosure_date": "2026-07-02",
           "cost_basis_usd": 8000.5,
-          "mtm_return_disclosure_pct": -8.86,
-          "mtm_return_transaction_pct": -7.24,
-          "priceable": true
+          "mtm_return_disclosure_pct": null,
+          "mtm_return_transaction_pct": null,
+          "priceable": false
         },
         {
           "ticker": "TEL",
