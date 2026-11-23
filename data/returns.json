@@ -2,10 +2,10 @@
   "generated_at": "2026-11-23",
   "min_closed_for_leaderboard": 5,
   "totals": {
-    "trade_records": 10207,
+    "trade_records": 10209,
     "closed_positions": 2055,
-    "open_positions": 2640,
-    "unmatched_sales": 2407,
+    "open_positions": 2641,
+    "unmatched_sales": 2408,
     "skipped": {
       "professionally_managed": 281,
       "options_not_supported": 50,
@@ -17513,9 +17513,9 @@
       "closed_priceable_count": 0,
       "closed_total_cost_basis_usd": 0,
       "open_mtm_return_disclosure_pct": NaN,
-      "open_position_count": 10,
-      "open_priceable_count": 10,
-      "open_total_cost_basis_usd": 80005.0,
+      "open_position_count": 11,
+      "open_priceable_count": 11,
+      "open_total_cost_basis_usd": 88006.0,
       "unmatched_sale_count": 1,
       "untracked_tickers": [],
       "excluded_by_reason": {},
@@ -17649,6 +17649,19 @@
           "cost_basis_usd": 8000.5,
           "mtm_return_disclosure_pct": NaN,
           "mtm_return_transaction_pct": 13.34,
+          "priceable": true
+        },
+        {
+          "ticker": "AAPL",
+          "asset_description": "Apple Inc. - Common Stock (AAPL) [ST]",
+          "owner": "SP",
+          "subholding_of": null,
+          "purchase_trade_id": "20036891-0",
+          "purchase_date": "2026-11-16",
+          "purchase_disclosure_date": "2026-11-21",
+          "cost_basis_usd": 8000.5,
+          "mtm_return_disclosure_pct": NaN,
+          "mtm_return_transaction_pct": -3.85,
           "priceable": true
         }
       ],
@@ -42444,7 +42457,7 @@
       "open_position_count": 0,
       "open_priceable_count": 0,
       "open_total_cost_basis_usd": 0,
-      "unmatched_sale_count": 1,
+      "unmatched_sale_count": 2,
       "untracked_tickers": [],
       "excluded_by_reason": {},
       "closed_positions": [],
@@ -42459,6 +42472,16 @@
           "sale_date": "2026-04-07",
           "sale_disclosure_date": "2026-04-07",
           "proceeds_usd": 175000.5
+        },
+        {
+          "ticker": "VZ",
+          "asset_description": "Verizon Communications Inc. Common Stock (VZ) [ST]",
+          "owner": "",
+          "subholding_of": "Fidelity Investment Account",
+          "sale_trade_id": "20036883-0",
+          "sale_date": "2026-11-19",
+          "sale_disclosure_date": "2026-11-19",
+          "proceeds_usd": 75000.5
         }
       ]
     },
